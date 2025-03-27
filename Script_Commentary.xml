@@ -1,13 +1,17 @@
 <?xml version="1.0" ?>
 <text>
   <group id="SCRT_1101">
-    <script/>
-    <div id="COMT_1101" target_Concept=" " person_ID="PESN_1101">此爲書之首篇 故 所記多務本之意 乃入道之門 積德之基 學者之先務也 凡十六章</div>
-    <div id="COMT_1102" quote_ID="QUOT_1101" person_ID="PESN_1102">凡十六章 邢云旣以學爲章首 遂以名篇 </div>
-    <div id="COMT_1103" person_ID="PESN_1103">孔子未免身為匹夫五而知天命然後脩先王之 傳諸人以儒自處以好學自稱其恒言曰學而不 厭誨人不倦如學而時習之亦以勸人是雖未足以 畫聖人亦足以槃孔子故以居首嵬輯者之意也荀 子首勤學蓋木諸</div>
+        <script/>
+    <div id="COMT_1101" target_Concept="序" person_ID="PESN_1101">此爲書之首篇 故 所記多務本之意 乃入道之門 積德之基 學者之先務也 凡十六章</div>
+    <div id="COMT_1102" target_Concept="序" quote_ID="QUOT_1101" person_ID="PESN_1102">凡十六章 邢云旣以學爲章首 遂以名篇 </div>
+    <div id="COMT_1103" target_Concept="序" person_ID="PESN_1103">孔子未免身為匹夫五而知天命然後脩先王之 傳諸人以儒自處以好學自稱其恒言曰學而不 厭誨人不倦如學而時習之亦以勸人是雖未足以 畫聖人亦足以槃孔子故以居首嵬輯者之意也荀 子首勤學蓋木諸</div>
   </group>
-  <group id="SCRT_1102">
-    <script>子曰 學而時習之 不亦說乎 有朋 自遠方來 不亦樂乎 人不知而不慍 不亦君子乎</script>
+  
+  <-- person_ID: 주희(PESN_1101), 정약용(PESN_1101), 오규소라이(PESN_1101) -->
+    
+  <group id="SCRT_1102" script_chapter="學而_01">
+        <script script_title="學而時習之" script_speaker="子曰">子曰 學而時習之 不亦說乎 有朋 自遠方來 不亦樂乎 人不知而不慍 不亦君子乎</script>
+    
     <div id="COMT_1104" target_Concept="學" person_ID="PESN_1101">學之爲言 效也 人性皆善 而覺有先後 後覺者必效先覺之所爲 乃可以明善而復其初也 </div>
     <div id="COMT_1104" person_ID="PESN_1101">愚謂及人而樂者 順而易 不知而不慍者 逆而難 故 惟成德者能之 然 德之所以成 亦由學之正, 習之熟, 說之深而不已焉耳</div>
     <div id="COMT_1105" target_Concept="子" quote_ID="QUOT_1108" person_ID="PESN_1102">邢曰稱師曰子_公羊傳曰子沈子 何休云稱子冠氏上者 著其爲師也_直言子曰者 以其聖德著聞 師範來世 不須言其氏 人盡知之也</div>
@@ -27,8 +31,9 @@
     <div id="COMT_1105" person_ID="PESN_1102">駁曰非也。此章乃成己成物之全體。首節成己之事也。旣成己矣。人知之而從我則樂。人不知之而不宗我則不慍。明成物之權。不在己也。邢氏鈍根之說。豈足述乎</div>
     <div id="COMT_1106" target_Concept="子" quote_ID="QUOT_1134" person_ID="PESN_1103">子為男子美稱 亦為大夫之稱 古者天子世嗣 諸侯世嗣 大夫不世爵 士不世官 </div>
   </group>
+    
   <group id="nan">
-    <script/>
+        <script/>
     <div id="nan" target_Concept="習" person_ID="PESN_1101">習 鳥數飛也 學之不已 如鳥數飛也 說 喜意也 旣學而又時時習之 則所學者熟而中心喜說 其進 自不能已矣 </div>
     <div id="nan" target_Concept="說" person_ID="PESN_1101">說 喜意也 旣學而又時時習之 則所學者熟而中心喜說 其進 自不能已矣 </div>
     <div id="nan" target_Concept="習" quote_ID="QUOT_1102" person_ID="PESN_1101">程子曰 習 重習也 時復思繹 浹洽於中 則說也 又曰 學者 將以行之也 時習之 則所學者在我 故 悅 </div>
