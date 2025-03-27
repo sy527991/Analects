@@ -1,7 +1,7 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <text>
 
-  <--person_ID: 주희(PESN_1101), 정약용(PESN_1102), 오규 소라이(PESN_1103) -->
+ <!--person_ID: 주희(PESN_1101), 정약용(PESN_1102), 오규 소라이(PESN_1103) -->
   
 <group id="SCRT_1101" script_chapter="序">
   <script script_title="學而第一" script_speaker="NULL"/>
