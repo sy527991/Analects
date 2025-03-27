@@ -1,4 +1,4 @@
-<b>시맨틱 데이터베이스와 동아시아 논어 주석 XML 설계</b><br/>
+<b align="center">시맨틱 데이터베이스와 동아시아 논어 주석 XML 설계</b><br/>
 Semantic Database Design for East Asian Analects Commentaries<br/>
 
 [개념어보기](https://dh.aks.ac.kr/~kimseoyun/101/viewer.html)
