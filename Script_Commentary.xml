@@ -4,7 +4,7 @@
   <--person_ID: 주희(PESN_1101), 정약용(PESN_1102), 오규 소라이(PESN_1103) -->
   
 <group id="SCRT_1101" script_chapter="序">
-  <script script_title="學而第一" script_speaker=""/>
+  <script script_title="學而第一" script_speaker="NULL"/>
    <div id="COMT_1101" target_Concept=" " person_ID="PESN_1101">
      <p>此爲書之首篇 故 所記多務本之意 乃入道之門 積德之基 學者之先務也 凡十六章</p>
    </div>
