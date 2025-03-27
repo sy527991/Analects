@@ -14,4 +14,3 @@ https://docs.google.com/spreadsheets/d/1wUHv-DqDE-1Jj41ikoeoNrq6RF9xoQoQBjv9W2FE
 Script 시트는 <group> <br/>
 Commentary 시트틑 <div>
 각 행의 <div> 안에 COMT_ID, target_concept, quote_ID 등이 속성으로 들어감<br/>
-[20250329_논어주석DATA - Script.csv](https://github.com/user-attachments/files/19487090/20250329_.DATA.-.Script.csv)
