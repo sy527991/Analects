@@ -8,7 +8,7 @@ Quotation:<br/>
 Person:<br/>
 Book:<br/>
 [데이터링크](https://docs.google.com/spreadsheets/d/1wUHv-DqDE-1Jj41ikoeoNrq6RF9xoQoQBjv9W2FEZO8/edit?gid=0#gid=0)<br/>
-[개념어보기](https://dh.aks.ac.kr/~kimseoyun/101/concept_viewer.html)
+[개념어보기](https://dh.aks.ac.kr/~kimseoyun/101/viewer.html)
 
 
 -TEI 준수-<br/>
