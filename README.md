@@ -13,7 +13,7 @@ https://docs.google.com/spreadsheets/d/1wUHv-DqDE-1Jj41ikoeoNrq6RF9xoQoQBjv9W2FE
 루트 엘리먼트(최상위요소): text <br/>
 
 주석자 정보: person_ID:  <br/>
-주희(PESN_1101), 정약용(PESN_1102), 오규 소라이(PESN_1103)<br/>
+- 주희(PESN_1101), 정약용(PESN_1102), 오규 소라이(PESN_1103)<br/>
 
 경문 그룹: group <br/>
 group id="SCRT_1102" script_chapter="學而_01"<br/>
@@ -25,8 +25,8 @@ script script_title="學而時習之" script_speaker="子曰"<br/>
 
 주석 블록: div<br/>
 div id="COMT_1104" person_ID="PESN_1101"<br/>
-id: 코멘트 블록 ID<br/>
-person_ID: 이 코멘트를 단 인물의 ID<br/>
+- id: 코멘트 블록 ID<br/>
+- person_ID: 이 코멘트를 단 인물의 ID<br/>
 
 단일 주석: p<br/>
 p target_Concept="學" quote_ID="QUOT_1105" mentioned="PESN_1107"  <br/>
