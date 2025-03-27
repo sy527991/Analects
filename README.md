@@ -8,8 +8,7 @@ Quotation:<br/>
 Person:<br/>
 Book:<br/>
 [데이터링크](https://docs.google.com/spreadsheets/d/1wUHv-DqDE-1Jj41ikoeoNrq6RF9xoQoQBjv9W2FEZO8/edit?gid=0#gid=0)<br/>
-
-[개념어보기](https://dh.aks.ac.kr/~kimseoyun/101/lunyu_final_output.html)
+[개념어보기](https://dh.aks.ac.kr/~kimseoyun/101/lunyu_interactive_viewer.html)
 
 -TEI 준수-<br/>
 루트 엘리먼트(최상위요소): text <br/>
