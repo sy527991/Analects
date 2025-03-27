@@ -10,7 +10,10 @@ Book:<br/>
 https://docs.google.com/spreadsheets/d/1wUHv-DqDE-1Jj41ikoeoNrq6RF9xoQoQBjv9W2FEZO8/edit?gid=0#gid=0<br/>
 
 -TEI 준수-<br/>
-루트 엘리먼트: <text> <br/>
-Script 시트는 <group> <br/>
-Commentary 시트틑 <div>
-각 행의 <div> 안에 COMT_ID, target_concept, quote_ID 등이 속성으로 들어감<br/>
+루트 엘리먼트(최상위요소) <br/>
+<text>
+  ...
+</text>
+
+주석자 정보 <br/>
+<!--person_ID: 주희(PESN_1101), 정약용(PESN_1102), 오규 소라이(PESN_1103)-->
