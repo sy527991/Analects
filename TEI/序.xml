@@ -19,9 +19,19 @@
           <persName>유자(有子)</persName>
           </person>
         </listPerson>
+        <taxonomy>
+         <category xml:id="authorial">
+         <catDesc>주석자의 자의적 판단</catDesc>
+         </category>
+         <category xml:id="supplement">
+         <catDesc>주석자의 보충해석</catDesc>
+         </category>
+        </taxonomy>
       </particDesc>
     </profileDesc>
   </teiHeader>
+
+ 
 
   <text>
     <body>
@@ -64,14 +74,14 @@
         <p xml:id="COMT_1111C" ana="慍">慍 含怒意 君子 成德之名 </p>
         <p xml:id="COMT_1112C" ana="學"> <ref target="#PESN_1107">尹氏曰</ref> 學 在己 知不知 在人 何慍之有 </p>
         <p xml:id="COMT_1113C" ana="君子"> <ref target="#PESN_1105">程子曰</ref> 雖樂於及人 不見是而無悶 乃所謂君子 </p>
-        <p xml:id="COMT_1114C"> <anchor>愚謂</anchor>及人而樂者 順而易 不知而不慍者 逆而難 故 惟成德者能之 然 德之所以成 亦由學之正, 習之熟, 說之深而不已焉耳</p>
+        <p xml:id="COMT_1114C"> <said who="#PESN_1101" ana="#authorial">愚謂</said>及人而樂者 順而易 不知而不慍者 逆而難 故 惟成德者能之 然 德之所以成 亦由學之正, 習之熟, 說之深而不已焉耳</p>
         <p xml:id="COMT_1115C" ana="樂"> <ref target="#PESN_1105">程子曰</ref> 樂 由說而後得 非樂 不足以語君子</p>
       </group>
         
       <group type="commentary" resp="#PESN_1102">
         <p xml:id="COMT_1116K" ana="子"> <ref target="#PESN_1104">邢曰</ref>稱師曰子_公羊傳曰</ref>子沈子 何休云稱子冠氏上者 著其爲師也_直言子曰者 以其聖德著聞 師範來世 不須言其氏 人盡知之也</p>
         <p xml:id="COMT_1117K" ana="子"> <ref target="#PESN_1103">荻云</ref>孔門稱夫子曰子者 內辭也 如春秋</ref>稱魯君曰公</p>
-        <p xml:id="COMT_1118K" ana="學"> <anchor>補曰</anchor> 學 受敎也 </p>
+        <p xml:id="COMT_1118K" ana="學"> <said who="#PESN_1102" ana="#supplement">補曰</said> 學 受敎也 </p>
         <p xml:id="COMT_1119K" ana="習">習 肄業也</p>
         <p xml:id="COMT_1120K" ana="時習">時習 以時習之也 </p>
         <p xml:id="COMT_1121K" ana="說">說 心快也</p>
