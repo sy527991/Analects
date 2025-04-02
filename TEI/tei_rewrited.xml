@@ -87,7 +87,7 @@
         </group>
       </div>
 
-      <div type="script" n="學而_01" xml:id="#SCRT_1102" who="#KZ">子曰 學而時習之 不亦說乎 有朋 自遠方來 不亦樂乎 人不知而不慍 不亦君子乎</sp>
+      <div type="script" n="學而_01" xml:id="SCRT_1102" who="#KZ">子曰 學而時習之 不亦說乎 有朋 自遠方來 不亦樂乎 人不知而不慍 不亦君子乎</sp>
           <p type="translation" xml:lang="ko" corresp="#SCRT_1102">子께서 말씀하셨다. “배우고서 때에 따라 익히면 또한 기쁘지 않으랴? 
             벗이 먼 곳에서 오면 또한 즐겁지 않으랴? 사람들이 알지 못하여도 성내지 않으면 또한 군자가 아니랴?”</p>
    
