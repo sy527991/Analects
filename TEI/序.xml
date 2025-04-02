@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="PESN_1101">
+            <persName>주희</persName>
+          </person>
+          <person xml:id="PESN_1102">
+            <persName>정약용</persName>
+          </person>
+          <person xml:id="PESN_1103">
+            <persName>오규 소라이</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div type="chapter" n="序">
+        <head>學而第一</head>
+
+        <group xml:id="SCRT_1101" resp="#PESN_1101">
+          <p xml:id="COMT_1101">此爲書之首篇 故 所記多務本之意 乃入道之門 積德之基 學者之先務也 凡十六章</p>
+          <p type="translation" corresp="#COMT_1101">이 책의 첫 편이므로 근본에 많이 힘써야 한다는 의미를 기록하였으니, 
+                도에 들어가는 문이 되고, 덕을 쌓는 것의 기틀이 되니, 배우는 자들은 먼저 힘써야 한다. 모두 16장이다.</p>
+        </group>
+
+        <group xml:id="SCRT_1101" resp="#PESN_1102">
+          <p xml:id="COMT_1102">凡十六章 邢云旣以學爲章首 遂以名篇</p>
+          <p type="translation" corresp="#COMT_1102">모두 16장으로, 형병은 學으로 첫 장을 삼았기 때문에 편명이 된 것이라고 말했다. </p>
+        </group>
+
+        <group xml:id="SCRT_1101" resp="#PESN_1103">
+          <p xml:id="COMT_1103">孔子未免身為匹夫五而知天命然後脩先王之 傳諸人以儒自處以好學自稱其恒言曰學而不 
+           厭誨人不倦如學而時習之亦以勸人是雖未足以 畫聖人亦足以槃孔子故以居首嵬輯者之意也 荀子首勤學蓋木諸</p>
+          <p type="translation" corresp="#COMT_1103">공자의 신분은 필부를 벗어나지 못했고, 
+            나이 오십이 되어 천명을 안 다음에야 선왕의 도를 닦아 사람들에게 전했으며, 유자라고 자처하면서 학문을 좋아한다고 스스로를 칭하였다.
+            항상 말하기를 "배우면서 싫증내지 않고 남을 가르치기를 게을리하지 않는다."라고 했는데, 예를 들어 "배우고서 때에 맞추어 익힌다"는 것은 사람들에게도 권하는 것으로, 비록 성인을 다 표현하기에는 부족하지만 충분히 공자를 개괄할 수 있다.
+            그러므로 맨 처음에 놓인 것은 수집한 사람의 뜻이다. 순자의 맨 앞장이 권학편인 것 역시 이를 따른 것이다.</p>
+        </group>
+
+      </div>
+    </body>
+  </text>
+</TEI>
