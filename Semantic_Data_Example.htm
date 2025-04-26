@@ -1,0 +1,712 @@
+﻿<!--Simple Ontology Visualization, Center for DH at AKS-->
+<html>
+<head>
+	<title>Simple Ontology Visualization</title>
+	<meta charset='UTF-8'/>
+	<meta property='og:title' content='Simple Ontology Visualization'/>
+	<meta property='og:image' content='https://public.aks.ac.kr/Graph/img/makeGraph2.jpg'/>
+	<meta name='description' content='vis.js Network API Script'/>
+	<script type='text/javascript' src='https://public.aks.ac.kr/Graph/vis-network.min.js'></script>
+	<style type='text/css'>
+		#mynetwork {
+			border: 1px solid lightgray;
+			width:100%;
+			height: 90%;
+		}
+	</style>
+
+	<script type='text/javascript'>
+	
+	var nodesArray = [], edgesArray = [];
+	var network = null;
+
+	function destroy() {
+		if (network !== null) {
+			network.destroy();
+			network = null;
+			nodesArray = [];
+			edgesArray = [];		
+		} 
+	}	
+
+	function draw() {
+
+		destroy();
+
+		nodesArray.push({
+			id: '朱熹',
+			label: '朱熹',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/주희.PNG',
+		});
+
+		nodesArray.push({
+			id: '丁若鏞',
+			label: '丁若鏞',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/정약용.PNG',
+		});
+
+		nodesArray.push({
+			id: '荻生徂徠',
+			label: '荻生徂徠',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/오규소라이.PNG',
+		});
+
+		nodesArray.push({
+			id: '慍',
+			label: '慍',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/emoticon.png',
+		});
+
+		nodesArray.push({
+			id: '君子',
+			label: '君子',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/emoticon2.png',
+		});
+
+		nodesArray.push({
+			id: '含怒意',
+			label: '含怒意',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '成德之名',
+			label: '成德之名',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '心有所蘊結',
+			label: '心有所蘊結',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '有德之稱',
+			label: '有德之稱',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '心有所怫鬱',
+			label: '心有所怫鬱',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '治民者之稱',
+			label: '治民者之稱',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '尹焞',
+			label: '尹焞',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/confu.png',
+		});
+
+		nodesArray.push({
+			id: '程頤',
+			label: '程頤',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/confu.png',
+		});
+
+		nodesArray.push({
+			id: '鄭玄',
+			label: '鄭玄',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/confu.png',
+		});
+
+		nodesArray.push({
+			id: '詩_檜風',
+			label: '詩 檜風',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/bookopen.png',
+		});
+
+		nodesArray.push({
+			id: '易_文言',
+			label: '易 文言',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/bookopen.png',
+		});
+
+		nodesArray.push({
+			id: '禮記_玉藻注',
+			label: '禮記 玉藻注',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/bookopen.png',
+		});
+
+		nodesArray.push({
+			id: '禮記_少儀注',
+			label: '禮記 少儀注',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/bookopen.png',
+		});
+
+		nodesArray.push({
+			id: '孟子_滕文公上',
+			label: '孟子 滕文公上',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/bookopen.png',
+		});
+
+		nodesArray.push({
+			id: '論語集注_學而',
+			label: '論語集注 學而',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/bookopen.png',
+		});
+
+		nodesArray.push({
+			id: '中庸_11章',
+			label: '中庸 11章',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/bookopen.png',
+		});
+
+		nodesArray.push({
+			id: '論語_述而',
+			label: '論語 述而',
+			shape: 'image',
+			image: 'https://dh.aks.ac.kr/~kimseoyun/icon/bookopen.png',
+		});
+
+		nodesArray.push({
+			id: '學在己_知不知在人_何慍之有',
+			label: '學在己 知不知在人 何慍之有',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '雖樂於及人_不見是而無悶_乃所謂君子',
+			label: '雖樂於及人 不見是而無悶 乃所謂君子',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '樂由說而後得_非樂不足以語君子',
+			label: '樂由說而後得 非樂不足以語君子',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '我心蘊結兮',
+			label: '我心蘊結兮',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '不見是而无悶',
+			label: '不見是而无悶',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '君子_大夫士',
+			label: '君子 大夫士',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '君子_士已上',
+			label: '君子 士已上',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '君子_卿大夫',
+			label: '君子 卿大夫',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '非野人_莫養君子',
+			label: '非野人 莫養君子',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '不必訓怒',
+			label: '不必訓怒',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '遯世不見知而不悔',
+			label: '遯世不見知而不悔',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '龍德而隱者也',
+			label: '龍德而隱者也',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '𤼵憤忘食_樂以忘憂_不知老之將至',
+			label: '𤼵憤忘食 樂以忘憂 不知老之將至',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '學而不厭_誨人不倦',
+			label: '學而不厭 誨人不倦',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		nodesArray.push({
+			id: '富貴於我如浮雲',
+			label: '富貴於我如浮雲',
+			shape: 'ellipse',
+			color: {background: 'white',
+				border: 'navy'
+				},
+		});
+
+		edgesArray.push({
+			from: '朱熹',
+			to: '含怒意',
+			label: 'explain',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '含怒意',
+			to: '慍',
+			label: 'targetConcept',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '含怒意',
+			to: '尹焞',
+			label: 'quoted',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '尹焞',
+			to: '學在己_知不知在人_何慍之有',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '朱熹',
+			to: '成德之名',
+			label: 'explain',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '成德之名',
+			to: '君子',
+			label: 'targetConcept',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '成德之名',
+			to: '程頤',
+			label: 'quoted',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '程頤',
+			to: '雖樂於及人_不見是而無悶_乃所謂君子',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '程頤',
+			to: '樂由說而後得_非樂不足以語君子',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '丁若鏞',
+			to: '心有所蘊結',
+			label: 'explain',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '心有所蘊結',
+			to: '慍',
+			label: 'targetConcept',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '心有所蘊結',
+			to: '詩_檜風',
+			label: 'quoted',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '詩_檜風',
+			to: '我心蘊結兮',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '心有所蘊結',
+			to: '易_文言',
+			label: 'quoted',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '易_文言',
+			to: '不見是而无悶',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '丁若鏞',
+			to: '有德之稱',
+			label: 'explain',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '有德之稱',
+			to: '君子',
+			label: 'targetConcept',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '有德之稱',
+			to: '鄭玄',
+			label: 'quoted',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '鄭玄',
+			to: '禮記_玉藻注',
+			label: 'hasBook',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '禮記_玉藻注',
+			to: '君子_士已上',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '禮記_玉藻注',
+			to: '君子_大夫士',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '鄭玄',
+			to: '禮記_少儀注',
+			label: 'hasBook',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '禮記_少儀注',
+			to: '君子_卿大夫',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '有德之稱',
+			to: '孟子_滕文公上',
+			label: 'quoted',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '孟子_滕文公上',
+			to: '非野人_莫養君子',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '荻生徂徠',
+			to: '心有所怫鬱',
+			label: 'explain',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '心有所怫鬱',
+			to: '慍',
+			label: 'targetConcept',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '論語集注_學而',
+			to: '荻生徂徠',
+			label: 'quoted',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '論語集注_學而',
+			to: '含怒意',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '論語集注_學而',
+			to: '不必訓怒',
+			label: 'negative',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '荻生徂徠',
+			to: '論語集注_學而',
+			label: 'negative',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '心有所怫鬱',
+			to: '中庸_11章',
+			label: 'quoted',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '中庸_11章',
+			to: '遯世不見知而不悔',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '心有所怫鬱',
+			to: '易_文言',
+			label: 'quoted',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '易_文言',
+			to: '龍德而隱者也',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '荻生徂徠',
+			to: '治民者之稱',
+			label: 'explain',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '治民者之稱',
+			to: '君子',
+			label: 'targetConcept',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '治民者之稱',
+			to: '論語_述而',
+			label: 'quoted',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '論語_述而',
+			to: '𤼵憤忘食_樂以忘憂_不知老之將至',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '論語_述而',
+			to: '學而不厭_誨人不倦',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		edgesArray.push({
+			from: '論語_述而',
+			to: '富貴於我如浮雲',
+			label: 'said',
+			arrows: 'to',
+		});
+
+		var nodes = new vis.DataSet(nodesArray);
+		var edges = new vis.DataSet(edgesArray);
+		
+		// create a network
+		var container = document.getElementById('mynetwork');
+		var data = { nodes: nodes, edges: edges };
+		
+		var options = {
+			nodes: { size: 30, margin: 5,
+				color: { background: 'white',
+					highlight: { border: 'gold', background: '#D2E5FF' },
+					hover: { border: 'gold', background: '#D2E5FF' },
+				},
+				font: { face: '함초롬바탕', color: 'black', size: 15 },
+				labelHighlightBold: true,
+				shadow: false
+			},
+
+			edges: { length: 300, width: 1,
+				color: { color: 'lightgray', highlight: 'grey', opacity: 1.0 },
+				font: { face: '맑은 고딕', align: 'bottom', size: 12, color: 'darkcyan', strokeWidth: 5, strokeColor: 'white' },
+				smooth: { enabled: true, type: 'dynamic', roundness: 0.5 }
+			},
+			layout: { randomSeed: 100,
+				hierarchical: { 
+					enabled: 
+						directionInput.value == 'UD' || directionInput.value == 'LR'
+							? true
+							: false,
+					direction: directionInput.value,
+					sortMethod: 'directed'
+				}
+			},
+
+			interaction: { navigationButtons: true },
+			physics: { stabilization: false }
+		};
+		
+		// initialize your network!
+		network = new vis.Network(container, data, options);
+		
+		// select a node to open a related web page.
+    	network.on('selectNode', function(params) {
+			var sel = params.nodes[0];
+			var rows = nodesArray.length;
+			for (var i = 0; i < rows; i++) {
+				if (sel==nodesArray[i].id) {
+					var destination=nodesArray[i].url;
+					if( !nodesArray[i].url || nodesArray[i].url=='')break;
+					else window.open(encodeURI(decodeURI(nodesArray[i].url)), '_self');
+				}
+			}
+		});
+	}
+    </script>
+</head>
+
+<body onload='draw();'>
+
+	<div id='mynetwork'></div>
+
+	<div  id='layout-selection' style='text-align:right;font-size:150%;'>
+		<input type='button' id='btn-Normal' value='⿴' />
+		<input type='button' id='btn-Vertical' value='⿳' />
+		<input type='button' id='btn-Horizontal' value='⿲' />
+		<input type='hidden' id='direction' value='Normal' />
+	</div>
+
+	<script language='JavaScript'>	
+		var directionInput = document.getElementById('direction');
+
+		var btnUD = document.getElementById('btn-Vertical');
+		btnUD.onclick = function () {
+			directionInput.value = 'UD';
+			draw();
+		};
+		var btnLR = document.getElementById('btn-Horizontal');
+		btnLR.onclick = function () {
+			directionInput.value = 'LR';
+			draw();
+		};
+		var btnNormal = document.getElementById('btn-Normal');
+		btnNormal.onclick = function () {
+			directionInput.value = 'Normal';
+			draw();
+		};
+	</script>
+</body>
+</html>
