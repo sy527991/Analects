@@ -9,11 +9,11 @@
   <body> 
     
       <group chapter="學而"> 
-        <div type="canon" xml:id="zh_1102" ref="https://ctext.org/analects/xue-er/zh#n1102"> 子曰 學而時習之 不亦說乎 有朋 自遠方來 不亦樂乎 
+        <div type="canon" xml:id="n1102" ref="https://ctext.org/analects/xue-er/zh#n1102"> 子曰 學而時習之 不亦說乎 有朋 自遠方來 不亦樂乎 
             <term xml:id="T001">人不知</term>而不<term xml:id="T002">慍</term> 不亦<term xml:id="T003">君子</term>乎
         </div>
 
-        <div type="commentary" target="#zh_1102" author="朱熹" title="論語集注">
+        <div type="commentary" target="#n1102" author="朱熹" title="論語集注">
           <def target="#T002">慍，含怒意。</def>
           <def target="#T003">君子，成德之名。</def>
           <note>
@@ -24,7 +24,7 @@
           </note>
         </div>
 
-        <div type="commentary" target="#zh_1102" author="荻生徂徠" title="論語徵">
+        <div type="commentary" target="#n1102" author="荻生徂徠" title="論語徵">
           <def target="#T001">人不知，謂不見用於世也。</def> 
           <def target="#T002">慍，謂心有所怫鬱也。</def>
           <gloss target="#T002">蓋慍鬱一音之轉，不必訓怒。</gloss>
@@ -44,7 +44,7 @@
           </note>
         </div>
 
-        <div type="commentary" target="#zh_1102" author="丁若鏞" title="論語古今注">
+        <div type="commentary" target="#n1102" author="丁若鏞" title="論語古今注">
           <def target="#T001">人不知，謂人不知我之學成也。</def>
           <def target="#T002">慍，心有所蘊結也。</def>
           <quote source="詩_檜風" target="#T002">詩檜風云：「我心蘊結兮。」</quote>
