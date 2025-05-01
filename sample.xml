@@ -27,7 +27,7 @@
         <div type="commentary" target="#n1102" author="荻生徂徠" title="論語徵">
           <def target="#T001">人不知，謂不見用於世也。</def> 
           <def target="#T002">慍，謂心有所怫鬱也。</def>
-          <gloss target="#T002">蓋慍鬱一音之轉，不必訓怒。</gloss>
+          <note>蓋慍鬱一音之轉，<quote source="論語集注_學而" target="#T002" ana="#negation">不必訓怒。</quote> </note>
           <gloss target="#T003">君子，治民者之稱, 包大夫以上。</gloss>
           <gloss target="#T003">雖在下, 其德足以長民, 亦謂之君子也。</gloss>
           <note>
