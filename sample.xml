@@ -8,7 +8,7 @@
 
   <body> 
     
-      <group chapter="學而"> 
+      <group chapter="學而" n="1-1"> 
         <div type="canon" xml:id="n1102" ref="https://ctext.org/analects/xue-er/zh#n1102"> 子曰 學而時習之 不亦說乎 有朋 自遠方來 不亦樂乎 
             <term xml:id="T001">人不知</term>而不<term xml:id="T002">慍</term> 不亦<term xml:id="T003">君子</term>乎
         </div>
