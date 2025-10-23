@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ - 프로젝트명     : 한국경학자료 DB구축 사업 2차년도
+ - 프로젝트기간 : 2005.04 - 2005.11 (1차년도사업 : 2004.04 - 2004.11)
+ - 주관기관       : 성균관대학교 존경각
+ - 주관사업자    : 케이티하이텔(주) 컨소시엄
+ - 작성일           : 2005.04 - 2005.05
+ - 버전              : 2.1
+ - 설명              : 본 파일은 한국경학자료집성의 XML DTD 용으로 작성
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+=== Rev. History ====================================================
+- Ver : 1.0, 2004.06.01 : 신규작성
+- Ver : 1.1, 2004.08.27 :
+- 내용
+         1) jangimg 태그명을 pageimg 로 변경하고, 모든 서문,발문에 사용함
+         2) 편명 속성에 편분류 추가: 편분류는 사서오경 중에 '시경'에만 해당됨
+         3) 경전서문, 저자서문, 저자발문 순서 상관없이 작성가능토록 하고,
+             모든 서문,발문 내에 도표 및 도설이 포함되게 변경함
+         4) 서지내에 발행처, 발행일 추가 : 관문연계에 사용
+         5) 주석의 타입에 "B주" 추가 : "B주"는 사서오경의 편.장 구조에 해당되지
+             않지만  최종정보에 출력되어야 하는 주석
+         6) 도표와 도설은 분리
+         7) 도표의 속성값 중 name은 삭제하고, 시작페이지와 끝페이지 추가
+- Ver : 1.2, 2004-09-15 : 목록에서 <BR>태그를 허용하기 위해 %TEXT 를 %TEXTCONT로 변경
+- Ver : 2.1, 2005-05 :
+         1) 장 안에 있는 도표 내 텍스트를 표기하기 위하여 도표텍스트 Element 추가
+         2) 역경 괘상이미지 표기를 위하여 괘상 Attribute를 편명 Element에 추가
+         3) 본문 텍스트 내의 글자에 이미지가 표현되어야 하는 경우, 이를 표기하기 위하여 textimg(소도표로 변경) Element 추가
+         4) 범례, 인용인서 Element 추가
+- Ver : 2.2, 2005-11
+	 1) 기 구축 자료와의 일관성을 충족하기 위하여 신출자 Element 를  imghj  Element로 변경함
+-->
+<!-- ===============================================  -->
+<!--    공용 문서형 정의 부분집합                                             -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++    -->
+<!--     Start Entity Declaration                                               -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++     -->
+<!-- textimg - 소도표 로 명칭 변경  (2005.05.16)                      -->
+<!ENTITY % IMGTAG " 도표 | 도설 | 도표텍스트 | TABLE | pageimg | 소도표">
+<!ENTITY % TEXT " 색인 | imghj">
+<!ENTITY % TEXTCONT "%IMGTAG; | %TEXT; | BR">
+<!-- ======= End Entity Declaration ===================== -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++    -->
+<!--     Start Element Declaration                                             -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++     -->
+<!-- ===============================================  -->
+<!--    문서구조                                                                       -->
+<!-- ===============================================  -->
+<!ELEMENT 경전 (서지, 서발문?, 목록?, 범례?, 인용인서?, 원문)>
+<!-- ==경전 id = A,B,C,D로 표시하기로 함. -->
+<!ATTLIST 경전
+	id CDATA #REQUIRED
+	org CDATA #FIXED "성균관대학교 존경각"
+>
+<!-- ===============================================  -->
+<!--    서지 내용 엘리먼트들                                                     -->
+<!-- ===============================================  -->
+<!-- ==서지 id = 6자리 숫자 ,책차_권수(ex=001_01) 표시하기로 함. -->
+<!ELEMENT 서지 (경전명, 출전, 서명, 저자, 저자생년, 저자몰년, 발행처, 발행일)>
+<!ATTLIST 서지
+	id CDATA #REQUIRED
+>
+<!ELEMENT 경전명 (#PCDATA)>
+<!ATTLIST 경전명
+	책차 CDATA #REQUIRED
+	한글 CDATA #REQUIRED
+>
+<!ELEMENT 출전 (#PCDATA | imghj)*>
+<!ATTLIST 출전
+	한글 CDATA #REQUIRED
+>
+<!ELEMENT 서명 (#PCDATA | imghj)*>
+<!ATTLIST 서명
+	한글 CDATA #REQUIRED
+>
+<!ELEMENT 저자 (#PCDATA | imghj)*>
+<!ATTLIST 저자
+	한글 CDATA #REQUIRED
+>
+<!ELEMENT 저자생년 (#PCDATA)>
+<!ELEMENT 저자몰년 (#PCDATA)>
+<!ELEMENT 발행처 (#PCDATA)>
+<!ELEMENT 발행일 (#PCDATA)>
+<!-- ===============================================  -->
+<!--    서문 내용 엘리먼트들                                                     -->
+<!-- ===============================================  -->
+<!ELEMENT 서발문 (경전서문? , 저자서문? , 저자발문?)?>
+<!ELEMENT 경전서문 (#PCDATA | %TEXTCONT;)*>
+<!ATTLIST 경전서문
+	시작페이지 CDATA #REQUIRED
+	끝페이지 CDATA #REQUIRED
+>
+<!ELEMENT 저자서문 (#PCDATA | %TEXTCONT;)*>
+<!ATTLIST 저자서문
+	시작페이지 CDATA #REQUIRED
+	끝페이지 CDATA #REQUIRED
+>
+<!ELEMENT 저자발문 (#PCDATA | %TEXTCONT;)*>
+<!ATTLIST 저자발문
+	시작페이지 CDATA #REQUIRED
+	끝페이지 CDATA #REQUIRED
+>
+<!ELEMENT 목록 (#PCDATA | %TEXTCONT;)*>
+<!ELEMENT 범례 (#PCDATA | %TEXTCONT;)*>
+<!ELEMENT 인용인서 (#PCDATA | %TEXTCONT;)*>
+<!ELEMENT 원문 (원문내서지?, 편명, 편명서문?, 내용, 편명발문?)>
+<!-- ===============================================  -->
+<!--    원전내 서지 내용 엘리먼트들                                          -->
+<!-- ===============================================  -->
+<!ELEMENT 원문내서지 (원문내출전?, 원문내서명?, 원문내저자?, 원문내편자?, 원문내교정자?)>
+<!ELEMENT 원문내출전 (#PCDATA | imghj)*>
+<!ATTLIST 원문내출전
+	한글 CDATA #REQUIRED
+>
+<!ELEMENT 원문내서명 (#PCDATA | imghj)*>
+<!ATTLIST 원문내서명
+	한글 CDATA #REQUIRED
+>
+<!ELEMENT 원문내저자 (#PCDATA | imghj)*>
+<!ATTLIST 원문내저자
+	한글 CDATA #REQUIRED
+>
+<!ELEMENT 원문내편자 (#PCDATA | imghj)*>
+<!ATTLIST 원문내편자
+	한글 CDATA #REQUIRED
+>
+<!ELEMENT 원문내교정자 (#PCDATA | imghj)*>
+<!ATTLIST 원문내교정자
+	한글 CDATA #REQUIRED
+>
+<!-- ===============================================  -->
+<!--    편 내용 엘리먼트들			      -->
+<!--    괘이미지 추가 (2005.04.07)     역경에 한함               -->
+<!--    괘이미지 - 괘상 으로 명칭 변경 (2005.05.16)               -->
+<!-- ===============================================  -->
+<!ELEMENT 편명 (#PCDATA | imghj)*>
+<!ATTLIST 편명
+	한글 CDATA #REQUIRED
+	대편명 CDATA #IMPLIED
+	주석검색 (1 | 0) "1"
+	id CDATA #REQUIRED
+	편분류 CDATA #IMPLIED
+	괘상 CDATA #IMPLIED
+>
+<!ELEMENT 편명서문 (#PCDATA | %TEXTCONT;)*>
+<!ATTLIST 편명서문
+	시작페이지 CDATA #REQUIRED
+	끝페이지 CDATA #REQUIRED
+>
+<!ELEMENT 내용 (장+)>
+<!-- ==장 id = 편에서 일련번호	장경문ID=중국경전원문의 id -->
+<!ELEMENT 장 (원문내경문*, 중국주석*, 주석*)*>
+<!ATTLIST 장
+	id CDATA #REQUIRED
+	제목 CDATA #REQUIRED
+	한글 CDATA #REQUIRED
+	주석검색 (1 | 0) "1"
+	경문ID CDATA #REQUIRED
+	시작페이지 CDATA #REQUIRED
+	끝페이지 CDATA #REQUIRED
+>
+<!ELEMENT 원문내경문 (#PCDATA | %TEXTCONT;)*>
+<!ATTLIST 원문내경문
+	일련번호 CDATA #REQUIRED
+>
+<!ELEMENT 중국주석 (#PCDATA | %TEXTCONT;)*>
+<!ATTLIST 중국주석
+	일련번호 CDATA #REQUIRED
+>
+<!ELEMENT 주석 (#PCDATA | %TEXTCONT;)*>
+<!ATTLIST 주석
+	type (원주 | 세주 | 난외주 | N주 | B주) "원주"
+	일련번호 CDATA #REQUIRED
+>
+<!ELEMENT 편명발문 (#PCDATA | %TEXTCONT;)*>
+<!ATTLIST 편명발문
+	시작페이지 CDATA #REQUIRED
+	끝페이지 CDATA #REQUIRED
+>
+<!-- ==도설 Element 추가.          -->
+<!-- ==도표텍스트 Element 추가(2005.04.07)    -->
+<!ELEMENT 도표 (#PCDATA)>
+<!ATTLIST 도표
+	id CDATA #REQUIRED
+	한글 CDATA #IMPLIED
+	시작페이지 CDATA #IMPLIED
+	끝페이지 CDATA #IMPLIED
+
+>
+<!ELEMENT 도설 (#PCDATA | %TEXTCONT;)*>
+<!ATTLIST 도설
+	id CDATA #REQUIRED
+>
+<!ELEMENT 도표텍스트 (#PCDATA | %TEXTCONT;)*>
+<!ATTLIST 도표텍스트
+	id CDATA #REQUIRED
+>
+<!ELEMENT pageimg (#PCDATA)>
+<!ATTLIST pageimg
+	href CDATA #REQUIRED
+>
+<!ELEMENT 소도표 (#PCDATA)>
+<!ATTLIST 소도표
+	shref CDATA #REQUIRED
+>
+<!-- ===============================================  -->
+<!--    imghj : 신출자(1차사업 말에 변경 )                           -->
+<!-- ===============================================  -->
+<!ELEMENT imghj EMPTY>
+<!ATTLIST imghj
+	href CDATA #REQUIRED
+>
+<!ELEMENT 색인 (#PCDATA | imghj)*>
+<!ATTLIST 색인
+	type (서명 | 편명 | 인명 | 지명 | 관명) #REQUIRED
+	한글 CDATA #REQUIRED
+>
+<!-- ==Table Tag (HTML) 관련 선언문 -->
+<!ELEMENT TABLE (TR+)>
+<!ATTLIST TABLE
+	BORDER CDATA #IMPLIED
+>
+<!ELEMENT TR (TD+)>
+<!ELEMENT TD (#PCDATA | BR)*>
+<!ATTLIST TD
+	bgcolor CDATA #IMPLIED
+	colspan CDATA #IMPLIED
+	rowspan CDATA #IMPLIED
+	width CDATA #IMPLIED
+>
+<!ELEMENT BR EMPTY>
+<!-- ==Table Tag (HTML) 관련 선언문 END -->
+<!-- ==End Element Declaration -->
