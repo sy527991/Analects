@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TEI/XML 기반 동양고전-경학자료 통합 스키마 설계</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Noto Sans KR', -apple-system, sans-serif;
+            background: #f3f4f6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+        
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            background: white;
+            border-radius: 1rem;
+            box-shadow: 0 20px 50px rgba(0,0,0,0.15);
+            padding: 3rem;
+            position: relative;
+        }
+        
+        .slide {
+            display: none;
+        }
+        
+        .slide.active {
+            display: block;
+        }
+        
+        .slide-header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        
+        .slide-header h1 {
+            font-size: 2rem;
+            color: #1f2937;
+            margin-bottom: 0.5rem;
+        }
+        
+        .slide-header h2 {
+            font-size: 1.25rem;
+            color: #4b5563;
+        }
+        
+        .slide-content {
+            min-height: 500px;
+        }
+        
+        /* 첫 페이지 스타일 */
+        .title-slide {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 500px;
+            text-align: center;
+        }
+        
+        .title-slide h1 {
+            font-size: 2.5rem;
+            color: #1f2937;
+            margin-bottom: 1rem;
+        }
+        
+        .title-slide h2 {
+            font-size: 1.5rem;
+            color: #4b5563;
+            margin-bottom: 3rem;
+        }
+        
+        .title-slide .author {
+            font-size: 1.25rem;
+            color: #4b5563;
+            margin-top: 3rem;
+        }
+        
+        .title-slide .affiliation {
+            font-size: 1.1rem;
+            color: #6b7280;
+            margin-top: 0.5rem;
+        }
+        
+        .title-slide .date {
+            font-size: 0.9rem;
+            color: #9ca3af;
+            margin-top: 3rem;
+        }
+        
+        /* 카드 스타일 */
+        .card {
+            padding: 1.5rem;
+            border-radius: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .card-blue {
+            background: #eff6ff;
+            border-left: 4px solid #3b82f6;
+        }
+        
+        .card-green {
+            background: #f0fdf4;
+            border-left: 4px solid #22c55e;
+        }
+        
+        .card-purple {
+            background: #faf5ff;
+            border-left: 4px solid #a855f7;
+        }
+        
+        .card-yellow {
+            background: #fefce8;
+            border-left: 4px solid #eab308;
+        }
+        
+        .card-red {
+            background: #fef2f2;
+            border-left: 4px solid #ef4444;
+        }
+        
+        .card-orange {
+            background: #fff7ed;
+        }
+        
+        .card-white {
+            background: white;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        
+        .card h3 {
+            font-size: 1.1rem;
+            margin-bottom: 0.75rem;
+        }
+        
+        .card ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        
+        .card ul li {
+            margin-bottom: 0.5rem;
+            line-height: 1.6;
+        }
+        
+        /* 그리드 */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+        }
+        
+        .grid-3 {
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            gap: 1rem;
+            align-items: center;
+        }
+        
+        /* 코드 블록 */
+        .code-block {
+            background: #f3f4f6;
+            padding: 1rem;
+            border-radius: 0.5rem;
+            overflow-x: auto;
+            margin-bottom: 1rem;
+        }
+        
+        .code-block pre {
+            font-family: 'Courier New', monospace;
+            font-size: 0.75rem;
+            white-space: pre;
+            line-height: 1.5;
+        }
+        
+        /* 네비게이션 */
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 2rem;
+            padding-top: 2rem;
+            border-top: 1px solid #e5e7eb;
+        }
+        
+        .nav-button {
+            padding: 0.75rem 1.5rem;
+            background: #3b82f6;
+            color: white;
+            border: none;
+            border-radius: 0.5rem;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: background 0.2s;
+        }
+        
+        .nav-button:hover:not(:disabled) {
+            background: #2563eb;
+        }
+        
+        .nav-button:disabled {
+            background: #d1d5db;
+            cursor: not-allowed;
+        }
+        
+        .slide-counter {
+            color: #6b7280;
+        }
+        
+        .text-center {
+            text-align: center;
+        }
+        
+        .arrow {
+            font-size: 2rem;
+            color: #22c55e;
+        }
+        
+        .font-bold {
+            font-weight: bold;
+        }
+        
+        .text-sm {
+            font-size: 0.875rem;
+        }
+        
+        .mt-1 {
+            margin-top: 0.25rem;
+        }
+        
+        .mb-2 {
+            margin-bottom: 0.5rem;
+        }
+        
+        .mb-3 {
+            margin-bottom: 0.75rem;
+        }
+        
+        .space-y-3 > * + * {
+            margin-top: 0.75rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Slide 1 -->
+        <div class="slide active">
+            <div class="title-slide">
+                <div>
+                    <h1>TEI/XML 기반 동양고전-경학자료<br>통합 스키마 설계</h1>
+                    <h2>동양고전종합DB와 한국경학자료시스템의 연계</h2>
+                    <div class="author">김서윤</div>
+                    <div class="affiliation">부산대학교 디지털인문학센터</div>
+                    <div class="affiliation">전통문화연구회 동양고전정보화연구소 공동연구원</div>
+                    <div class="date">2024.11.07 전통문화연구회 학술대회 발표</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>1. 배경</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card card-blue">
+                    <h3>현황</h3>
+                    <ul>
+                        <li>• 전통문화연구회 동양고전종합DB(중국의 동양고전): 고전 번역자료를 XML로 한국고전번역원에 납품</li>
+                        <li>• 성균관대 한국경학자료시스템(조선시대 경학 주석 DB): 현재 한국고전번역원으로 이관</li>
+                        <li>• 한국고전번역원 한국고전종합DB(한국문집총간 등): 경학자료의 출처가 대부분 한국 문집</li>
+                    </ul>
+                </div>
+                <div class="card card-green">
+                    <h3>필요성</h3>
+                    <ul>
+                        <li>• 한국고전번역원: 동양고전과 경학자료 두 자료의 연동 필요</li>
+                        <li>• 동양고전 원문 + 조선시대 주석 통합 활용</li>
+                        <li>• 국제 표준(TEI) 준수로 상호운용성 확보: 동아시아 경학자료로 확장 가능</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>2. 주요 기관</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card card-blue">
+                    <h3>전통문화연구회</h3>
+                    <ul class="text-sm">
+                        <li>• 1991년 설립, 동양고전 전문 번역 기관</li>
+                        <li>• 현재까지 341책 번역, 목표 1,500책</li>
+                        <li>• <span class="font-bold">동양고전종합DB</span> 운영: 모든 번역서를 XML 형식으로 웹 서비스</li>
+                        <li>• URL: https://db.cyberseodang.or.kr</li>
+                    </ul>
+                </div>
+                <div class="card card-green">
+                    <h3>한국고전번역원</h3>
+                    <ul class="text-sm">
+                        <li>• 한국고전종합DB 구축 국가기관</li>
+                        <li>• 특수고전협동번역사업 발주처</li>
+                        <li>• 2024년 한국경학자료시스템 인수</li>
+                        <li>• URL: https://db.itkc.or.kr</li>
+                    </ul>
+                </div>
+                <div class="card card-purple">
+                    <h3>한국경학자료시스템 (성균관대 동아시아학술원)</h3>
+                    <ul class="text-sm">
+                        <li>• 『한국경학자료집성』디지털화 (145책)</li>
+                        <li>• 사서오경에 대한 조선시대 주석</li>
+                        <li>• URL: http://koco.skku.edu</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 4 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>3. 특수고전협동번역사업</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card card-blue">
+                    <h3>사업 개요</h3>
+                    <p>한국고전번역원이 발주하고 전통문화연구회가 수행하는 동양고전 번역 사업</p>
+                </div>
+                <div class="grid-2">
+                    <div class="card card-white">
+                        <h4 class="mb-2 font-bold">번역 대상</h4>
+                        <ul class="text-sm">
+                            <li>• 논어, 맹자, 시경, 서경</li>
+                            <li>• 관자, 순자, 한비자</li>
+                            <li>• 사기, 한서 등</li>
+                        </ul>
+                    </div>
+                    <div class="card card-white">
+                        <h4 class="mb-2 font-bold">결과물</h4>
+                        <ul class="text-sm">
+                            <li>• 한문 원문</li>
+                            <li>• 국역문</li>
+                            <li>• 주석서 포함</li>
+                            <li>• XML 형식</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 5 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>4. 한국경학자료시스템</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card card-purple">
+                    <p>조선시대 유학자들이 사서오경에 단 주석을 체계적으로 정리한 DB</p>
+                </div>
+                <div class="grid-2">
+                    <div class="card card-white">
+                        <h4 class="mb-3 font-bold">사서오경</h4>
+                        <div class="text-sm space-y-3">
+                            <div><span class="font-bold">사서:</span> 대학, 중용, 논어, 맹자</div>
+                            <div><span class="font-bold">오경:</span> 시경, 서경, 역경, 예기, 춘추</div>
+                        </div>
+                    </div>
+                    <div class="card card-white">
+                        <h4 class="mb-3 font-bold">주석 특징</h4>
+                        <ul class="text-sm">
+                            <li>• 조선 유학자 해석</li>
+                            <li>• 주희 편장 구성으로 정리해서 주석별 검색 가능</li>
+                            <li>• 대부분 문집에서 발췌</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 6 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>5. 두 자료의 관계</h1>
+            </div>
+            <div class="slide-content">
+                <div class="grid-3">
+                    <div class="card card-blue text-center">
+                        <div class="font-bold mb-2">동양고전DB</div>
+                        <div class="text-sm">논어 원문 + 현대 국역 + 역주</div>
+                    </div>
+                    <div class="text-center arrow">↔</div>
+                    <div class="card card-purple text-center">
+                        <div class="font-bold mb-2">경학자료</div>
+                        <div class="text-sm">논어 원문 + 조선시대 주석</div>
+                    </div>
+                </div>
+                <div class="card card-yellow">
+                    <h4 class="mb-2 font-bold">왜 연계 가능한가?</h4>
+                    <ul class="text-sm">
+                        <li>✓ 동일한 원문 텍스트</li>
+                        <li>✓ 동일한 편장 구조 (주희 주석)</li>
+                        <li>✓ 상호보완적</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 7 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>6. 현행 시스템 문제점</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card card-red">
+                    <h3 class="mb-3">핵심 문제</h3>
+                    <p class="mb-3">두 시스템 모두 XML이지만 서로 다른 DTD 사용</p>
+                    <div class="card card-white text-sm" style="font-family: monospace;">
+                        <div>동양고전DB: <a href="https://github.com/sy527991/Analects/blob/main/juntong.dtd">juntong.dtd</a></div>
+                        <div>경학자료: <a href="https://github.com/sy527991/Analects/blob/main/kbible.dtd">kbible.dtd</a></div>
+                    </div>
+                </div>
+                <div class="card card-orange">
+                    <p class="text-sm"><span class="font-bold">결과:</span> 상호 연계 불가, 통합 검색 불가</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 8 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>7. 해결 방안: TEI 표준 </h1>
+            </div>
+            <div class="slide-content">
+                <div class="card card-blue">
+                    <h3 class="mb-3">동아시아 고전 TEI 적용 사례</h3>
+                    <p class="text-sm">불교 경전 디지털화에서 TEI 표준이 성공적으로 적용됨</p>
+                </div>
+                <div class="space-y-3">
+                    <div class="card card-white">
+                        <h4 class="font-bold mb-2" style="color: #a855f7;">CBETA 電子佛典集成 (대만)</h4>
+                        <ul class="text-sm">
+                            <li>• 1998년부터 TEI 활용 불교 경전 디지털화</li>
+                            <li>• 원문, 異本, 역대 주석, 현대 번역 통합</li>
+                            <li>• 국제 협력: 미국, 일본, 한국, 태국, 노르웨이 등</li>
+                            <li>• 경전 계층구조(卷, 品, 章) 명확히 표현</li>
+                        </ul>
+                    </div>
+                    <div class="card card-white">
+                        <h4 class="font-bold mb-2" style="color: #a855f7;">SAT 大正新脩大藏經 (일본)</h4>
+                        <ul class="text-sm">
+                            <li>• 도쿄대학 TEI 기반 대장경 디지털화</li>
+                            <li>• 체계적 불교 경전 정리, TEI동아시아 분과회 운영</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="card card-yellow">
+                    <p class="text-sm"><span class="font-bold">시사점:</span> 동양고전과 경학자료도 TEI 준수로 국제적 상호운용성과 협력 기반 확보 가능</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 9 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>8. TEI 통합 스키마</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card" style="background: linear-gradient(to right, #eff6ff, #f0fdf4); padding: 1.5rem;">
+                    <h3 class="text-center mb-3">3층 구조</h3>
+                    <div class="space-y-3">
+                        <div class="card card-white">
+                            <div class="font-bold" style="color: #3b82f6;">1층: 원문</div>
+                            <div class="text-sm mt-1">한문 경전 - 양쪽 DB 공통</div>
+                        </div>
+                        <div class="card card-white">
+                            <div class="font-bold" style="color: #22c55e;">2층: 번역문</div>
+                            <div class="text-sm mt-1">동양고전DB 현대 국역</div>
+                        </div>
+                        <div class="card card-white">
+                            <div class="font-bold" style="color: #a855f7;">3층: 주석</div>
+                            <div class="text-sm mt-1">경학자료 조선 주석</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 10 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>9. 설계 원칙</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card card-blue">
+                    <ul style="line-height: 2;">
+                        <li>• <span class="font-bold">공통 식별자:</span> 주희 편장 구조 기준</li>
+                        <li>• <span class="font-bold">명시적 연결:</span> 원문-번역-주석 관계</li>
+                        <li>• <span class="font-bold">출처 표시:</span> DB 출처 명확히</li>
+                        <li>• <span class="font-bold">확장 가능:</span> 향후 중국이나 일본의 경학 주석자료 추가</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 11 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>10. TEI/XML 스키마: 기본 구조</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card card-blue">
+                    <h4 class="mb-2 font-bold">편(篇)과 장(章) 계층 구조</h4>
+                </div>
+                <div class="code-block">
+                    <pre>&lt;div type="pian" n="1" xml:id="lunyu_01"&gt;
+  &lt;head xml:lang="zh"&gt;學而篇&lt;/head&gt;
+  &lt;head xml:lang="ko"&gt;학이편&lt;/head&gt;
+  
+  &lt;div type="zhang" n="1" xml:id="lunyu_01_01" 
+       corresp="#kbible_01_01"&gt;
+    &lt;head xml:lang="ko"&gt;제1장&lt;/head&gt;
+    ...
+  &lt;/div&gt;
+&lt;/div&gt;</pre>
+                </div>
+                <div class="grid-2">
+                    <div class="card card-white">
+                        <h4 class="mb-2 font-bold" style="color: #3b82f6;">핵심 요소</h4>
+                        <ul class="text-sm">
+                            <li>• div: 텍스트 구획 (편/장)</li>
+                            <li>• head: 제목</li>
+                            <li>• @type: 구획 유형</li>
+                            <li>• @n: 순서 번호</li>
+                        </ul>
+                    </div>
+                    <div class="card card-white">
+                        <h4 class="mb-2 font-bold" style="color: #22c55e;">식별자 체계</h4>
+                        <ul class="text-sm">
+                            <li>• @xml:id: 고유 식별자</li>
+                            <li>• lunyu_01_01: 논어 1편 1장</li>
+                            <li>• @corresp: 경학자료와 대응</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 12 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>11. TEI/XML 스키마: 원문과 번역</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card card-blue">
+                    <h4 class="mb-2 font-bold">원문-번역 병렬 구조</h4>
+                </div>
+                <div class="code-block">
+                    <pre>&lt;!-- 원문 --&gt;
+&lt;div type="original" xml:lang="zh" source="#juntong_db"&gt;
+  &lt;ab xml:id="orig_01_01_01" corresp="#trans_01_01_01"&gt;
+    &lt;seg xml:id="orig_01_01_01_s1"&gt;學而時習之&lt;/seg&gt;
+    &lt;seg xml:id="orig_01_01_01_s2"&gt;不亦說乎&lt;/seg&gt;
+  &lt;/ab&gt;
+&lt;/div&gt;
+
+&lt;!-- 번역문 --&gt;
+&lt;div type="translation" xml:lang="ko" source="#juntong_db"&gt;
+  &lt;ab xml:id="trans_01_01_01" corresp="#orig_01_01_01"&gt;
+    &lt;seg corresp="#orig_01_01_01_s1"&gt;배우고 때때로 익히면&lt;/seg&gt;
+    &lt;seg corresp="#orig_01_01_01_s2"&gt;또한 기쁘지 아니한가&lt;/seg&gt;
+  &lt;/ab&gt;
+&lt;/div&gt;</pre>
+                </div>
+                <div class="card card-yellow">
+                    <p class="text-sm"><span class="font-bold">특징:</span> seg 단위로 정밀한 대응 관계 설정, AI 학습용 병렬 코퍼스 생성 가능</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 13 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>12. TEI/XML 스키마: 주석 구조 (1)</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card card-blue">
+                    <h4 class="mb-2 font-bold">주석 유형 분류 및 연결</h4>
+                </div>
+                <div class="code-block">
+                    <pre>&lt;div type="commentary"&gt;
+  &lt;!-- 중국 주석 (주희) --&gt;
+  &lt;note type="ch-commentary" 
+        target="#orig_01_01_01_s1" 
+        source="#juntong_db"
+        resp="#zhuxi" 
+        xml:id="comm_zhuxi_01"&gt;
+    &lt;label&gt;朱熹註&lt;/label&gt;
+    &lt;p xml:lang="zh"&gt;說悅同。學之為言效也。&lt;/p&gt;
+  &lt;/note&gt;
+  
+  &lt;!-- 한국 주석 (박세당) --&gt;
+  &lt;note type="kr-commentary" 
+        target="#orig_01_01_01_s2" 
+        source="#kbible_db"
+        resp="#parksedang" 
+        xml:id="comm_parksedang_01"&gt;
+    &lt;label&gt;朴世堂註&lt;/label&gt;
+    &lt;p xml:lang="zh"&gt;○學雖可訓為效但只言效則...&lt;/p&gt;
+  &lt;/note&gt;
+&lt;/div&gt;</pre>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 14 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>13. TEI/XML 스키마: 주석 구조 (2)</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card card-blue">
+                    <h4 class="mb-2 font-bold">주석 속성 상세</h4>
+                </div>
+                <div class="grid-2">
+                    <div class="card card-white">
+                        <h4 class="mb-3 font-bold" style="color: #a855f7;">유형 속성</h4>
+                        <ul class="text-sm">
+                            <li>• <span style="font-family: monospace;">@type</span>: 주석 유형</li>
+                            <li style="margin-left: 1rem;">- ch-commentary: 중국 주석</li>
+                            <li style="margin-left: 1rem;">- kr-commentary: 한국 주석</li>
+                            <li>• <span style="font-family: monospace;">@subtype</span>: 세부 분류 가능</li>
+                        </ul>
+                    </div>
+                    <div class="card card-white">
+                        <h4 class="mb-3 font-bold" style="color: #a855f7;">관계 속성</h4>
+                        <ul class="text-sm">
+                            <li>• <span style="font-family: monospace;">@target</span>: 주석 대상</li>
+                            <li>• <span style="font-family: monospace;">@source</span>: 출처 DB</li>
+                            <li>• <span style="font-family: monospace;">@resp</span>: 저자</li>
+                            <li>• <span style="font-family: monospace;">@xml:id</span>: 주석 ID</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="card card-green">
+                    <p class="text-sm"><span class="font-bold">효과:</span> 동일 원문에 대한 중국/한국 주석 비교 분석, 시대별 해석 변천 추적 가능</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 15 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>14. TEI/XML 스키마: standOff</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card card-blue">
+                    <h4 class="mb-2 font-bold">standOff: 관계의 명시적 표현</h4>
+                    <p class="text-sm">본문과 분리된 영역에서 요소 간 복잡한 관계를 명확히 정의</p>
+                </div>
+                <div class="code-block">
+                    <pre>&lt;standOff&gt;
+  &lt;!-- 원문-번역 관계 --&gt;
+  &lt;linkGrp type="alignment"&gt;
+    &lt;link target="#orig_01_01_01 #trans_01_01_01" 
+          type="translation"/&gt;
+  &lt;/linkGrp&gt;
+  
+  &lt;!-- 주석 간 관계 --&gt;
+  &lt;linkGrp type="commentary-relation"&gt;
+    &lt;link target="#comm_parksedang_01 #comm_zhuxi_01" 
+          type="responds-to"/&gt;
+  &lt;/linkGrp&gt;
+&lt;/standOff&gt;</pre>
+                </div>
+                <div class="grid-2">
+                    <div class="card card-white text-sm">
+                        <span class="font-bold">type="translation":</span> 번역 관계
+                    </div>
+                    <div class="card card-white text-sm">
+                        <span class="font-bold">type="responds-to":</span> 응답/논쟁 관계
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 16 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>15. 스키마 통합 구조 시각화</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card" style="background: linear-gradient(to right, #eff6ff, #faf5ff); padding: 1.5rem;">
+                    <h4 class="text-center mb-3 font-bold">전체 구조 흐름</h4>
+                    <div class="space-y-3">
+                        <div class="card card-white text-sm">
+                            <span class="font-bold" style="color: #3b82f6;">1. 편/장 구조</span>
+                            <span style="margin-left: 0.5rem;">→ div[@type="pian/zhang"]</span>
+                        </div>
+                        <div class="card card-white text-sm">
+                            <span class="font-bold" style="color: #22c55e;">2. 원문</span>
+                            <span style="margin-left: 0.5rem;">→ div[@type="original"] + ab + seg</span>
+                        </div>
+                        <div class="card card-white text-sm">
+                            <span class="font-bold" style="color: #22c55e;">3. 번역</span>
+                            <span style="margin-left: 0.5rem;">→ div[@type="translation"] + ab + seg</span>
+                        </div>
+                        <div class="card card-white text-sm">
+                            <span class="font-bold" style="color: #a855f7;">4. 주석</span>
+                            <span style="margin-left: 0.5rem;">→ div[@type="commentary"] + note[@type]</span>
+                        </div>
+                        <div class="card card-white text-sm">
+                            <span class="font-bold" style="color: #f97316;">5. 관계</span>
+                            <span style="margin-left: 0.5rem;">→ standOff + linkGrp + link</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-yellow">
+                    <p class="text-sm"><span class="font-bold">핵심:</span> 모든 요소가 ID로 연결되어 원문-번역-주석의 관계망 형성</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 17 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>16. 출처 표시 시스템</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card card-blue">
+                    <h4 class="mb-3 font-bold">@source와 @resp 속성</h4>
+                    <p class="text-sm">데이터 출처와 책임자를 명확히 구분</p>
+                </div>
+                <div class="grid-2">
+                    <div class="card card-white">
+                        <h4 class="mb-3 font-bold" style="color: #3b82f6;">DB 출처</h4>
+                        <ul class="text-sm" style="font-family: monospace; line-height: 2;">
+                            <li>#juntong_db</li>
+                            <li style="margin-left: 1rem; font-family: 'Noto Sans KR', sans-serif; font-size: 0.75rem;">→ 동양고전종합DB</li>
+                            <li>#kbible_db</li>
+                            <li style="margin-left: 1rem; font-family: 'Noto Sans KR', sans-serif; font-size: 0.75rem;">→ 한국경학자료시스템</li>
+                        </ul>
+                    </div>
+                    <div class="card card-white">
+                        <h4 class="mb-3 font-bold" style="color: #a855f7;">저자/주석가</h4>
+                        <ul class="text-sm" style="font-family: monospace; line-height: 2;">
+                            <li>#zhuxi</li>
+                            <li style="margin-left: 1rem; font-family: 'Noto Sans KR', sans-serif; font-size: 0.75rem;">→ 주희 (朱熹)</li>
+                            <li>#parksedang</li>
+                            <li style="margin-left: 1rem; font-family: 'Noto Sans KR', sans-serif; font-size: 0.75rem;">→ 박세당 (朴世堂)</li>
+                            <li>#yulgok</li>
+                            <li style="margin-left: 1rem; font-family: 'Noto Sans KR', sans-serif; font-size: 0.75rem;">→ 이이 (李珥)</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="card card-green">
+                    <p class="text-sm"><span class="font-bold">장점:</span> 데이터 추적 가능, 신뢰성 확보, 향후 확장 용이</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 18 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>17. 기대 효과</h1>
+            </div>
+            <div class="slide-content">
+                <div class="grid-2">
+                    <div class="card card-white">
+                        <h4 class="mb-3 font-bold" style="color: #3b82f6;">학술적</h4>
+                        <ul class="text-sm">
+                            <li>✓ 통합 검색</li>
+                            <li>✓ 주석 비교</li>
+                            <li>✓ 개념 네트워크</li>
+                        </ul>
+                    </div>
+                    <div class="card card-white">
+                        <h4 class="mb-3 font-bold" style="color: #22c55e;">기술적</h4>
+                        <ul class="text-sm">
+                            <li>✓ 국제 표준</li>
+                            <li>✓ 상호운용성</li>
+                            <li>✓ AI 활용</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="card card-yellow">
+                    <p class="text-sm"><span class="font-bold">핵심:</span> AI 시대 학술 인프라로 전환</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 19 -->
+        <div class="slide">
+            <div class="slide-header">
+                <h1>18. 결론</h1>
+            </div>
+            <div class="slide-content">
+                <div class="card card-blue">
+                    <h3 class="mb-3">연구 의의</h3>
+                    <ul class="text-sm">
+                        <li>• TEI 기반 통합 스키마 제시</li>
+                        <li>• 국제 표준 준수</li>
+                        <li>• 동아시아 경학 연구 협력 기반</li>
+                    </ul>
+                </div>
+                <div class="card card-green">
+                    <h3 class="mb-3">향후 과제</h3>
+                    <ul class="text-sm">
+                        <li>• 대규모 데이터 변환</li>
+                        <li>• 기관 협력 체계</li>
+                        <li>• 응용 시스템 개발</li>
+                    </ul>
+                </div>
+                <div class="text-center" style="font-size: 2rem; font-weight: bold; margin-top: 2rem;">감사합니다</div>
+            </div>
+        </div>
+
+        <!-- Navigation -->
+        <div class="navigation">
+            <button class="nav-button" id="prevBtn" onclick="changeSlide(-1)">← 이전</button>
+            <span class="slide-counter" id="slideCounter">1 / 19</span>
+            <button class="nav-button" id="nextBtn" onclick="changeSlide(1)">다음 →</button>
+        </div>
+    </div>
+
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+
+        function showSlide(n) {
+            slides[currentSlide].classList.remove('active');
+            currentSlide = (n + totalSlides) % totalSlides;
+            slides[currentSlide].classList.add('active');
+            updateNavigation();
+        }
+
+        function changeSlide(direction) {
+            showSlide(currentSlide + direction);
+        }
+
+        function updateNavigation() {
+            document.getElementById('slideCounter').textContent = `${currentSlide + 1} / ${totalSlides}`;
+            document.getElementById('prevBtn').disabled = currentSlide === 0;
+            document.getElementById('nextBtn').disabled = currentSlide === totalSlides - 1;
+        }
+
+        // 키보드 네비게이션
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'ArrowLeft') changeSlide(-1);
+            if (e.key === 'ArrowRight') changeSlide(1);
+        });
+
+        updateNavigation();
+    </script>
+</body>
+</html>
