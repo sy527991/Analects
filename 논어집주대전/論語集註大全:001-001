@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="논어집주대전_style.xsl"?><dataset id="論語集註大全">
+<record level="1" type="L" id="論語集註大全:001">
+<document>
+<heading>論語集註大全</heading>
+</document>
+</record>
+
+<record level="2" type="L" id="論語集註大全:001-001">
+<document>
+<heading>論語集註序說</heading>
+</document>
+</record>
+
+<record level="3" type="T" id="論語集註大全:001-001-001">
+<document>
+<text_unit img="file:D:\jibju\01_102.jpg" id="論語集註大全-序說-01">
+<hanmun_text>
+<heading>論語集註序說</heading>
+<commentary commentator="朱熹" id="論語-序說-01-C01">史記世家曰。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-序說-01-C01-S01" name="新安陳氏">新安陳氏曰。司馬遷史記。有孔子世家。朱子纂其要於此。</sub_commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C02">孔子。名。丘。字。仲尼。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-序說-01-C02-S01" name="新安陳氏">新安陳氏曰。孔子父禱於尼丘山而生孔子。故以爲名若字。</sub_commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C03">其先。宋人。</commentary>
+<sub_commentary commentator="" id="論語-序說-01-C03-S01">孔子六世祖孔父嘉。爲宋督所殺。紇遂遷于魯。</sub_commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C04">父叔梁紇<annotation type="sound">下沒反</annotation>。母顔氏。<annotation type="biographical">名徵在。</annotation>以魯襄公二十二年庚戌之歲。十一月庚子。生孔子於魯昌平鄕郰邑。<annotation type="sound">郰側鳩反</annotation></commentary>
+<sub_commentary commentator="倪士毅" id="論語-序說-01-C04-S01" name="新安倪氏">○新安倪氏曰。孔子之生。左氏春秋不書。但於哀公十六年。夏四月己丑書孔丘卒。杜預註。魯襄二十二年生。至今七十三也。公羊穀梁傳。皆於襄公二十一年。書孔子生。乃己酉歲也。與史記杜註皆不合。</sub_commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C05">爲兒嬉戲。常陳俎豆。設禮容。及長<annotation type="sound">上聲</annotation>爲委<annotation type="sound">去聲</annotation>吏。料量<annotation type="sound">去聲</annotation>平。<annotation type="org">委吏。本作季氏史。索隱云。一本作委吏。與孟子合。今從之。</annotation><annotation type="gloss">史記索隱司馬貞作。</annotation></commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C06">爲司職吏。畜<annotation type="sound">許又反</annotation>蕃<annotation type="sound">音煩</annotation>息。<annotation type="org">職見<annotation type="sound">音現</annotation>周禮牛人。讀爲樴。<annotation type="sound">音特。又餘式之式二反。</annotation>義與杙同。<annotation type="sound">杙餘式反。</annotation>蓋繫養犧牲之所。此官卽孟子所謂乘<annotation type="sound">去聲</annotation>田。</annotation></commentary>
+<sub_commentary commentator="胡炳文" id="論語-序說-01-C06-S01" name="雲峯胡氏">雲峯胡氏曰。此以後多用論語證。以經證史也。此二事論語無所見。則證之孟子。亦以經證史也。○周禮。地官。司徒上。牛人掌養國之公牛。以待國之政令。凡祭祀共其享牛求牛以授職人而芻之。註。享牛。前祭一日之牛也。求牛。禱於鬼神。祈求福之牛也。職讀爲樴。樴謂之杙。可以繫牛。樴人者。謂牧人充人。與芻牲之芻。牛人擇於公牛之中。而以授養之。</sub_commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C07">適周。問禮於老子。</commentary>
+<sub_commentary commentator="" id="論語-序說-01-C07-S01">問何以問禮於老子。朱子曰。老子曾爲柱下史。故知禮節文。所以孔子問之。聃雖知禮。然其意以爲不必盡行。行之反以多事。故欲絶滅之。</sub_commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C08">旣反而弟子益進。昭公二十五年甲申。孔子年三十五。而昭公奔齊魯亂。於是適齊。爲高昭子<annotation type="biographical">齊大夫</annotation>家臣。以通乎景公。<annotation type="org">有聞韶問政二事。</annotation>公欲封以尼谿之田。晏嬰不可。公惑之。</commentary><annotation type="org">有季孟吾老之語。</annotation>
+<sub_commentary commentator="" id="論語-序說-01-C08-S01">問齊景公欲封孔子田。楚昭王欲封孔子地。晏嬰子西不可。使無晏嬰子西。則夫子還受之否。朱子曰。旣仕其國。則須有采地。受之可也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C09">孔子遂行。反乎魯。定公元年壬辰。孔子年四十三。而季氏疆僭。其臣陽虎作亂專政。故孔子不仕而退。脩詩書禮樂。弟子彌衆。九年庚子。孔子年五十一。公山不狃以費畔季氏。召孔子欲往而卒不行。</commentary>
+<annotation type="org">有答子路東周語。</annotation>
+<sub_commentary commentator="朱熹" id="論語-序說-01-C09-S01" name="朱子">朱子曰。聖人欲往。是當他召聖人之時。有這些好意思。來接聖人。聖人當時亦接他好意思。所以欲往。然他這箇人。終是不好底人。所以終不可去。如陰雨蔽翳。重結不解。忽然有一處略略開霽。雲收霧斂。見得靑天白日。這些自是好。</sub_commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C10">定公以孔子爲中都宰。一年。四方則之。遂爲司空。又爲大司寇。十年辛丑。相<annotation type="sound">去聲下同</annotation>定公。會齊侯于夾谷。齊人歸魯侵地。<annotation type="gloss">鄆汶陽龜陰之田。</annotation>十二年癸卯。使仲由爲季氏宰。墮<annotation type="sound">許規反。</annotation><annotation type="gloss">毁也下同</annotation>三都。收其甲兵。孟氏不肯墮成。圍之不克。</commentary>
+<sub_commentary commentator="" id="論語-序說-01-C10-S01">問成旣不墮。夫子如何別無處置了便休。朱子曰。不久夫子亦去魯矣。若使聖人久爲之。亦須別有箇道理。</sub_commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C11">十四年乙巳。孔子年五十六。攝行相事。誅少<annotation type="sound">去聲</annotation>正卯。與<annotation type="sound">音預</annotation>聞國政。三月。魯國大治<annotation type="sound">去聲</annotation>。齊人歸女樂。以沮<annotation type="sound">在呂反。</annotation><annotation type="gloss">止也</annotation>之。季桓子受之。郊又不致膰<annotation type="sound">音煩。</annotation><annotation type="gloss">祭祀餘肉也</annotation>俎於大夫。孔子行。</commentary>
+<annotation type="org">魯世家自此以上。皆爲十二年事。</annotation>
+<sub_commentary commentator="" id="論語-序說-01-C11-S01">問設若魯亦致膰於大夫。則夫子果止乎。朱子曰。也須去。只是不若此之速。必須別討一箇事故去。</sub_commentary>
+<sub_commentary commentator="胡氏" id="論語-序說-01-C11-S02" name="胡氏">○胡氏曰。是時政在季氏。夫子攝行相事而已。非爲相也。與聞國政而已。非爲政也。定公素不能立。季孫旣有所惑。其不足與有爲可知也。故不容於不行。</sub_commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C12">適衛。主於子路妻兄顔濁鄒家。<annotation type="org">孟子作顔讎由。</annotation>適陳過匡。匡人以爲陽虎而拘之。<annotation type="org">有顔淵後。及文王旣沒之語。</annotation>旣解。還衛。主蘧伯玉家。見南子。<annotation type="org">有矢子路。及未見好德之語。</annotation>去適宋。司馬桓魋欲殺之。<annotation type="org">有天生德語。及微服過宋事。</annotation>又去適陳。主司城貞子家。居三歲而反于衛。靈公不能用。<annotation type="org">有三年有成之語。</annotation>晉趙氏家臣佛肹。以中牟畔。召孔子。孔子欲往。亦不果。</commentary>
+<annotation type="org">有答子路堅白語。及荷蕢過門事。</annotation>
+<sub_commentary commentator="朱熹" id="論語-序說-01-C12-S01" name="朱子">朱子曰。夫子於公山氏之召。却眞箇要去做。於佛肹之召。但謂其不能浼我而已。</sub_commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C13">將西見趙簡子。至河而反。又主蘧伯玉家。靈公問陳。不對而行。復<annotation type="sound">扶又反</annotation>如陳。<annotation type="org">據論語。則絶糧當在此時。</annotation>季桓子卒。遺言謂康子。必召孔子。其臣止之。康子乃召冉求。<annotation type="org">史記以論語歸與之歎。爲在此時。又以孟子所記歎詞。爲主司城貞子時語。疑不然。蓋語孟所記。本皆此一時語。而所記有異同耳。</annotation>孔子如蔡及葉<annotation type="sound">失涉反</annotation>。<annotation type="org">有葉公問答子路不對。沮溺耦耕。荷蓧丈人等事。史記云。於是楚昭王使人聘孔子。孔子將往拜禮。而陳蔡大夫。發徒圍之。故孔子絶糧於陳蔡之間。有慍見。及告子貢一貫之語。按是時。陳蔡臣服於楚。若楚王來聘孔子。陳蔡大夫。安敢圍之。且據論語。絶糧當在去衛如陳之時。</annotation>楚昭王。將以書社地。封孔子。令尹子西不可。乃止。<annotation type="org">史記云。書社地七百里。恐無此理。時則有接輿之歌。</annotation></commentary>
+<sub_commentary commentator="陳櫟" id="論語-序說-01-C13-S01" name="新安陳氏">新安陳氏曰。索隱云。古者二十五家爲里。里各立社。則書社者。書其社之人名於籍。蓋以七百里書社之人。封孔子也。故冉求云。雖累千社而夫子不利是也。饒氏云。書社。猶今人所謂書會也。蓋卿大夫所當得底地。謂之采地。如這箇却是君之所特與。故謂之書社地。言以此養其徒也。便如齊王欲中國授孟子室。養弟子以萬鍾相似。</sub_commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C14">又反乎衛。時靈公已卒。衛君輒。欲得孔子爲政。<annotation type="org">有魯衛兄弟。及答子貢夷齊。子路正名之語。</annotation>而冉求爲季氏將<annotation type="sound">去聲</annotation>。與齊戰有功。康子乃召孔子。而孔子歸魯。實哀公之十一年丁巳。而孔子年六十八矣。<annotation type="org">有對哀公及康子語。</annotation></commentary>
+<sub_commentary commentator="胡炳文" id="論語-序說-01-C14-S01" name="雲峯胡氏">雲峯胡氏曰。讀此者。要看太史公書法。又要看文公刪後書法。如孔子在他國。皆不書年若干。惟他國反魯。及在魯。則歷歷書之。豈以在他國。則歲月無所考。故不書邪。然去魯適陳。太史公書曰。是歲魯哀公三年。而孔子年六十矣。又自楚反衛。太史公書曰。是歲也孔子年六十三。而魯哀公六年也。文公皆刪之。至孔子晩年歸魯。文公乃特書曰。實哀公之十一年丁巳。而孔子年六十八矣。言外慨歎之意。於書法可見也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C15">然魯終不能用孔子。孔子亦不求仕。</commentary>
+<sub_commentary commentator="" id="論語-序說-01-C15-S01">問孔子當周衰時。可以有爲否。朱子曰。聖人無不可爲之時也。便若時節變。聖人又自處之不同。問孔子豈不知時君必不能用己。曰。聖人豈有逆料君能用我與否。到得後來。說不復夢見周公。與吾已矣夫。聖人自知其不可爲矣。</sub_commentary>
+<commentary commentator="朱熹" id="論語-序說-01-C16">乃叙書傳<annotation type="sound">去聲</annotation>禮記。<annotation type="org">有杞宋損益從周等語。</annotation>刪詩正樂。<annotation type="org">有語太師及樂正之語。</annotation>序易彖繫象說卦文言。<annotation type="org">有假我數年之語。</annotation>弟子蓋三千焉。身通六藝者。七十二人。<annotation type="org">弟子顔回最賢蚤死。後唯曾參。得傳孔子之道。</annotation>十四年庚申。魯西狩獲麟。<annotation type="org">有莫我知之歎。</annotation>孔子作春秋。<annotation type="gloss">有知我罪我等語。論語請討陳恒事亦在是年。</annotation>明年辛酉。子路死於衛。十六年壬戌四月己丑。孔子卒。年七十三。葬魯城北泗上。弟子皆服心喪三年而去。惟子貢廬於冢上。凡六年。孔子生鯉。字伯魚。先卒。伯魚生伋<annotation type="sound">音急</annotation>。字子思。作中庸。<annotation type="org">子思學於曾子。而孟子受業子思之門人。</annotation></commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+
+<record level="3" type="T" id="論語集註大全:001-001-002">
+<document>
+<text_unit img="file:D:\jibju\01_107.jpg" id="論語集註大全-序說-02">
+<hanmun_text>
+<commentary commentator="朱子" id="論語-序說-02-C01">何氏曰。<annotation type="biographical">何氏。名晏。字平叔。魏南陽人。</annotation>魯論語。二十篇。齊論語。別有問王知道。凡二十二篇。其二十篇中章句。頗多於魯論。古論出孔氏壁中。分堯曰下章子張問。以爲一篇。有兩子張。凡二十一篇。篇次不與齊魯論同。</commentary>
+<sub_commentary commentator="" id="論語-序說-02-C01-S01">或問今之論語其魯論與。朱子曰。以何晏所叙篇數考之。則信爲魯論矣。但據釋文。則其文字亦或有不同者。如以必爲爪之類。豈何氏亦若鄭註。就魯論篇章。而又雜以齊古之文與。然唐藝文志。已不載齊古篇目。陸氏蓋於諸家說中得之耳。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+
+<record level="3" type="T" id="論語集註大全:001-001-003">
+<document>
+<text_unit img="file:D:\jibju\01_108.jpg" id="論語集註大全-序說-03">
+<hanmun_text>
+<commentary commentator="程子" id="論語-序說-03-C01">程子曰。論語之書。成於有子曾子之門人。故其書獨二子以子稱。</commentary>
+<sub_commentary commentator="程子" id="論語-序說-03-C01-S01" name="程子">程子曰。論語爲書。傳道立言。深得聖人之學者矣。如鄕黨形容聖人。不知者豈能若是。○問論語以何爲要。曰。要在知仁。孔子說仁處。最宜玩味。曰。孔子說仁處甚多。尤的當是何語。曰。皆的當。但其門人所至有不同。故其答之亦異。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-序說-03-C01-S02" name="朱子">○朱子曰。程子之說。蓋出於柳宗元。其言曰。諸儒皆以論語孔子弟子所記。不然也。孔子弟子曾參最少。又老乃死。而是書記其將死之言。則其去弟子之時甚遠。而當時弟子。略無存者矣。吾意孔子弟子。嘗雜記其言。而卒成其書者。曾子弟子樂正子春子思之徒也。故是書之記諸弟子必以字。而曾子不然。蓋其弟子號之云爾。而有子亦稱子者。孔子之殁。諸弟子嘗以似夫子而師之。後乃叱避而退。則固嘗有師之號矣。凡此柳氏之言。其論曾子者得之。而有子叱避之說。則史氏之鄙陋無稽。而柳氏惑焉。以孟子攷之。當時旣以曾子不可而寢其議。有子曷嘗據孔子之位。而有其號哉。故程子特因柳氏之言。斷而裁之。以爲此說。此所以不著柳說。而獨以程子爲據也。楊氏又謂此書。首記孔子之言。而以二子之言次之。蓋其尊之亞於夫子。尤爲明驗。至於閔損冉求。亦或稱子。則因其門人所記。而失之不革也與。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+
+<record level="3" type="T" id="論語集註大全:001-001-004">
+<document>
+<text_unit img="file:D:\jibju\01_108.jpg" id="論語集註大全-序說-04">
+<hanmun_text>
+<commentary commentator="程子" id="論語-序說-04-C01">程子曰。讀論語。有讀了全然無事者。有讀了後。其中得一兩句喜者。有讀了後。知好<annotation type="sound">去聲</annotation>之者。有讀了後。直有不知手之舞之足之蹈之者。</commentary>
+<sub_commentary commentator="程子" id="論語-序說-04-C01-S01" name="程子">程子曰。論語之書。其辭近。其指遠。辭有盡。指無窮。有盡者。可索之於訓詁。無窮者。要當會之以神。譬諸觀人。昔日識其面。今日識其心。在我則改容更貌矣。人則猶故也。坐是故難讀。蓋不學操縵。不能安弦。不學博依。不能安詩。不學雜服。不能安禮。惟近似者易入也。彼其道高深博厚。不可涯涘也如此。儻以童心淺智窺之。豈不大有逕庭乎。方其脅肩諂笑。以言餂人者。讀之。謂巧言令色寧病仁。未能素貧賤。而恥惡衣惡食者。讀之。豈知飯蔬飮水。曲肱而枕之。未妨吾樂。註心於利末。得已不已。而有顚冥之患者。讀之。孰知不義之富貴。眞如浮雲。誨爾諄諄。聽我藐藐者。讀之。孰知回不惰。師書紳。爲至誠服膺。過此而往。益高益深。可勝數哉。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-序說-04-C01-S02" name="朱子">○朱子曰。學者須著實循序讀書。以論語爲先。一日只看一二段。莫問精粗難易。但只從頭看將去。讀而未曉則思。思而未曉則讀。反覆玩味。久之必自有得矣。今學者於論語二十篇中。尙不耐煩看得之。况所謂死而後已者。又豈能辦得如此長遠工夫耶。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-序說-04-C01-S03" name="慶源輔氏">○慶源輔氏曰。嗜之而飽饜充足。其樂有不可形容者。是以見於手舞足蹈也。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-序說-04-C01-S04" name="雲峯胡氏">○雲峯胡氏曰。讀論語。者有此四等人。初是全無知者。第二是略能知者。第三是知而好之者。第四是好而樂之者。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+
+<record level="3" type="T" id="論語集註大全:001-001-005">
+<document>
+<text_unit img="file:D:\jibju\01_109.jpg" id="論語集註大全-序說-05">
+<hanmun_text>
+<commentary commentator="程子" id="論語-序說-05-C01">程子曰。今人不會讀書。如讀論語。未讀時是此等人。讀了後。又只是此等人。便是不曾讀。</commentary>
+<sub_commentary commentator="程子" id="論語-序說-05-C01-S01" name="程子">程子曰。讀論語。須有疑。然後能進。今人讀書。元不知疑。所以不及古人。孔門弟子。如子夏問巧笑倩兮。美目盼兮。直推至於禮後。樊遲問仁知。直推至於擧臯陶伊尹。而不仁者遠。始能無疑。今人多於言上認了。又安能疑。○問論語如何讀。曰這也使急不得。也不可慢。所謂急不得者。功效不可急。所謂不可慢者。工夫不可慢。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-序說-05-C01-S02" name="慶源輔氏">○慶源輔氏曰。程子言雖近而意則切。使讀書者。自知所以求益。不至虛費工夫也。須是熟讀涵泳。使之通貫浹洽。然後有日新之功。如是則氣質變化。月異而歲不同矣。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+
+<record level="3" type="T" id="論語集註大全:001-001-006">
+<document>
+<text_unit img="file:D:\jibju\01_109.jpg" id="論語集註大全-序說-06">
+<hanmun_text>
+<commentary commentator="程子" id="論語-序說-06-C01">程子曰。頤自十七八。讀論語。當時已曉文義。讀之愈久。但覺意味深長。</commentary>
+<sub_commentary commentator="和靖尹氏" id="論語-序說-06-C01-S01" name="和靖尹氏">和靖尹氏曰。論語之書。廼集記孔子嘉言善行。苟能卽其問答。如己親炙于聖人之門。黙識心受而躬行之。則可謂善學矣。</sub_commentary>
+<sub_commentary commentator="李侗" id="論語-序說-06-C01-S02" name="延平李氏">○延平李氏曰。人之持身。當以孔子爲法。孔子相去千餘載。旣不可得而親之。所可見者。獨論語耳。論語蓋當時門人弟子所記孔子言行也。每讀而味之。玩而繹之。推而行之。雖未至升堂入室。亦不失爲士君子也。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-序說-06-C01-S03" name="朱子">○朱子曰。所謂深長意味。也別無說。只是涵泳久。自見得。○論語讀著。越見意思無窮。今日讀。得些意思。明日讀。又長得意思。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-序說-06-C01-S04" name="朱子">○朱子曰。論語中。程先生及和靖說。只於本文。添一兩字。甚平淡。然意味深長。須當子細看。要見得他意味。方好。已下論解論語。○問謝氏說多過。不如楊氏說最實。曰。尹氏語言最實。亦多是處。但看文字。亦不可如此先懷權斷於胸中。如謝氏說。十分有九分過處。其間亦有一分說得恰好處。豈可先立定說。今且須虛心玩理。○集註中解有兩說相似。而少異者。亦要相資。有說全別者。是未定也。○論語集註。如稱上稱來無異。不高些。不低些。自是學者不肯用工看○問集註有兩存者。何者爲長。曰。使某見得長底時。豈復存其短底。只爲是二說皆通。故幷存之。然必有一說合得聖人之本意。但不可知爾。又曰。大率兩說。前一說勝。○某於論孟。逐字稱等。不敎偏些小。學者將註處宜子細看。○集註添一字不得。減一字不得。不多一箇字。不少一箇字。○讀集註。只是要看無一字閑。若意裏說做閑字。那箇正是緊要字。○集註至于訓詁。皆子細者。蓋要人字字思索到。莫要只作等閑看便了。○問註或用者字。或用謂字。或用猶字。或直言。其輕重之意如何。曰者。謂是恁地。直言者。直訓如此。猶云者。猶是如此。胡氏曰。某。某也。正。訓也。某。猶某也。無正訓。借彼以明此也。某之爲言某也。前無訓釋。特發此以明其義也。爲言。謂其說如此也。引經傳文以證者。此字義不可以常訓通也。○集註於正文之下。正解說字訓文義。與聖經正意。如諸家之說。有切當明白者。卽引用而不沒其姓名。如學而首章。先尹氏而後程子。亦只是順正文解下來。非有高下去取也。章末用圈。而列諸家之說者。或文外之意。而於正文有所發明。不容略去。或通論一章之意。反覆其說切要而不可不知也。○集註內載前輩之說於下句者。是解此句文義。載前輩之說於章後者。是說一章之大旨。及反覆此章之餘意。胡氏曰。字義難明者。各有訓釋。一章意義。可以分斷者。逐節註之。一章之後。又合諸節而通言之。欲學者先明逐字文義。然後明逐節旨意。然後通一章之旨意也。每章只發本章之旨者。附註後。或因發聖人言外之意者。別爲一段以附其後。亦欲學者先明本旨。而後及之也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
