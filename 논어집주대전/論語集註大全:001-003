@@ -1,0 +1,814 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="논어집주대전_style.xsl"?><dataset id="論語集註大全">
+<record level="1" type="L" id="論語集註大全:001">
+<document>
+<heading>論語集註大全</heading>
+</document>
+</record>
+
+<record level="2" type="L" id="論語集註大全:001-003">
+<document>
+<heading>論語集註大全卷之二/爲政第二</heading>
+</document>
+</record>
+
+<record level="3" type="T" id="論語集註大全:001-003-001">
+<document>
+<text_unit img="file:D:\jibju\01_155.jpg" id="論語集註大全-爲政">
+<hanmun_text>
+<heading>論語集註大全卷之二/爲政第二</heading>
+<commentary commentator="朱熹" id="論語-爲政-C01">凡二十四章</commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+
+<record level="3" type="T" id="論語集註大全:001-003-002">
+<document>
+<text_unit img="file:D:\jibju\01_155.jpg" id="論語集註大全-爲政-01-01">
+<hanmun_text>
+<canon id="論語-爲政-01-01">○子曰。爲政以德。譬如北辰。居其所。而衆星共之。<annotation type="sound">共音拱亦作拱。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-爲政-01-01-C01">政之爲言。正也。所以正人之不正也。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-01-01-C01-S01" name="新安陳氏">新安陳氏曰。首訓正字。本夫子政者正也子帥以正孰敢不正之意。蓋以政之理言。若第三章集註云政謂法制禁令。則指政之實事言也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-01-01-C02">德之爲言。得也。行道而有得於心也。</commentary>
+<sub_commentary commentator="倪士毅" id="論語-爲政-01-01-C02-S01" name="新安倪氏">新安倪氏曰。祝氏附錄本如此。他本作得於心而不失也。○胡氏通必主得於心而不失之說。膠於胡泳伯量所記。謂先生因執扇謂曰。德字須用不失訓。如得此物。可謂得矣。纔失之則非得也。此句含兩意。一謂得於有生之初者。不可失之於有生之後。一謂得於昨日者。不可失之於今日。先師謂此說縱使有之。亦必非末後定本。深思細玩。終不如行道而有得於心之精當不可易也。朱子訓德字。蓋倣禮記德者得也。禮樂皆得謂之有德而言。初作得於身。後改得於心。夫道字廣大。天下所共由。德字親切。吾心所獨得。行道行之於身也。未足以言德。必有得於心。則躬行者始心得之。心與理爲一。斯可謂之德。有次第。有歸宿。精矣。今曰得於心而不失。則得於心者何物乎。方解德字。未到持守處。不必遽云不失。不比據於德。註云。據者執守之意。得之於心而守之不失。又云據德則道得於心而不失。此兩不失字。乃自據字上說來。况上文先云德。則行道而有得於心者也。其證尤明白。若遽云不失。則似失之急。又近於贅。大學序所謂本之躬行心得。躬行卽行道。心得卽有得於心也。以前後參觀之。而祝氏定本爲尤信。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-01-01-C03">北辰。北極。天之樞也。居其所。不動也。共。向也。言衆星。四面旋繞而歸向之也。</commentary>
+<sub_commentary commentator="邵雍" id="論語-爲政-01-01-C03-S01" name="邵子">邵子曰。地無石之處皆土也。天無星之處皆辰也。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-01-01-C03-S02" name="朱子">○朱子曰。北辰是天之樞紐。中間些子不動處。緣人要取此爲極。不可無箇記認。所以就其旁取一小星謂之極星。天之樞紐。似輪藏心。藏在外面動。心都不動。問極星動不動。曰。也動。只他近那辰。雖動不覺。如射糖盤子。北辰便是中央樁子。極星便是近樁點子。雖也隨盤轉。緣近樁子便轉得不覺。沈存中謂始以管窺極星。不入管。後方見極星在管弦上轉。史記載北辰有五星。太乙常居中。是極星也。辰非星。只是中間界分。極星亦微動。辰不動。乃天之中。猶磨之心也。○又曰。天圓而動。包乎地外。地方而靜。處乎天中。故天形半覆地上。半繞地下。左旋不息。其樞紐則在南北之端焉。謂之極者。如屋脊謂之屋極也。南極入地三十六度。故周回七十二度。常隱不見。北極出地三十六度。故周回七十二度。常見不隱。北極之星。正在常見不隱七十二度之中。常居其所而不動。其旁則經星隨天左旋。日月五緯右轉。更迭隱見。有似於環繞而歸向之也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-01-01-C04">爲政以德。則無爲而天下歸之。其象如此。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-01-01-C04-S01" name="朱子">朱子曰。德字從心者。以其得之於心也。爲政以德者。不是把德去爲政。是自家有這德。人自歸仰。如衆星共北辰。北辰者。天之樞紐。乃是天中央安樞處。天動而樞不動。不動者。正樞星位。樞有五星。其前一明者太子。其二最明者曰帝座。乃太乙之常居也。其後一箇分外開得些子而不甚明者。極星也。惟此一處不動。衆星於北辰。亦是自然環向。非有意於共之也。○德與政非兩事。只是以德爲本。則能使民歸。○爲政以德。非是不用刑罰號令。但以德先之耳。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-01-01-C04-S02" name="新安陳氏">○新安陳氏曰。爲政以德。本也。無爲而天下歸之。效也。無爲而天下歸之。本文未嘗明言此意。只是取象於北辰。其中含此意。北辰爲天之極。譬爲政以德之君。爲天下之極。居其所。譬人君之無爲。衆星共之。譬天下歸之也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-01-01-C05">○程子曰。爲政以德。然後無爲。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-01-01-C05-S01" name="朱子">朱子曰。不是塊然全無作爲。只是不生事擾民。德脩於己。而人自感化。不待作爲而天下自歸之。不見其有爲之迹耳。問是以德爲政否。曰。不是欲以德去爲政。不必泥以字。只是爲政有德相似。○爲政以德。人自感化。然感化不在政事上。却在德上。蓋政者。所以正人之不正也。豈無所爲。但人所以歸往。乃以其德耳。故不待作爲而天下歸之。如衆星之共北極也。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-爲政-01-01-C05-S02" name="慶源輔氏">○慶源輔氏曰。爲政以德。非不爲也。循天下之理。而行其所無事也。不能以德爲政。而遽欲無爲。則是怠惰廢弛而已。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-01-01-C06">范氏曰。爲政以德。則不動而化。不言而信。無爲而成。所守者至簡。而能御煩。所處<annotation type="sound">上聲</annotation>者至靜。而能制動。所務者至寡。而能服衆。</commentary>
+<sub_commentary commentator="輔廣" id="論語-爲政-01-01-C06-S01" name="慶源輔氏">慶源輔氏曰。范氏推廣程子之意。倂擧其效言之。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-003">
+<document>
+<text_unit img="file:D:\jibju\01_158.jpg" id="論語集註大全-爲政-02-01">
+<hanmun_text>
+<canon id="論語-爲政-02-01">○子曰。詩三百。一言以蔽之。曰思無邪。</canon>
+<commentary commentator="朱熹" id="論語-爲政-02-01-C01">詩三百十一篇。言三百者。擧大數也。蔽。猶蓋也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-02-01-C01-S01" name="朱子">朱子曰。蓋。如以一物蓋盡衆物。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-02-01-C02">思無邪。魯頌駉<annotation type="sound">古螢反</annotation>篇之辭。</commentary>
+<sub_commentary commentator="倪士毅" id="論語-爲政-02-01-C02-S01" name="新安倪氏">新安倪氏曰。此詩本美魯僖公牧馬之盛。由其心思之正。如美衛文公秉心塞淵。而騋牝三千之意也。作詩者。未嘗以此論詩之旨。夫子讀詩至此而有合於心焉。是以取之。蓋斷章摘句云耳。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-02-01-C03">凡詩之言善者。可以感發人之善心。惡者可以懲創人之逸志。其用。歸於使人得其情性之正而已。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-02-01-C03-S01" name="朱子">朱子曰。情性。是貼思。正。是貼無邪。○問思無邪。莫是作詩者發於情性之正否。曰。若關雎鹿鳴文王大明等詩。固是情性之正。若桑中溱洧等詩。謂之情性之正可乎。只是要讀詩者思無邪耳。○太史公說古詩三千篇。孔子刪定爲三百。看來只是采得許多詩。夫子不曾刪去。只是刊定而已。聖人刊定好底詩。便要人吟詠興發其善心。不好底。便要人起羞惡之心。皆要人思無邪。○問集註以爲凡言善者足以感發人之善心。言惡者足以懲創人之逸志。而諸家乃專主作詩者而言。何也。曰。詩有善有惡。頭面最多。而惟思無邪一句足以該之。上至於聖人。下至於淫奔之事。聖人皆存之者。所以欲使讀者知所懲勸。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-爲政-02-01-C03-S02" name="雙峯饒氏">○雙峯饒氏曰。諸家皆謂作詩者如此。獨集註以爲詩之功用。能使學者如此。夫子恐人但知詩之有邪正。而不知詩之用。皆欲使人之歸於正。故於其中揭此一句以示人。學者知此。則有以識讀詩之意矣。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-02-01-C04">然其言微婉。且或各因一事而發。求其直指全體。則未有若此之明且盡者。故夫子言詩三百篇。而惟此一言。足以盡蓋其義。其示人之意。亦深切矣。</commentary>
+<sub_commentary commentator="李侗" id="論語-爲政-02-01-C04-S01" name="延平李氏">延平李氏曰。詩人興刺。雖亦曲折達心之精微。然必止乎禮義。夫子刪而取之者以此爾。若不止於禮義。卽邪也。故三百篇一言足以蔽之。只是思無邪而已。所以能興起感動人之善心。蓋以此也。○問直指全體。朱子曰。詩三百篇。皆要人無邪思。然但逐事無邪。惟此一言擧全體言之。○思無邪。只是要正人心。約而言之。三百篇只是一箇思無邪。析而言之。則一篇中自有一箇思無邪。○思無邪一句。便當得三百篇之義了。三百篇之義。大槩只要使人思無邪。若只就事上無邪。未見得實如何。惟是思無邪方得。思在人最深。思主心上。○聖人言詩之敎。只要得人思無邪。其他篇篇是這意思。惟是此一句包說得盡。○思在言與行之先。思無邪則所言所行。皆無邪矣。○問聖人六經皆可爲戒。何獨詩也。曰。固是如此。然詩因情而起則有思。欲其思出於正。故獨指思無邪以示敎焉。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-爲政-02-01-C04-S02" name="勉齋黃氏">○勉齋黃氏曰。直指則非微婉。全體則非一事。直指故明。全體故盡。此一言所以辭約而義該也。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-爲政-02-01-C04-S03" name="慶源輔氏">○慶源輔氏曰。微謂隱微。婉謂委曲。詩人主於諷詠規諫。其言不直截說破。常有隱微委曲之意。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-02-01-C05">○程子曰。思無邪者。誠也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-02-01-C05-S01" name="朱子">朱子曰。行無邪。未是誠。思無邪。乃可爲誠。是表裏皆無邪。徹底無毫髮之不正。世人有脩飾於外。而其中未必能正。惟至於思無邪。乃可謂誠。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-爲政-02-01-C05-S02" name="雲峯胡氏">○雲峯胡氏曰。程子曰思無邪者誠也。又曰哲人知幾。誠之於思。此是聖人事。夫子言詩之用。不應遽以聖人望人。集註所以引此者。蓋謂所思自然無邪。誠也。聖人事也。讀詩而可使之思無邪。誠之也。學者事也。集註引程子之言。卽繼之以學者必務知要。益可見也。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-02-01-C05-S03" name="新安陳氏">○新安陳氏曰。程子此說。是論誠。非論詩。</sub_commentary>
+<sub_commentary commentator="許謙" id="論語-爲政-02-01-C05-S04" name="東陽許氏">○東陽許氏曰。誠是實理。在人則爲實心。而君子不可不盡者也。程子指出此誠字。以明思無邪之實。學者必使心之所思一於無邪。方能全乎人心之實理也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-02-01-C06">范氏曰。學者必務知要。知要則能守約。守約則足以盡博矣。經禮三百。曲禮三千。亦可以一言以蔽之。曰毋不敬。</commentary>
+<sub_commentary commentator="" id="論語-爲政-02-01-C06-S01">禮器篇云。禮有大有小有顯有微。大者不可損。小者不可益。顯者不可掩。微者不可大也。經禮三百。曲禮三千。其致一也。註。經禮。儀禮也。如士冠禮。諸侯冠禮之類。此是大節有三百條。曲禮。禮記也。如冠禮始加再加三加。坐如尸之類。此是小目有三千餘條。○曲禮篇首云。毋不敬。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-爲政-02-01-C06-S02" name="雲峯胡氏">○雲峯胡氏曰。執中二字。是書五十八篇之要。時之一字。是易三百八十四爻之要。亦不可不知。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-004">
+<document>
+<text_unit img="file:D:\jibju\01_160.jpg" id="論語集註大全-爲政-03-01">
+<hanmun_text>
+<canon id="論語-爲政-03-01">○子曰。道之以政。齊之以刑。民免而無恥。<annotation type="sound">道音導下同。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-爲政-03-01-C01">道。猶引導。謂先之也。政。謂法制禁令也。齊。所以一之也。道之而不從者。有刑以一之也。免而無恥。謂苟免刑罰。而無所羞愧。蓋雖不敢爲惡。而爲惡之心。未嘗亡也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-03-01-C01-S01" name="朱子">朱子曰。道齊之以政刑。則不能化其心。而但使之少革。到得政刑少弛。依舊又不知恥矣。問政刑莫只是伯者之事。曰專用政刑。則是伯者之爲矣。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-005">
+<document>
+<text_unit img="file:D:\jibju\01_160.jpg" id="論語集註大全-爲政-03-02">
+<hanmun_text>
+<canon id="論語-爲政-03-02">道之以德。齊之以禮。有恥且格</canon>
+<commentary commentator="朱熹" id="論語-爲政-03-02-C01">禮。謂制度品節也。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-03-02-C01-S01" name="新安陳氏">新安陳氏曰。前訓禮字。云天理節文。人事儀則。是以禮字之理而言。此指五禮之文物而言。</sub_commentary>
+<sub_commentary commentator="胡氏" id="論語-爲政-03-02-C01-S02" name="胡氏">○胡氏曰。品謂。尊卑高下之差。節。謂界限等級之分。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-03-02-C02">格。至也。言躬行以率之。則民固有所觀感而興起矣。而其淺深厚薄之不一者。又有禮以一之。則民恥於不善。而又有以至於善也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-03-02-C02-S01" name="朱子">朱子曰。道之以德。是躬行其實以爲民先。必自盡其孝。而後可以敎民孝。自盡其弟。而後可以敎民弟。如宜其家人。而後可以敎國人。宜兄宜弟。而後可以敎國人也。○淺深厚薄之不一。謂其間資禀信向之不齊。雖是感之以德。自有太過不及底。故齊一之以禮。禮者。吉凶軍賓嘉五禮。須令他一齊如此。所以賢者俯而就。不肖者企而及也。○人之氣質。有淺深厚薄之不同。故感者不能齊一。必有禮以齊之。如周官一書。何者非禮。以至歲時屬民讀法之屬。無不備具者。正所以齊民也。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-爲政-03-02-C02-S02" name="勉齋黃氏">○勉齋黃氏曰。義理人心所同得。故善之當爲。不善之可惡。皆人心所同然者。敎之以德禮。則示之以所同得者。故惡不善而進於善。有不待勉而從。若徒以政刑强之。彼但知君上之令。不得不從。初不知吾心所有之理。尙不知不善之可惡。又安能進於善耶。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-03-02-C02-S03" name="新安陳氏">○新安陳氏曰。以躬行之德率民。民觀感興起於下。化民之大本已立。但民之感發者。不免有淺深厚薄之不同。須以禮之制度品節齊一之。使淺薄者無不及。深厚者無太過。其未盡善者。皆截然於禮焉。民恥於不善。此觀感於德之功。又至於善。乃齊一於禮之效也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-03-02-C03">一說。格。正也。書曰格其非心。○。愚謂政者。爲治<annotation type="sound">去聲下輔治出治音同</annotation>之具。刑者。輔治之法。德禮則所以出治之本。而德又禮之本也。此其相爲終始。雖不可以偏廢。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-03-02-C03-S01" name="新安陳氏">新安陳氏曰。固不可無德禮。亦不可無政刑。所謂不可偏廢也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-03-02-C04">然政刑。能使民遠<annotation type="sound">去聲</annotation>罪而已。德禮之效。則有以使民日遷善。而不自知。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-03-02-C04-S01" name="新安陳氏">新安陳氏曰。禮記經解篇云。使民日遷善遠罪而不自知也。集註本此句析之而分輕重焉。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-03-02-C05">故治民者。不可徒恃其末。又當深探<annotation type="sound">平聲</annotation>其本也。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-03-02-C05-S01" name="新安陳氏">新安陳氏曰。末。謂政刑。本。謂德禮。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-03-02-C05-S02" name="朱子">○朱子曰。有德禮則政刑在其中。不可專道政刑做不好底。但不得專用政刑爾。聖人之意。只爲當時專用政刑治民。不用德禮。所以有此言。聖人爲天下。何曾廢政刑來。集註後面餘意。是說聖人謂不可專恃政刑。然有德禮而無政刑。又做不得。聖人說話。無一字無意味。○先之以法制禁令。是合下有猜疑關防之意。故民不從。又却齊之以刑。民不見德而畏威。但圖目前苟免於刑。而爲惡之心未嘗不在。先之以明德。則有固有之心者。必觀感而化。然禀有厚薄。感有淺深。又齊之以禮。使之有規矩準繩之可守。則民恥於不善。而又有以至於善。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-爲政-03-02-C05-S03" name="雲峯胡氏">○雲峯胡氏曰。此篇首章曰。爲政以德。政與德爲一。此章分政與德爲二。前章專言古之爲政者。皆自躬行中流出。此章則言後之爲政者。但知道之以法制禁令。而不能躬行以率之也。故言政刑不如德禮之效如此。而集註以相爲終始合言於先。又以本末分言於後也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-006">
+<document>
+<text_unit img="file:D:\jibju\01_162.jpg" id="論語集註大全-爲政-04-01">
+<hanmun_text>
+<canon id="論語-爲政-04-01">○子曰。吾十有五而志于學。</canon>
+<commentary commentator="朱熹" id="論語-爲政-04-01-C01">古者。十五而入大學。心之所之。謂之志。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-04-01-C01-S01" name="新安陳氏">新安陳氏曰。心之所之說文中語。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-04-01-C02">此所謂學。卽大學之道也。志乎此。則念念在此。而爲之不厭矣。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-04-01-C02-S01" name="朱子">朱子曰。孔子只十五歲時。便斷然以聖人爲志矣。今學者誰不爲學。只是不可謂之志于學。果能志于學。則自住不得。志字最有力。要如饑渴之於飮食。纔有悠悠。便是志不立。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-007">
+<document>
+<text_unit img="file:D:\jibju\01_162.jpg" id="論語集註大全-爲政-04-02">
+<hanmun_text>
+<canon id="論語-爲政-04-02">三十而立。</canon>
+<commentary commentator="朱熹" id="論語-爲政-04-02-C01">有以自立。則守之固。而無所事志矣。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-04-02-C01-S01" name="朱子">朱子曰。立。謂把捉得定。世間事物皆動搖我不得。如富貴貧賤威武。不能淫移屈是也。志。方是趨向恁去求討未得到此則得而守之。無所用志矣。志是要求箇道。猶是兩件物事。到立時。便是脚下已踏著了。然猶是守住。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-008">
+<document>
+<text_unit img="file:D:\jibju\01_163.jpg" id="論語集註大全-爲政-04-03">
+<hanmun_text>
+<canon id="論語-爲政-04-03">四十而不惑。</canon>
+<commentary commentator="朱熹" id="論語-爲政-04-03-C01">於事物之所當然。皆無所疑。則知之明。而無所事守矣。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-04-03-C01-S01" name="朱子">朱子曰。旣立矣。加以十年玩索涵養之功。而知見明徹。無所滯礙也。蓋於事物之理。幾微之際。毫髮之辨。無不判然於胸中。更不用守矣。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-009">
+<document>
+<text_unit img="file:D:\jibju\01_163.jpg" id="論語集註大全-爲政-04-04">
+<hanmun_text>
+<canon id="論語-爲政-04-04">五十而知天命。</canon>
+<commentary commentator="朱熹" id="論語-爲政-04-04-C01">天命。卽天道之流行。而賦於物者。乃事物所以當然之故也。知此則知極其精。而不惑。又不足言矣。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-04-04-C01-S01" name="朱子">朱子曰。不惑。是隨事物上。見這道理合是如此。知天命。便是知這道理所以然。如父子之親。須是知其所以親。凡事事物物上。須知他本源來處。譬如一溪。先知得溪中有水。後知得水發源處。○又曰。天道流行。賦予萬物。莫非至善無妄之理而不已焉。是則所謂天命也。物之所得爲性。性之所具爲理。名殊而實一也。學至不惑而又進焉。則理無不窮。性無不盡。而有以知此矣。理以事別。性以人殊。命則天道之全。而性之所以爲性。理之所以爲理者也。自天命觀之。則理性云者。小德之川流也。自理性觀之。則天命云者。大德之敦化也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-010">
+<document>
+<text_unit img="file:D:\jibju\01_163.jpg" id="論語集註大全-爲政-04-05">
+<hanmun_text>
+<canon id="論語-爲政-04-05">六十而耳順。</canon>
+<commentary commentator="朱熹" id="論語-爲政-04-05-C01">聲入心通。無所違逆。知之之至。不思而得也。</commentary>
+<sub_commentary commentator="和靖尹氏" id="論語-爲政-04-05-C01-S01" name="和靖尹氏">和靖尹氏曰。六十而耳順。聞理卽悟。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-04-05-C01-S02" name="朱子">○朱子曰。知天命。則猶思而得。到得耳順。則不思而得矣。聽最是人所不著力處。今聖人凡耳中所聞者。便皆是道理而無凝滯。到得此時。是於道理爛熟了。聞人言語。更不用思量。纔聞言便曉也。○或問四十不惑。是知之明。五十知天命。是知極其精。六十耳順。是知之之至。曰不惑。是事上知。知天命。是理上知。耳順。是事理皆通。入耳無不順。今學者致知。儘有次第節目。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-爲政-04-05-C01-S03" name="慶源輔氏">○慶源輔氏曰。所知至極而精熟。徹表徹裏。故聲纔入。心便通。是非判然。其貫通神速之妙。更不待少致思而自得其理也。</sub_commentary>
+<sub_commentary commentator="陳氏" id="論語-爲政-04-05-C01-S04" name="陳氏">○陳氏曰。纔容少思而後得。則是內外有相扞格違逆。不得謂之順矣。如夫子聞滄浪之歌。卽悟自取之義。是耳順之證也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-011">
+<document>
+<text_unit img="file:D:\jibju\01_164.jpg" id="論語集註大全-爲政-04-06">
+<hanmun_text>
+<canon id="論語-爲政-04-06">七十而從心所欲。不踰矩。<annotation type="sound">從如字。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-爲政-04-06-C01">從。隨也。矩。法度之器。所以爲方者也。隨其心之所欲。而自不過於法度。安而行之。不勉而中<annotation type="sound">去聲</annotation>也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-04-06-C01-S01" name="朱子">朱子曰。聖人表裏精粗無不昭徹。其體雖是人。其實只是一團天理。所謂從心所欲不踰矩。左來右去。盡是天理。如何不快活。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-04-06-C02">○程子曰。孔子生而知者也。言亦由學而至。所以勉進後人也。立。能自立於斯道也。不惑。則無所疑矣。知天命。窮理盡性也。耳順。所聞皆通也。從心所欲不踰矩。則不勉而中矣。又曰。孔子自言其進德之序如此者。聖人未必然。但爲<annotation type="sound">去聲</annotation>學者立法。使之盈科而後進。成章而後達耳。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-04-06-C02-S01" name="朱子">朱子曰。立。是物格知至而意誠心正之效。不止是用工處。不惑知天命。是意誠心正而所知日進不已之驗。至耳順則所知又至極而精熟。聖人亦大約將平生爲學進德處。分許多段說。十五志學。此學自是徹始徹終。到四十不惑。已自有耳順從心所欲不踰矩意思。但久而益熟爾。年止七十。若更加數十歲。也只是這箇路。不是至七十歲便畫住了。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-04-06-C03">胡氏曰。聖人之敎亦多術。然其要。使人不失其本心而已。欲得此心者。惟志乎聖人所示之學。循其序而進焉。至於一疵不存。萬理明盡之後。則其日用之間。本心瑩<annotation type="sound">縈定反</annotation>然。隨所意欲。莫非至理。蓋心卽體。欲卽用。體卽道。用卽義。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-04-06-C03-S01" name="新安陳氏">新安陳氏曰。道言渾淪之體。義言隨事適宜之用。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-04-06-C04">聲爲律。而身爲度矣。</commentary>
+<sub_commentary commentator="" id="論語-爲政-04-06-C04-S01">史記夏紀。禹爲人敏給克勤。其德不違。其仁可親。其言可信。聲爲律。身爲度。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-04-06-C04-S02" name="朱子">○朱子曰。胡氏不失其本心一段極好。儘用子細玩味。聖人千言萬語。只是要人收拾得箇本心。日用之間。著力屛去私欲。扶持此心出來。理是心所當知。事是心所當爲。不要埋沒了他。如脩齊治平。皆要此心爲之。此心皆自有許多道理。不待逐旋安排入來。聖人立許多節目。只要人剔括將自家心裏許多道理出來而已。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-04-06-C04-S03" name="新安陳氏">○新安陳氏曰。聲卽天地中和之聲。自然可以爲律。身卽天地正大之體。自然可以爲度。以此形容不踰矩也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-04-06-C05">又曰。聖人言此。一以示學者當優游涵泳。不可躐等而進。二以示學者當日就月將。不可半途而廢也。</commentary>
+<sub_commentary commentator="輔廣" id="論語-爲政-04-06-C05-S01" name="慶源輔氏">慶源輔氏曰。亟者則躐等而進。怠者則半途而止。亟心亡。則能優游涵泳。逐級而進。怠心亡。則能日就月將。不極不止。聖人示學者。實兼此二意。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-04-06-C06">愚謂聖人。生知安行。固無積累<annotation type="sound">魯水反</annotation>之漸。然其心。未嘗自謂已至此也。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-04-06-C06-S01" name="新安陳氏">新安陳氏曰。苟自謂吾學已至。則便不是聖人。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-04-06-C07">是其日用之間。必有獨覺其進。而人不及知者。故因其近似以自名。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-04-06-C07-S01" name="新安陳氏">新安陳氏曰。自爲立與不惑等名。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-04-06-C08">欲學者以是爲則而自勉。非心實自聖而姑爲是退託也。後凡言謙辭之屬。意皆放<annotation type="sound">上聲</annotation>此。</commentary>
+<sub_commentary commentator="" id="論語-爲政-04-06-C08-S01">問此章如何分知行。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-04-06-C08-S02" name="朱子">朱子曰。志學亦是要行。而以知爲重。立是本於知。而以行爲重。志學言知之始。不惑知命耳順。言知之至。立言行之始。從心不踰矩。言行之至。○十五志學。是一面學。一面力行。至三十而立。則行之效也。志學與不惑知天命耳順一類。是說知底意思。立與從心所欲一類。是說到底地位。○聖人也略有箇規模與人同。如志學也是衆人知學時。及其立與不惑也。有箇迹相似。若必指定謂聖人必恁地固不得。若說聖人全無事乎學。只空說也不得。但聖人自有聖人底事。○志字最要緊。直須結裹在從心不踰矩上。然又須循乎聖人爲學之序方可。○問自志學而立至從心所欲。自致知誠意至治國平天下。二者次第等級各不同。何也。曰。論語所云。乃進學之次第。大學所云。乃論學之規模。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-爲政-04-06-C08-S03" name="勉齋黃氏">○勉齋黃氏曰。十年而後一進者。亦聖人之心。至此而自信耳。學雖已至。而未敢自信。必反覆參驗。見其必然而無疑。然後有以自信。此尤足以見聖人之所以爲聖人也。苟惟謂聖人謙辭以勉人。則皆架空之虛辭耳。故集註雖以勉人爲辭。而終以獨覺其進爲說。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-爲政-04-06-C08-S04" name="雙峯饒氏">○雙峯饒氏曰。矩字尤爲此章之要。致知是要知此矩。力行是要踐此矩。立是守得此矩定。不惑是見得此矩明。知命是又識得此矩之所自來。耳順是見得此矩十分透徹。從心不踰。是行得此矩十分純熟。矩者何。此心之天則是也。規矩皆法度之器。規圓。善於旋轉。而無界限之可守。矩方則有廉隅界限。截然一定而不易。智欲其圓。行欲其方。故以矩言之。矩卽義以方外是也。胡氏謂體卽道。用卽義。義字正爲矩字而發。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-爲政-04-06-C08-S05" name="雲峯胡氏">○雲峯胡氏曰。自堯舜以至夫子。聖聖相傳。只傳此心。夫子年十五時。其心已自期於聖人。到七十時。其心猶不敢自謂是聖人。若心實自聖而姑爲是退託。豈聖人之心哉。要之志學者。此心所向之力。立者。此心所守之定。不惑者。此心所見之明。知天命者。心與理融。而洞其所以然。耳順者。理與心會。其順也自然而然。不踰矩者。此心此理。渾乎爲一。而有莫測其然者矣。十年一進。聖人之心。聖人自知之。故卽其近似以語學者。欲學者皆心夫聖人之心也。忘者不用其心。如何到聖處。助者亟用其心。亦如何便到聖處。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-04-06-C08-S06" name="新安陳氏">○新安陳氏曰。聖人所志之學。大學也。大學之道。知行爲要。此章分知之始知之至。行之始行之至。朱子一條盡之矣。聖學自志學而始。至從心不踰矩而終。始終惟一心學也。心之所之謂之志。念念在道。大本立矣。心之所願謂之欲。從容中道。大用行焉。其中節次。自志學而以序進。自有欲罷不能者。常人肆其心之所欲。皆私欲耳。烏知其所謂矩。賢人制其心之所欲。始能勉彊而不出於矩。聖人之心。渾然天理。無一毫私欲之累。隨其心之所欲。皆天理大用之流行。自從容而不踰於矩。學者苟能卓然立志。以志乎聖人所志之學。循其序而知行並進焉。學與年俱長。德與年俱進。豈不能漸造於純熟之境。而於希聖其庶幾乎。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-012">
+<document>
+<text_unit img="file:D:\jibju\01_167.jpg" id="論語集註大全-爲政-05-01">
+<hanmun_text>
+<canon id="論語-爲政-05-01">○孟懿子問孝。子曰。無違。</canon>
+<commentary commentator="朱熹" id="論語-爲政-05-01-C01">孟懿子。魯大夫仲孫氏。名何忌。無違。謂不背<annotation type="sound">音佩</annotation>於理。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-05-01-C01-S01" name="朱子">朱子曰。無違。通上下而言。三家僭禮。自犯違了。不當爲而爲。固爲不孝。若當爲而不爲。亦不孝也。詳味無違一語。一齊都包在裏。○或問無違。曰。未見得聖人之意在。且說不以禮。蓋亦多端。有苟且以事親而違禮。有以僭事親而違禮。自有箇道理。不可違越。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-05-01-C01-S02" name="新安陳氏">○新安陳氏曰。無違二字。簡要而涵蓄。大有深意。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-013">
+<document>
+<text_unit img="file:D:\jibju\01_167.jpg" id="論語集註大全-爲政-05-02">
+<hanmun_text>
+<canon id="論語-爲政-05-02">樊遲御。子告之曰。孟孫。問孝於我。我對曰無違。</canon>
+<commentary commentator="朱熹" id="論語-爲政-05-02-C01">樊遲。孔子弟子。名須<annotation type="biographical">魯人</annotation>。御。爲<annotation type="sound">去聲</annotation>孔子御車也。孟孫。卽仲孫也。</commentary>
+<sub_commentary commentator="胡氏" id="論語-爲政-05-02-C01-S01" name="胡氏">胡氏曰。三家皆魯桓公庶子。初以仲叔季爲氏。其後加以孫字。公子之子稱公孫也。仲改爲孟者。庶子自爲長少。不敢與莊公爲伯仲叔季。公孫不敢祖諸侯也。故自以庶長爲孟。杜預作公子譜云。仲慶父弑君。故改爲孟。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-05-02-C02">夫子以懿子未達而不能問。恐其失指。而以從親之令爲孝。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-05-02-C02-S01" name="新安陳氏">新安陳氏曰。恐其以從親之令爲無違。則失其本指。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-05-02-C03">故語<annotation type="sound">音御</annotation>樊遲以發之。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-05-02-C03-S01" name="新安陳氏">新安陳氏曰。冀懿子得聞之也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-014">
+<document>
+<text_unit img="file:D:\jibju\01_168.jpg" id="論語集註大全-爲政-05-03">
+<hanmun_text>
+<canon id="論語-爲政-05-03">樊遲曰。何謂也。子曰。生事之以禮。死葬之以禮。祭之以禮。</canon>
+<commentary commentator="朱熹" id="論語-爲政-05-03-C01">生事葬祭。事親之始終具矣。禮。卽理之節文也。</commentary>
+<sub_commentary commentator="輔廣" id="論語-爲政-05-03-C01-S01" name="慶源輔氏">慶源輔氏曰。此理字。卽指前不背於理之理字言也。禮是先王據事物之理。品節之以成文者。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-05-03-C02">人之事親。自始至終。一於禮而不苟。其尊親也至矣。是時三家僭禮。故夫子以是警之。然語意渾<annotation type="sound">上聲</annotation>然。又若不專爲<annotation type="sound">去聲</annotation>三家發者。所以爲聖人之言也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-05-03-C02-S01" name="朱子">朱子曰。生事葬祭之必以禮。聖人說得本闊。人人可用。不特爲三家僭禮而設。</sub_commentary>
+<sub_commentary commentator="陳氏" id="論語-爲政-05-03-C02-S02" name="陳氏">○陳氏曰。始終一以禮事親。則爲敬親之至矣。然若何而能一於禮。其中節文纖悉委曲。是多少事。皆不可不講。</sub_commentary>
+<sub_commentary commentator="黃士毅" id="論語-爲政-05-03-C02-S03" name="莆田黃氏">○莆田黃氏曰。若不以禮。便是不以君子之道待其親。便是違背於理。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-05-03-C03">○胡氏曰。人之欲孝其親。心雖無窮。而分<annotation type="sound">去聲</annotation>則有限。得爲而不爲。<annotation type="gloss">謂苟簡儉陋者。</annotation>與不得爲而爲之。<annotation type="gloss">謂僭禮者。</annotation>均於不孝。所謂以禮者。爲其所得爲者而已矣。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-05-03-C03-S01" name="朱子">朱子曰。爲所得爲。只是合做底。大夫以大夫之禮事親。諸侯以諸侯之禮事親便是。</sub_commentary>
+<sub_commentary commentator="齊氏" id="論語-爲政-05-03-C03-S02" name="齊氏">○齊氏曰。說與何忌。孟僖子之子。昭七年。僖子從昭公如楚。病不能相禮。乃講學之二十四年。僖子將卒。屬說與何忌於夫子。使事之而學禮焉。時孔子年三十四。樊遲爲孔子御。必在哀十三年。魯以幣召還孔子後。時孔子年七十矣。僖子殁已久。而懿子猶問孝。可謂賢矣。僖子嘗令二子學禮。孔子不過卽其垂殁所命以敎其子爾。時三家習於僭。非不欲以尊親也。而不知適以陷其親於惡。使懿子不違其親之命。而悉以孔子所敎生事而死葬祭之。則凡其所用。皆親所得爲。而僖子之心慰矣。奈之何其不然也。聖人言不迫切。而意深到。學者所宜細玩。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-05-03-C03-S03" name="新安陳氏">○新安陳氏曰。孔子此言。雖若告衆人。實警孟孫。雖警孟孫。仍可用於衆人。含蓄深切。所以爲聖人之言也。</sub_commentary>
+<sub_commentary commentator="許謙" id="論語-爲政-05-03-C03-S04" name="東陽許氏">○東陽許氏曰。夫子曰生事葬祭皆以禮。集註亦曰。人之事親。始終一於禮而不苟。此是就禮之中正處說。過於此不可。不及於此亦不可。夫子雖戒孟孫之僭。然當時於所當爲者。豈皆盡善。則不及之意。亦在其中。故又曰語意渾然。又若不專爲三家發者。謂推廣之無不包也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-015">
+<document>
+<text_unit img="file:D:\jibju\01_169.jpg" id="論語集註大全-爲政-06-01">
+<hanmun_text>
+<canon id="論語-爲政-06-01">○孟武伯。問孝。子曰。父母。唯其疾之憂。</canon>
+<commentary commentator="朱熹" id="論語-爲政-06-01-C01">武伯。懿子之子。名彘<annotation type="sound">音滯</annotation>。言父母愛子之心。無所不至。唯恐其有疾病。常以爲憂也。<annotation type="">此正解經一句。</annotation>人子體此。而以父母之心爲心。則凡所以守其身者。自不容於不謹矣。豈不可以爲孝乎。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-06-01-C01-S01" name="新安陳氏">新安陳氏曰。此五句。朱子發孔子言外之意。方見子之孝。凡所以守其身者。包涵甚闊。謹疾固是守身。不失身於不義。尤守身之大者。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-06-01-C02">舊說。人子能使父母。不以其陷於不義爲憂。而獨以其疾爲憂。乃可爲孝。亦通。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-06-01-C02-S01" name="新安陳氏">新安陳氏曰。前說爲佳。後說以衍餘意則可。以解正意則迂晦矣。○或問父母唯其疾之憂。何故以告武伯。朱子曰。這許多所答。也是當時那許多人。各有那般病痛。故隨而救之。又曰。其他所答。固是皆切於學者。看此句較切。其他只是就道理上說如此。却是這句分外於身心上指出。若能知愛其身。必知所以愛其父母。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-爲政-06-01-C02-S02" name="雙峯饒氏">○雙峯饒氏曰。非特有疾時憂。無疾時。亦常憂其愛護之不謹。而有以致疾。此見父母愛子之切處。不獨謹疾而已。○凡所以守其身。下一凡字。蓋不獨謹疾而已。愚謂已包後說之意在其中矣。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-爲政-06-01-C02-S03" name="雲峯胡氏">○雲峯胡氏曰。夫子聖人也。於疾且愼。况凡爲人子者乎。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-016">
+<document>
+<text_unit img="file:D:\jibju\01_170.jpg" id="論語集註大全-爲政-07-01">
+<hanmun_text>
+<canon id="論語-爲政-07-01">○子游問孝。子曰。今之孝者。是謂能養。至於犬馬。皆能有養。不敬。何以別乎。<annotation type="sound">養去聲。別彼列反。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-爲政-07-01-C01">子游。孔子弟子。姓言。名偃<annotation type="biographical">吳人</annotation>。養。謂飮食供奉也。犬馬。待人而食。亦若養。然言人畜<annotation type="sound">許六反</annotation>犬馬。皆能有以養之。若能養其親。而敬不至。則與養犬馬者何異。甚言不敬之罪。所以深警之也。○胡氏曰。世俗事親。能養足矣。狎恩恃愛。而不知其漸流於不敬。則非小失也。子游。聖門高弟。未必至此。聖人直恐其愛踰於敬。故以是深警發之也。</commentary>
+<sub_commentary commentator="" id="論語-爲政-07-01-C01-S01">問犬馬不能自食。待人而食者也。故畜犬馬者。必有以養之。但不敬爾。然則養其親而敬有所不至。不幾於以犬馬視其親乎。敬者。尊敬而不敢忽忘之謂。非特恭謹而已也。人雖至愚。孰忍以犬馬視其親者。然幾微之間。尊敬之心。一有不至。則是所以視其親者。實無以異於犬馬。而不自知也。聖人之言警乎人子。未有若是之切者。延平李氏曰。此一段恐當時之人。習矣而不察。只以能養爲孝。雖孔門學者。亦恐未免如此。故夫子警切以告之。使之反諸心也。苟推測至此。孝敬之心。一不存焉。卽陷於犬馬之養矣。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-07-01-C01-S02" name="朱子">○朱子曰。子游是箇簡易人。如灑掃應對。便忽略了。如喪致乎哀而止。便見他節文有未至處。○或問父母至尊親。犬馬至卑賤。聖人之言。豈若是之不倫乎。曰。此設戒之言也。故特以尊卑懸絶之甚者明之。所以深著夫能養而不能敬者之罪也。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-爲政-07-01-C01-S03" name="慶源輔氏">○慶源輔氏曰。能養未必能敬。能敬則不至於不能養也。記曰。仁人之事親如事天。可徒愛而不知敬乎。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-爲政-07-01-C01-S04" name="雙峯饒氏">○雙峯饒氏曰。是謂能養。皆能有養。看兩箇能字。便見是說養親之人。與養犬馬之人。言養親之人。能養而不能敬。則與養犬馬之人。無所分別。非謂父母與犬馬無別也。集註云。與養犬馬者何異。卽是人字。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-017">
+<document>
+<text_unit img="file:D:\jibju\01_171.jpg" id="論語集註大全-爲政-08-01">
+<hanmun_text>
+<canon id="論語-爲政-08-01">○子夏問孝。子曰。色難。有事。弟子服其勞。有酒食。先生饌。曾是以爲孝乎。<annotation type="sound">食音嗣。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-爲政-08-01-C01">色難。謂事親之際。惟色爲難也。食。飯也。先生。父兄也。饌。飮食之也。曾。猶嘗也。蓋孝子之有深愛者。必有和氣。有和氣者。必有愉色。有愉色者。必有婉容。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-08-01-C01-S01" name="新安陳氏">新安陳氏曰。愉。悅也。色見於面者。婉。順也。容。擧一身之容儀言之。此三句。禮記祭義篇之文。色非可以偽爲也。惟深愛之心根於中。而後愉婉之色容見於外。其所以難者。乃有深愛和氣之難也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-08-01-C02">故事親之際。惟色爲難耳。服勞奉養<annotation type="sound">去聲</annotation>。○此事親之常事。</commentary>
+<commentary commentator="朱熹" id="論語-爲政-08-01-C03">未足爲孝也。舊說。承順父母之色。爲難。亦通。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-08-01-C03-S01" name="新安陳氏">新安陳氏曰。後說添承順父母字方可解。○問知敬親者。其色必恭。知愛親者。其色必和。此皆誠實之發見。不可以偽爲。故子夏問孝。孔子答之以色難。朱子曰。此說亦好。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-08-01-C04">程子曰。告懿子。告衆人者也。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-08-01-C04-S01" name="新安陳氏">新安陳氏曰。事親以禮。人所通行。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-08-01-C05">告武伯者。以其人多可憂之事。</commentary>
+<sub_commentary commentator="" id="論語-爲政-08-01-C05-S01">問如何見得。朱子曰。觀聖人恁地說。則知其人如此。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-08-01-C06">子游能養。而或失於敬。子夏能直義。而或少溫潤之色。各因其材之高下。與其所失而告之。故不同也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-08-01-C06-S01" name="朱子">朱子曰。告懿子無違意思闊。若其他所告。則就其人所患說。然聖人雖是告衆人。若就孟孫身上看。自是大段切。雖專就一人身上說。若於衆人身上看。亦未嘗無益。○子游見處高明。而工夫則疎。子夏較謹守法度。依本子做。觀灑掃應對之論。與博學篤志之說可見。惟高明而疎。故必用敬。惟依本做。故必用愛。子夏之病。乃子游之藥。若以色難告子游。以敬告子夏。則以水濟水。以火濟火。故聖人藥各中其病。○問如何見子夏直義處。曰。觀其言可者與之。不可者拒之。孟子亦曰。北宮黝似子夏。是箇持身謹。規矩嚴底人。問嚴威儼恪。非所以事親。曰。太莊太嚴厲了。○問子夏能直義而或少溫潤之色。直義莫是說其資之剛方否。曰。只是於事親時無甚回互處。○問夫子答子游子夏問孝。意雖不同。然自今觀之。奉養而無狎恩恃愛之失。主敬而無嚴恭儼恪之偏。儘是難。曰。旣知二失。則中間須自有箇處之之理。愛而不敬。非眞愛也。敬而不愛。非眞敬也。敬非嚴恭儼恪之謂。以此爲敬則誤矣。只把做件事小心畏謹便是敬。○問孔子答問孝四章雖不同。意則一。曰。如何。曰。彼之問孝。皆有意乎事親者。孔子各欲其於情性上覺察。不使之偏勝。則其孝皆平正而無病矣。曰。如此看恰好。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-爲政-08-01-C06-S02" name="勉齋黃氏">○勉齋黃氏曰。事親之道。非貴於聲音笑貌也。而以色爲難者。色非可以强爲也。非其眞有深愛存乎其心。惟恐一毫拂其親之意者。安能使愉婉之狀貌。見於顔面也哉。其告子夏者。所以發其篤於愛親之念也。或曰。敬與愛。兩事常相反也。敬則病於嚴威。愛則病於柔順。今其告二子者如此。得無擧一而廢一乎。曰。敬與愛。皆事親之不能無也。父母至親也。而愛心生焉。父母至尊也。而敬心生焉。皆天理之自然。而非人之所彊爲也。然發之各有節。而行之各有宜。或過或不及。則二者常相病也。故聖人因其所偏者而警之。所以勉其不足。而損其有餘也。四章問孝。其一則不辱其親。其二則不辱其身。三則敬。四則愛。學者於此四者而深體之。事親之大義。盡於此矣。述論語者聚而次之。警人之意深矣。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-08-01-C06-S03" name="新安陳氏">○新安陳氏曰。問孝四章。乃記者以類序次之。一則欲不違禮以事親。二則欲謹守身以不憂其親。三則欲其敬親。四則欲其愛親。學者合四章而深體之。事親之孝可得矣。聖人之言。如化工。隨物賦形。凡一部論語中。其敎人不同。及問同答異者。皆如此。不但此四章也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-018">
+<document>
+<text_unit img="file:D:\jibju\01_173.jpg" id="論語集註大全-爲政-09-01">
+<hanmun_text>
+<canon id="論語-爲政-09-01">○子曰。吾與回。言終日。不違如愚。退而省其私。亦足以發。回也不愚。</canon>
+<commentary commentator="朱熹" id="論語-爲政-09-01-C01">回。孔子弟子。姓顔。字子淵<annotation type="biographical">魯人</annotation>。不違者。意不相背<annotation type="sound">音佩</annotation>。有聽受而無問難<annotation type="sound">去聲</annotation>也。私。謂燕居獨處<annotation type="sound">上聲</annotation>。非進見請問之時。發。謂發明所言之理。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-09-01-C01-S01" name="新安陳氏">新安陳氏曰。發。如發揮發見之發。非以言語發明之也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-09-01-C02">愚聞之師曰。</commentary>
+<sub_commentary commentator="" id="論語-爲政-09-01-C02-S01">朱子之師姓李氏。名侗。字愿中。號延平先生。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-09-01-C03">顔子深潛純粹。</commentary>
+<sub_commentary commentator="輔廣" id="論語-爲政-09-01-C03-S01" name="慶源輔氏">慶源輔氏曰。深潛。謂不淺露而德性淵宏。純粹。謂無瑕疵而氣質明淨。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-09-01-C04">其於聖人體段已具。其聞夫子之言。黙識心融。觸處洞然。自有條理。故終日言。但見其不違如愚人而已。及退省<annotation type="sound">悉井反</annotation>其私。則見其日用動靜語黙之間。皆足以發明夫子之道。坦然由之而無疑。然後知其不愚也。</commentary>
+<sub_commentary commentator="胡寅" id="論語-爲政-09-01-C04-S01" name="致堂胡氏">致堂胡氏曰。夫子久已知顔子之不愚。必曰退省其私者。以見非無證之空言。且以明進德之功。必由內外相符。隱顯一致。欲學者之謹其獨也。夫子與言終日。則所言多矣。今存者幾。惜哉。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-09-01-C04-S02" name="朱子">○朱子曰。黙識心融。固是他功深力到。亦是天資高。顔子乃生知之次。比之聖人。已具九分九釐。所爭只一釐。孔子只點他這些。便與他相湊。他所以深領其言而不再問也。融字。如消融相似。如雪在湯中。若不融。一句只是一句。如何發得出來。如人喫物事。若不消。只生在肚裏。如何滋益體膚。退省其私。私者。他人所不知而回自知者。夫子能察之。如心之所安。燕居獨處之所。爲見識之所獨。皆是。與中庸謹獨之獨同。○不違如愚。不消說了。亦足以發。是聽得夫子說話。便能發明於日用躬行之間。此夫子退而省察顔子之私如此。且如說非禮勿視聽言動。顔子便眞箇不於非禮上視聽言動。集註謂坦然由之而無疑。是他眞箇見得。眞箇便去做。○退。非夫子退。乃顔子退也。發。啓發也。始也如愚人。似無所啓發。今省其私。乃有啓發。與啓子之啓不同。○顔子所聞。入耳著心。布乎四體。形乎動靜。則足以發明夫子之言矣。○問顔子不違。與孔子耳順相近否。曰那地位大段高。不違是顔子於孔子說話都曉得。耳順是無所不通。○省其私。私不專在無人獨處之地。謂如人相對坐。心意黙所趨向。亦是私。○問亦足以發。是顔子於燕私之際。將聖人之言發見於行事否。曰。固是。雖未盡見於行事。其理亦當有發見處。然燕私之際。尤見顔子踐履之實處。又曰。與之言。顔子都無可否。似箇愚底。及退而觀其所行。夫子與之言者。一一做得出來不差。豈不足以發明夫子之道。如今人說與人做一器用。方與他說箇尺寸高低形製。他聽之全然似不曉底。及明日做得來。却與昨日所說底更無分毫不似。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-爲政-09-01-C04-S03" name="南軒張氏">○南軒張氏曰。亦足以發。其請事斯語之驗與。黙識心融。此於聖人耳順地位。雖未幾及。而已同是一般趣味矣。</sub_commentary>
+<sub_commentary commentator="蔡模" id="論語-爲政-09-01-C04-S04" name="覺軒蔡氏">○覺軒蔡氏曰。發者固是發明此理。疑亦有發見活潑潑之意。夫子再以不愚而信之。所以深喜之也。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-爲政-09-01-C04-S05" name="慶源輔氏">○慶源輔氏曰。黙識。是不待言說而自喩其意。心融。是不待思維而自與之爲一。觸處洞然自有條理者。謂如行自己家庭中。蹊徑曲折。器用安頓條理次序。曉然在吾心目之間也。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-爲政-09-01-C04-S06" name="雲峯胡氏">○雲峯胡氏曰。顔子之資。鄰於生知。故無難疑答問。而自有以知夫子所言之理。顔子之學。勇於力行。故雖燕居獨處。而亦足以行夫子所言之理。不曰行而曰發。此一發字最有力。夫子嘗曰。語之而不惰者。其回也歟。惰則不發。發便不惰。孟子曰。有如時雨化之者。先儒以顔子當之。物經時雨便發。顔子一聞夫子之言。便足以發。故周子曰。發聖人之蘊。敎萬世無窮者。顔子也。且不徒發之於人所共見之時。而能發之於己所獨知之地。顔子蓋眞能發夫子約禮之敎。而爲愼獨之學者也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-019">
+<document>
+<text_unit img="file:D:\jibju\01_175.jpg" id="論語集註大全-爲政-10-01">
+<hanmun_text>
+<canon id="論語-爲政-10-01">○子曰。視其所以。</canon>
+<commentary commentator="朱熹" id="論語-爲政-10-01-C01">以。爲也。爲善者爲君子。爲惡者爲小人。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-10-01-C01-S01" name="朱子">朱子曰。大綱且看這一箇人。是爲善底人。是爲惡底人。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-020">
+<document>
+<text_unit img="file:D:\jibju\01_175.jpg" id="論語集註大全-爲政-10-02">
+<hanmun_text>
+<canon id="論語-爲政-10-02">觀其所由。</canon>
+<commentary commentator="朱熹" id="論語-爲政-10-02-C01">觀。比視爲詳矣。由。從也。事雖爲善。而意之所從來者。有未善焉。則亦不得爲君子矣。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-10-02-C01-S01" name="朱子">朱子曰。爲善底人。又須觀其意之所從來。若本意以爲己事所當然。無所爲而爲之。乃是爲己。若以爲可以求知於人而爲之。是意所從來已不善了。如齊桓伐楚。固義也。然其意所從來。乃因怒蔡姬而伐蔡。蔡潰遂伐楚。則所爲雖是。而所由未是也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-10-02-C02">或曰由。行也。謂所以行其所爲者也。</commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-021">
+<document>
+<text_unit img="file:D:\jibju\01_175.jpg" id="論語集註大全-爲政-10-03">
+<hanmun_text>
+<canon id="論語-爲政-10-03">察其所安。</canon>
+<commentary commentator="朱熹" id="論語-爲政-10-03-C01">察。則又加詳矣。</commentary>
+<sub_commentary commentator="馮椅" id="論語-爲政-10-03-C01-S01" name="厚齋馮氏">厚齋馮氏曰。穀梁傳曰。常事曰視。非常曰觀。觀詳於視也。易曰。仰以觀於天文。俯以察於地理。察密於觀也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-10-03-C02">安。所樂<annotation type="sound">音洛下同</annotation>也。所由雖善。而心之所樂者。不在於是。則亦僞耳。豈能久而不變哉。</commentary>
+<sub_commentary commentator="程子" id="論語-爲政-10-03-C02-S01" name="程子">程子曰。視其所以。觀人之大槩。察其所安。心之所安也。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-10-03-C02-S02" name="朱子">○朱子曰。意所從來處旣善。又須察其中心樂與不樂。安是中心樂於爲善。自無厭倦之意。若中心所樂不在是。便或作或輟。未免於偽。○問以是察人。是節節看到心術隱微處。最是難事。亦必在己者能知言窮理。使心通乎道。而能精別是非。然後能察人如聖人也。曰。於樂處便是誠實爲善。如好好色。如惡惡臭。不是勉彊做來。若以此觀人。亦須以此自觀。看自家爲善果是爲己。果是樂否。○所以。是所爲。所由。是如此做。所安。是所樂。譬如讀書是所爲。豈不是好事。然其去如此做。又煞多般。有爲己而讀者。有爲名而讀者。有爲利而讀者。須觀其所由從如何。其爲己而讀者固善矣。然或有出於勉彊者。故又觀其所樂。○問聖人於人之善惡。如見肺肝。當不待如此著力。曰。這也爲常人說。聖人固不用得如此。然聖人觀人。也著恁地詳細。如今人說一種。長厚說話。便道聖人不恁地。只略略看便了。這箇若不見敎徹底善惡分明。如何取舍。○問觀人之道。也有自善而入於惡。亦有事雖惡而心所存本好。曰。這箇也自可見。須是如此看。方見好底鐵定是好人。不好底鐵定是不好人。又曰。初間纔看善惡便曉然。到觀其所由有不善。這又勝得當下便不是底。到察其所安有不善。這又勝前二項人。不是到這裏便做不好人看他。只是不是他心肯意肯。必不會有終。○所安是他平日存主習熟處。他本心愛如此。雖所由偶然不如此。終是勉彊。畢竟所樂不在此。次第依舊又從熟處去。如平日愛踞傲。勉彊敎他恭敬。一時之間。亦能恭敬。次第依舊自踞傲了心方安。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-爲政-10-03-C02-S03" name="勉齋黃氏">○勉齋黃氏曰。視其所以。兼君子小人視之。觀其所由。則先之爲小人者。不復觀之矣。所觀者君子也。察其所安。則君子所由之未善者。亦不復察之矣。察其所由之善。而欲知其安不安也。蓋所以旣爲小人。何必復觀其所由。所由旣未善。何必復察其所安。</sub_commentary>
+<sub_commentary commentator="熊禾" id="論語-爲政-10-03-C02-S04" name="勿軒熊氏">○勿軒熊氏曰。所由言意之所來。所安言心之所安。意是發端處。心是全體處。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-022">
+<document>
+<text_unit img="file:D:\jibju\01_177.jpg" id="論語集註大全-爲政-10-04">
+<hanmun_text>
+<canon id="論語-爲政-10-04">人焉廋哉。人焉廋哉。</canon>
+<commentary commentator="朱熹" id="論語-爲政-10-04-C01">焉。何也。廋。匿也。重<annotation type="sound">平聲</annotation>言以深明之。○程子曰。在己者能知言窮理。則能以此察人。如聖人也。</commentary>
+<sub_commentary commentator="洪興祖" id="論語-爲政-10-04-C01-S01" name="洪氏">洪氏曰。此夫子觀人之法。聽其言觀眸子。人焉廋哉。此孟子觀人之法。孟子之法。非有過人之聰明者不能。夫子之法。人皆可用。亦可以自考。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-10-04-C01-S02" name="新安陳氏">○新安陳氏曰。在我者不明。則亦何以察人。集註引程子之言。以補本文之意。知言。如孟子我知言。能知人言之是非。窮盡事物之理。則心如明鏡。方能如聖人觀人之法以察人也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-023">
+<document>
+<text_unit img="file:D:\jibju\01_177.jpg" id="論語集註大全-爲政-11-01">
+<hanmun_text>
+<canon id="論語-爲政-11-01">○子曰。溫故而知新。可以爲師矣。</canon>
+<commentary commentator="朱熹" id="論語-爲政-11-01-C01">溫。尋繹也。故者。舊所聞。新者。今所得。言學能時習舊聞。而每有新得。則所學在我。而其應不窮。故可以爲人師。若夫<annotation type="sound">音扶</annotation>記問之學。則無得於心。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-11-01-C01-S01" name="新安陳氏">新安陳氏曰。與每有新得相反。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-11-01-C02">而所知有限。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-11-01-C02-S01" name="新安陳氏">新安陳氏曰。與其應不窮相反。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-11-01-C03">故學記。譏其不足以爲人師。正與此意。互相發也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-11-01-C03-S01" name="朱子">朱子曰。記問之學。溫故而不知新。只記得硬本子。更不去裏面搜尋得道理。記得十件。只是十件。記得百件。只是百件。這箇便死殺了。知新。則就溫故中見得這道理愈精。勝似舊時。引而伸之。觸類而長之。則常活不死殺。中庸溫故而知新。乃是溫故重。此却是知新重。○溫故方能知新。不溫故而求知新。則亦不可得而求矣。○溫故而知新。味其語意。乃爲溫故而不知新者設。不溫故固是間斷了。若果無所得。雖溫故亦不足以爲人師。所以溫故又要知新。惟溫故而不知新。故不足以爲人師也。這語意在知新上。溫故知新不是易底。新者。只是故中底道理。時習得熟。漸漸發得出來。且如一理。看幾箇人來問。就此一理上。一人與說一箇理。都是自家就此理上推究出來。所以其應無窮。且如記問之學。記得一事。更推第二事不去。記得九事。便說十事不出。所以不足爲人師。○問不離溫故之中而知新。其亦下學上達之理乎。曰。亦是漸漸上達之意。○道理卽是一箇道理。論孟所載。是這一箇道理。六經所載。也是這箇道理。但理會得了。時時溫習。覺滋味深長。自有新得。○又曰。昔之所得。雖曰旣爲吾有。然不時加尋繹。則亦未免有廢棄遺忘之患。而無所據以知新矣。然徒能溫故。而不能索義理之所以然者。則見聞雖富。誦說雖勤。而口耳文字之外。略無意見。如無源之水。其出有窮。亦將何以授業解惑。而待學者無已之求哉。○尋繹其所已得。而每每有得於其所未得者。譬之觀人。昨日識其面。今日識其心。於以爲師。其庶矣乎。可云者。明未至此者。不足以爲師。非以爲能如是而爲師有餘也。</sub_commentary>
+<sub_commentary commentator="范祖禹" id="論語-爲政-11-01-C03-S02" name="范氏">○范氏曰。溫故者。月無忘其所能。知新者。日知其所無。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-024">
+<document>
+<text_unit img="file:D:\jibju\01_178.jpg" id="論語集註大全-爲政-12-01">
+<hanmun_text>
+<canon id="論語-爲政-12-01">○子曰。君子不器。</canon>
+<commentary commentator="朱熹" id="論語-爲政-12-01-C01">器者。各適其用而不能相通。成德之士。體無不具。故用無不周。非特爲一才一藝而已。</commentary>
+<sub_commentary commentator="程子" id="論語-爲政-12-01-C01-S01" name="程子">程子曰。君子不器。無所不施也。若一才一藝。則器也。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-12-01-C01-S02" name="朱子">○朱子曰。君子才德出衆。德。體也。才。用也。亦具聖人之體用。但其體不如聖人之大。用不如聖人之妙耳。○君子不器。是不拘於一。所謂體無不具。人心元有這許多道理充足。若慣熟時。自然看要如何。無不周徧。如夷淸惠和。亦只做得一件事。○問君子不器。君子是何等人。曰。此通上下而言。是成德全才之君子。問子貢汝器也。喚做不是君子得否。曰。子貢也是箇偏底。可貴而不可賤。宜於宗廟朝廷。而不可退處。此子貢偏處。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-爲政-12-01-C01-S03" name="南軒張氏">○南軒張氏曰。人之可以器言者。拘於才之有限者也。若君子則進於德。進於德則氣質變化。而才有弗器者矣。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-爲政-12-01-C01-S04" name="勉齋黃氏">○勉齋黃氏曰。各適其用。不能相通。以物言。舟之不可爲車之類也。以人言。優爲趙魏老。不可以爲滕薛大夫是也。用無不周。見君子之不器。體無不具。原君子之所以不器也。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-爲政-12-01-C01-S05" name="雲峯胡氏">○雲峯胡氏曰。士君子之心虛。有以具衆理。是其體本無不具也。其心之靈。足以應萬事。是其用可以無不周也。格致誠正脩齊治平。有以充此心之體。而擴此心之用。所以不器。故凡局於器者。氣質之分量小。士君子之不器者。學問之功效大也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-025">
+<document>
+<text_unit img="file:D:\jibju\01_179.jpg" id="論語集註大全-爲政-13-01">
+<hanmun_text>
+<canon id="論語-爲政-13-01">○子貢。問君子。子曰。先行其言。而後從之。</canon>
+<commentary commentator="朱熹" id="論語-爲政-13-01-C01">周氏曰。<annotation type="biographical">周氏。名孚先。字伯忱。毗陵人。</annotation>先行其言者。行之於未言之前。而後從之者。言之於旣行之後。</commentary>
+<sub_commentary commentator="" id="論語-爲政-13-01-C01-S01">問先行其言而後從之。苟能行矣。何事於言。朱子曰。若道只要自家行得。說都不得。亦不是道理。聖人只說敏於事而謹於言。敏於行而訥於言。言顧行。行顧言。何嘗敎人不言。○問先行其言。謂人識得箇道理了。可以說出來。却不要只做言語說過。須是合下便行將去。而後從之者。及行將去。見得自家所得底道理。步步著實。然後說出來。却不是杜撰臆度。須還自家自本至末。皆說得有著實處。曰。此說好。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-爲政-13-01-C01-S02" name="南軒張氏">○南軒張氏曰。君子主於行。而非以言爲先也。故其言之所發。乃其力行所至而言隨之也。夫主於行而後言者爲君子。則夫易於言而行不踐者。是小人之歸矣。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-爲政-13-01-C01-S03" name="慶源輔氏">○慶源輔氏曰。行之於未言之前。則其行專而力。言之於旣行之後。則其言實而信。正君子進德脩業之道也。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-爲政-13-01-C01-S04" name="雙峯饒氏">○雙峯饒氏曰。君子行在言前。言隨行後。自然言行不相違矣。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-13-01-C02">○范氏曰。子貢之患。非言之艱。而行之艱。故告之以此。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-13-01-C02-S01" name="朱子">朱子曰。只爲子貢多言。故云然。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-026">
+<document>
+<text_unit img="file:D:\jibju\01_180.jpg" id="論語集註大全-爲政-14-01">
+<hanmun_text>
+<canon id="論語-爲政-14-01">○子曰。君子。周而不比。小人。比而不周。</canon>
+<commentary commentator="朱熹" id="論語-爲政-14-01-C01">周。普徧也。比。偏黨也。皆與人親厚之意。但周公而比私爾。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-14-01-C01-S01" name="朱子">朱子曰。比之與周。皆親厚之意。周則無所不愛。爲諸侯則愛一國。爲天子則愛天下。隨其親疎厚薄。無不是此愛。若比則只是揀擇。或以利或以勢。一等合親底他却自有愛憎。所以有不周處。又曰。大槩君子心公而大。所以周普。小人心狹而常私。便親厚也只親厚得一箇。○周比相去不遠。須分別得大相遠處。周則徧及天下。比則昵於親愛。無一人使之不得其所。便是周。但見同於己者與之。不同於己者惡之。便是比。君子好善惡惡。皆出於公。用一善人於國於天下。則一國天下享其治。去一惡人於一鄕一邑。則一鄕一邑受其安。豈不是周。若小人於惡人。則喜其合己。必親愛之。善人與己異。必傷害之。此小人比而不周也。○君子立心自是周徧。好惡愛憎。一本於公。小人惟偏比阿黨而已。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-爲政-14-01-C01-S02" name="南軒張氏">○南軒張氏曰。君子小人之分公私之間而已。周則不比。比則不周。天理人欲。不並立也。君子於親疎遠近賢愚。處之無不得其分。蓋其心無不溥焉。所謂周也。若小人則有所偏係而失其正。其所親暱。皆私情也。所謂比也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-14-01-C02">○君子小人。所爲不同。如陰陽晝夜。每每相反。然究其所以分。則在公私之際。毫釐之差耳。故聖人於周比和同驕泰之屬。常對擧而互言之。欲學者察乎兩間。而審其取舍<annotation type="sound">上聲</annotation>之幾<annotation type="sound">平聲</annotation>也。</commentary>
+<sub_commentary commentator="" id="論語-爲政-14-01-C02-S01">問取舍之幾。當在思慮方萌之初。審察之否。朱子曰。致察於思慮固是。但事上亦須照管。覺得思慮處失了。便著於事上看。便舍彼取此。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-爲政-14-01-C02-S02" name="雲峯胡氏">○雲峯胡氏曰。君子小人。公私相反。而聖人歷擧周比等之相似者言之。蓋相反者其情易知。相似者其幾未易察。故拳拳欲學者致審焉。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-14-01-C02-S03" name="新安陳氏">○新安陳氏曰。通書曰。幾善惡。幾者善惡所由分之微處也。上文公私之際。卽所謂兩間。毫釐之差。卽所謂幾。學者當審察於幾微處。而取其公。舍其私。周比和同驕泰三章。皆當如此看。以此章居首。故於此包括言之。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-027">
+<document>
+<text_unit img="file:D:\jibju\01_181.jpg" id="論語集註大全-爲政-15-01">
+<hanmun_text>
+<canon id="論語-爲政-15-01">○子曰。學而不思則罔。思而不學則殆。</canon>
+<commentary commentator="朱熹" id="論語-爲政-15-01-C01">不求諸心。故昏而無得。不習其事。故危而不安。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-15-01-C01-S01" name="朱子">朱子曰。學是學其事。如讀書是學。須精思其中義理方得。如做此事是學。須思此事道理如何。只恁低頭做。不思這道理。則所學者粗迹耳。故昧而無得。若只空思索。不傍事上體察。則無可據之地。而終不安穩。須是學與思互相發明。○凡學字便兼行字意思。如講明義理。學也纔效其所爲。便有行意。○思與學字相對說。學這事。便思這事。人說這事合恁地做。自家不曾思量這道理是合如何。則罔然而已。罔似今人說罔兩。旣思得這事。若不去做這事。便不熟。則臬兀不安。如人學射。雖習得弓箭裏許多模樣。若不曾思量這箇是合如何。也不得。旣思得許多模樣。是合如何。却不曾去射。也如何得。○思則自當有得。如食之必飽耳。○問學謂視聖賢所言所行而效之也。思謂硏窮其理之所以然也。徒學而不窮其理則罔。罔謂昏而無得。則其所學者亦粗迹耳。徒思而無踐履之實則殆。殆謂危而不安。則其所思者亦虛見爾。學而思則知益精。思而學則守益固。學所以致廣大。思所以盡精微。曰。學不專於踐履。如學以聚之。正爲聞見之益而言。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-爲政-15-01-C01-S02" name="慶源輔氏">○慶源輔氏曰。學之義廣矣。雖不專謂習其事。然此之謂學。則指習事而言耳。徒學而不求諸心。則內外不協。外雖勉强而中無意味。故昏而無得。徒思而不習其事。則理事爲二。理雖若有所得。事則扞格而無可卽之安。故危而不安。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-15-01-C01-S03" name="新安陳氏">○新安陳氏曰。學而思。則理益明而不局於粗淺。思而學。則理益實而不荒於高虛。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-15-01-C02">○程子曰。博學審問愼思明辨篤行五者。廢其一。非學也。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-15-01-C02-S01" name="新安陳氏">新安陳氏曰。五者。中庸誠之之目。程子之說。本以論中庸耳。朱子采之於此。以廣此章之意。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-爲政-15-01-C02-S02" name="雲峯胡氏">○雲峯胡氏曰。朱子釋中庸。學問思辨屬擇善。知之事也。篤行屬固執。行之事也。此則以學爲習其事。是行之事。以思爲求諸心。是知之事。至若學而時習之。又引程子之言。曰。時復思繹。則思又是學習之事。若有不同者。要之專言學則學兼知與行。思繹亦是學。分學與思。則思字屬知。學字屬行。中庸五者。朱子謂學與行。是學之終始。問與辨。是思之終始是也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-028">
+<document>
+<text_unit img="file:D:\jibju\01_182.jpg" id="論語集註大全-爲政-16-01">
+<hanmun_text>
+<canon id="論語-爲政-16-01">○子曰。攻乎異端。斯害也已。</canon>
+<commentary commentator="朱熹" id="論語-爲政-16-01-C01">范氏曰。攻。專治也。故治木石金玉之工曰攻。</commentary>
+<sub_commentary commentator="倪士毅" id="論語-爲政-16-01-C01-S01" name="新安倪氏">新安倪氏曰。周禮考工記。有攻木之工。攻金之工。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-16-01-C02">異端。非聖人之道。而別爲一端。如楊墨是也。其率天下。至於無父無君。專治而欲精之。爲害甚矣。</commentary>
+<sub_commentary commentator="" id="論語-爲政-16-01-C02-S01">或問有以攻爲攻擊之攻。言異端不必深排者。如何。朱子曰。正道異端。如水火之相勝。彼盛則此衰。此强則彼弱。熟視異端之害。而不一言以正之。亦何以祛習俗之蔽哉。觀孟子所以答公都子好辨之問。則可見矣。○異端不是天生出來。天下只是這一箇道理。緣人心不正。則流於邪說。習於彼必害於此。旣入於邪。必害於正。○問集註云。攻。專治之也。若爲學便當專治之。異端則不可專治也。曰。不惟說不可專治。便略去理會他也不得。若是自家學有定止。去看他病痛却得。○楊氏爲我。拔一毛而利天下不爲。墨氏兼愛。至不知有父。如此等事。世人見他無道理。自不去學。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-爲政-16-01-C02-S02" name="慶源輔氏">○慶源輔氏曰。常言一事一件皆爲一端。異端非聖人之道。而別自爲一件道理也。楊氏以爲我爲義。而非聖人所謂義。墨氏以兼愛爲仁。而非聖人所謂仁。所以爲異端。</sub_commentary>
+<sub_commentary commentator="眞德秀" id="論語-爲政-16-01-C02-S03" name="西山眞氏">○西山眞氏曰。異端之名。始見於此。孔子所指。未知爲誰。老聃楊朱墨翟。皆與孔子同時。特以洙泗之敎方明。其說未得肆耳。或謂孔子不闢異端。非也。如悖德悖禮之訓。已是闢墨。潔身亂倫之訓。已是闢楊矣。</sub_commentary>
+<sub_commentary commentator="胡氏" id="論語-爲政-16-01-C02-S04" name="胡氏">○胡氏曰。楊朱卽莊周所謂楊子居者。與老聃同時。墨翟又在楊朱之前。宗師大禹而晏嬰學之者也。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-16-01-C02-S05" name="新安陳氏">○新安陳氏曰。孔子之時。楊朱未肆。故集註下一如字。然則異端何所指乎。孔子謂鄕原德之賊。孟子謂其自以爲是。而不可與入堯舜之道。則鄕原亦異端也。老聃正同時。而孔子於禮曰。吾聞諸老聃。則老聃在當時。未可以異端目之。今之老子書。先儒謂後人託爲之。蒙莊出而祖老氏。自此以後。始爲虛無之祖。而爲異端不可辭矣。楊子雲曰。非堯舜文王者爲他道。故凡非聖人之道者。皆異端云。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-16-01-C03">○程子曰。佛氏之言。比之楊墨。尤爲近理。所以其害爲尤甚。學者當如淫聲美色以遠<annotation type="sound">去聲</annotation>之。不爾則駸駸<annotation type="sound">音侵</annotation>然入於其中矣。</commentary>
+<sub_commentary commentator="汪炎昶" id="論語-爲政-16-01-C03-S01" name="汪氏炎昶">汪氏炎昶曰。程朱之時。儒學亦有流於禪者。故集註有取於程說之痛切。今學者絶口於此。程朱之功爲多。○問何以只言佛而不及老。朱子曰。老便是楊氏。孟子闢楊。便是闢老。如隱遁長往不來者。皆老之流。他本不是學老。所見與之相似。○楊墨只是硬恁地做爲我兼愛。做得來也淡。不能惑人。佛氏最有精微動人處。初見他說出自有理。從他說愈深愈害人。問佛氏所以差。曰。劈初頭便錯了。如天命之謂性。他把這箇便都做空虛說了。吾儒見得都是實。</sub_commentary>
+<sub_commentary commentator="熊禾" id="論語-爲政-16-01-C03-S02" name="勿軒熊氏">○勿軒熊氏曰。韓愈云。佛者夷狄之一法。自後漢時流入中國。其初不過論緣業以誘愚民而已。後來却說心說性。雖聰明之士。亦爲之惑。學者不可不力察而明辨也。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-16-01-C03-S03" name="新安陳氏">○新安陳氏曰。程子之時。名公高材。皆爲佛氏之言所陷溺。惟其近理。所以害甚。集註采此條。而中庸序亦曰老佛之徒出。則彌近理而大亂眞矣。皆所以闢異端也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-029">
+<document>
+<text_unit img="file:D:\jibju\01_184.jpg" id="論語集註大全-爲政-17-01">
+<hanmun_text>
+<canon id="論語-爲政-17-01">○子曰。由。誨女知之乎。知之爲知之。不知爲不知。是知也。<annotation type="sound">女音汝。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-爲政-17-01-C01">由。孔子弟子。姓仲。字子路<annotation type="biographical">魯之卞人</annotation>。子路好<annotation type="sound">去聲</annotation>勇。蓋有强<annotation type="sound">上聲</annotation>其所不知。以爲知者。故夫子告之曰。我敎女以知之之道乎。但所知者。則以爲知。所不知者。則以爲不知。如此則雖或不能盡知。而無自欺之蔽。亦不害其爲知矣。況由此而求之。又有可知之理乎。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-17-01-C01-S01" name="朱子">朱子曰。子路粗暴。見事便自說曉會得。如正名一節。便以爲迂。和那箇知處也不知了。知之爲知之。不知爲不知。則無自欺之蔽。其知固自明矣。若不說出求其知。是使人安於所不知也。故程子說出此意。經意方完。旣不失於自欺。又不失於自畫。○聖人只爲人將那不知者亦說是知。終至於知與不知。終無界限了。若人能於其知者以爲知。於不知者以爲不知。而不强以爲知。此便是知了。只爲子路性勇。把不知者亦說是知。故爲他說如此。○問學者之於義理。於事物。以不知爲知。用是欺人亦可矣。本心之靈。庸可欺乎。但知者以爲已知。不知者以爲不知。則雖於義理事物之間。有不知者。而自知則甚明而無蔽矣。故曰是知也。以此眞實之心。學問思辨。硏究不舍。則知至物格。意誠心正之事可馴致也。夫子以是誨子路。眞切要哉。此章言之若易。而於學者日用間關涉處甚多。要當步步以是省察。則切身之用。蓋無窮也。曰。此說甚善。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-爲政-17-01-C01-S02" name="南軒張氏">○南軒張氏曰。是知也。言是乃知之道也。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-17-01-C01-S03" name="新安陳氏">○新安陳氏曰。强其不知以爲知。非惟人不我告。己亦不復求知。終身不知而後已。好勇者多喜自高。不服下人。故有此弊。此必子路初見孔子時。孔子以此箴之。後來有聞未之能行。惟恐有聞。及人告以有過則喜。則必改此失矣。然終有見義欠透徹處。是以知食焉不避其難之爲義。而不知食輒之食爲非義也。不知者以爲不知。則人必我告。已亦必自求知。豈非知之之道乎。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-030">
+<document>
+<text_unit img="file:D:\jibju\01_185.jpg" id="論語集註大全-爲政-18-01">
+<hanmun_text>
+<canon id="論語-爲政-18-01">○子張。學干祿。</canon>
+<commentary commentator="朱熹" id="論語-爲政-18-01-C01">子張。孔子弟子。姓顓孫。名師<annotation type="biographical">陳人</annotation>。干。求也。祿。仕者之奉<annotation type="sound">符用反</annotation>也。</commentary>
+<sub_commentary commentator="胡炳文" id="論語-爲政-18-01-C01-S01" name="雲峯胡氏">雲峯胡氏曰。本文無問字。意編次者因夫子救子張之失。故先之以此五字。以見夫子爲子張干祿發。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-031">
+<document>
+<text_unit img="file:D:\jibju\01_185.jpg" id="論語集註大全-爲政-18-02">
+<hanmun_text>
+<canon id="論語-爲政-18-02">子曰。多聞闕疑。愼言其餘則寡尤。多見闕殆。愼行其餘則寡悔。言寡尤。行寡悔。祿在其中矣。<annotation type="sound">行寡之行去聲。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-爲政-18-02-C01">呂氏曰。<annotation type="biographical">呂氏。名大臨。字與叔。藍田人。</annotation>疑者。所未信。殆者。所未安。程子曰。尤。罪自外至者也。悔。理自內出者也。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-18-02-C01-S01" name="新安陳氏">新安陳氏曰。人以我爲尤。故曰罪自外至。我自知其非理而悔之。故曰理自內出。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-18-02-C02">愚謂多聞見者。學之博。闕疑殆者。擇之精。謹言行<annotation type="sound">去聲</annotation>者。守之約。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-18-02-C02-S01" name="新安陳氏">新安陳氏曰。夫子分聞見言行疑殆對言之。朱子合而解之。學不博則無可擇。多聞多見。學旣博矣。必於多中精以擇之。闕其所未信未安者。則非泛焉龎雜之博。擇之旣精。然後加謹愼以言行其餘之已信已安者。而所守方得其約。約字與博字對。約字又自精字來。不精則其約也非切要之約。而苟簡之約爾。學之博。擇之精。守之約。九字斷盡此一章。三者不可闕一。如此則言必當而人不我尤。行必當而己無可悔矣。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-18-02-C03">凡言在其中者。皆不求而自至之辭。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-18-02-C03-S01" name="新安陳氏">新安陳氏曰。祿在其中。餒在其中。仁在其中。直在其中。樂亦在其中。其訓皆同。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-18-02-C04">言此。以救子張之失而進之也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-18-02-C04-S01" name="朱子">朱子曰。此章是敎人不以干祿爲意。蓋言行所當謹。非爲欲干祿而然也。若眞能著實用功。則惟患言行之有悔尤。何暇有干祿之心耶。○聞是聞人之言。見是見人之行。聞亦屬自家言處。見亦屬自家行處。聞見亦互相發。亦有聞而行者。有見而言者。不可泥看。聞見當闕其疑殆。然又勿易言易行之。○學本是要立身。不是要干祿。然言行能謹。人自見知。便有得祿之道。大槩是令他自理會身己上事。不要先萌利祿之心。又曰。若人見得道理分明。便不爲利祿動。○祿固人之所欲。但要去干不得。然德行旣脩。名聲旣顯。則人自然來求。祿不待干而自得。○多聞多見。人多輕說過了。將以爲偶然多聞多見耳。殊不知此正是合用功處。不然則聞見孤寡。不足以爲學矣。○出言或至傷人。故多尤。行有不至。己必先覺。故多悔。然此亦以其多少言之耳。言而多尤。豈不自悔。行而多悔。亦必至於傷人矣。○聖人只敎他謹言行。因帶著祿說。聖人不敎他干。但云得祿之道在其中。正是要抹殺了他干字。○又曰。人處己接物。莫大於言行。聞見所以爲言行之資也。自寡聞見而積之多。多聞見而擇之精。擇之精而於言行猶曰必謹焉。其反身亦切至矣。猶曰僅足以寡尤悔而已。未敢必其絶無也。君子亦脩其在己而已。祿之得不得。非所計也。故曰祿在其中。本爲此而反得彼之辭。豈眞敎之以是干祿哉。○問學干祿章。曰。此是三截事。若人少聞寡見則不能參考得是處。故聞見須要多。若聞見已多而不能闕疑殆。則胡亂把不是底也將來做是了。旣闕其疑殆。而又未能謹其餘。則必有尤悔。又問尤悔如何分。曰。是大凡言不謹則必見尤於人。人旣有尤。自家安得無悔。行不謹則己必有悔。己旣有悔。則人安得不見尤。此只是各將較重處對說。又問祿在其中。只此便可以得祿否。曰。雖不求祿。若能無悔尤。此自有得祿道理。若曰耕也餒在其中矣。耕本求飽。豈是求餒。然耕却有水旱凶荒之虞。則有時而餒。學本爲道。豈是求祿。然學旣寡尤悔。則自可以得祿。如言直在其中矣。凡言在其中矣者。道理皆如此。</sub_commentary>
+<sub_commentary commentator="蔡氏" id="論語-爲政-18-02-C04-S02" name="蔡氏">○蔡氏曰。擇精守約固重。學博亦不可輕。聖人所以好古敏求。多聞擇從。多見而識。皆欲求其多也。不然。聞見孤寡。將何據以爲擇精守約之地耶。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-18-02-C04-S03" name="新安陳氏">○新安陳氏曰。子張有務外求聞之失。故夫子敎以反求諸內也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-18-02-C05">○程子曰。脩天爵。則人爵至。君子言行能謹。得祿之道也。子張學干祿。故告之以此。使定其心。而不爲利祿動。若顔閔則無此問矣。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-18-02-C05-S01" name="新安陳氏">新安陳氏曰。顔子終身簞瓢。閔子堅辭費宰。豈有此問。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-18-02-C06">或疑如此。亦有不得祿者。孔子蓋曰耕也。餒在其中。惟理可爲者。爲之而已矣。</commentary>
+<sub_commentary commentator="胡炳文" id="論語-爲政-18-02-C06-S01" name="雲峯胡氏">雲峯胡氏曰。學干祿。卽脩天爵以要人爵者。富貴在天。無可求之理。言行在我。有反求之道。學者惟當求其在我者。則祿將不求而自至。故在其中三字。正爲干字而發也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-032">
+<document>
+<text_unit img="file:D:\jibju\01_187.jpg" id="論語集註大全-爲政-19-01">
+<hanmun_text>
+<canon id="論語-爲政-19-01">○哀公問曰。何爲則民服。孔子對曰。擧直錯諸枉則民服。擧枉錯諸直則民不服。</canon>
+<commentary commentator="朱熹" id="論語-爲政-19-01-C01">哀公。魯君。名蔣<annotation type="sound">子兩反</annotation>。凡君問。皆稱孔子對曰者。尊君也。錯<annotation type="sound">倉故反</annotation>。捨置也。諸。衆也。程子曰。擧錯得義。則人心服。○謝氏曰。好<annotation type="sound">去聲</annotation>直而惡<annotation type="sound">去聲</annotation>枉。天下之至情也。順之則服。逆之則去。必然之理也。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-19-01-C01-S01" name="新安陳氏">新安陳氏曰。大學云。好人之所惡。惡人之所好。是謂拂人之性。謝氏之論。蓋本於此。至情卽性之發也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-19-01-C02">然或無道以照之。則以直爲枉。以枉爲直者多矣。是以君子。大居敬而貴窮理也。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-19-01-C02-S01" name="新安陳氏">新安陳氏曰。居敬窮理者。明吾心以照枉直之本。而居敬又爲窮理之本。本文無此意。乃謝氏推本之論也。大居敬。法公羊傳君子大居正之文。以居敬爲大。而又窮理爲貴也。</sub_commentary>
+<sub_commentary commentator="胡寅" id="論語-爲政-19-01-C02-S02" name="致堂胡氏">○致堂胡氏曰。當時三家專魯。公安得擅擧錯之權哉。使公復問孰爲枉直。而付擧錯之柄於夫子。夫子必有所處矣。民心旣服。公室自張。何至乞師於越而卒以旅死哉。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-19-01-C02-S03" name="朱子">○朱子曰。當時哀。公擧錯之權不在己。問了只恁休了。他若會問時。夫子尙須有說。○是便是直。非便是枉。○問哀公問何爲則民服。往往只是要得人畏服他。聖人却告之以進賢退不肖。乃是治國之大本。而人心自服者。蓋好賢而惡不肖。乃人之正情。若擧錯得義。則人心豈有不服。謝氏又謂若無道以照之。則以直爲枉。以枉爲直矣。君子大居敬而貴窮理。此又極本原而言。若人君無知人之明。則枉直交錯。而擧錯未必得宜矣。曰。此說得分明。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-033">
+<document>
+<text_unit img="file:D:\jibju\01_188.jpg" id="論語集註大全-爲政-20-01">
+<hanmun_text>
+<canon id="論語-爲政-20-01">○季康子問。使民敬忠以勸。如之何。子曰。臨之以莊則敬。孝慈則忠。擧善而敎不能則勸。</canon>
+<commentary commentator="朱熹" id="論語-爲政-20-01-C01">季康子。魯大夫季孫氏。名肥。莊。謂容貌端嚴也。臨民以莊。則民敬於己。孝於親慈於衆。則民忠於己。善者擧之。而不能者敎之。則民有所勸。而樂<annotation type="sound">音洛</annotation>於爲善。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-20-01-C01-S01" name="朱子">朱子曰。莊只是一箇字。孝慈是兩件事。孝是以躬率之。慈是以恩結之。孝是做箇樣子。慈則推以及人。二者須一齊有。民方忠於己。若只孝而不慈。或徒慈於衆而無孝於親樣子。亦不得。善者擧之。不善者便棄之。民不能便勸。惟擧其善者而敎其不能者。所以皆勸。○問康子之意。必要使人能如此。聖人但告之以己所當爲。而民自應者。方其端莊孝慈。擧善敎不能。不是要民如此而後爲。做得自己工夫。則民有不期然而然者。曰。也是如此。</sub_commentary>
+<sub_commentary commentator="吳迂" id="論語-爲政-20-01-C01-S02" name="吳氏">○吳氏曰。康子竊君之柄而專其國。廢父之命而殺其嫡。可謂不忠孝於君親矣。欲殺無道以就有道。可謂不慈於衆矣。在己事上接下。皆非其道。而欲人盡道於己。難矣哉。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-20-01-C02">○張敬夫曰。此皆在我所當爲。非爲<annotation type="sound">去聲</annotation>欲使民敬忠以勸而爲之也。然能如是。則其應。蓋有不期然而然者矣。</commentary>
+<sub_commentary commentator="輔廣" id="論語-爲政-20-01-C02-S01" name="慶源輔氏">慶源輔氏曰。凡聖賢之言與事。其有本效感應處。皆當以此意推之。則庶幾無謀利計功之私矣。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-20-01-C02-S02" name="新安陳氏">○新安陳氏曰。不期而然。乃自然之感應。何假於使之然哉。莊孝慈擧善而敎。蓋不使之使也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-034">
+<document>
+<text_unit img="file:D:\jibju\01_189.jpg" id="論語集註大全-爲政-21-01">
+<hanmun_text>
+<canon id="論語-爲政-21-01">○或。謂孔子曰。子奚不爲政。</canon>
+<commentary commentator="朱熹" id="論語-爲政-21-01-C01">定公初年。孔子不仕。故或人疑其不爲政也。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-21-01-C01-S01" name="新安陳氏">新安陳氏曰。吳氏云夫子在魯不仕。其故有三。待賈而沽。一也。季氏逐君。二也。陽貨作亂。三也。史記云。季氏强僭。離於正道。陽貨專政作亂。故孔子不仕。集註因以爲定公初年事。然夫子不仕季氏。蓋以平子逐君。若謂强僭離於正道。則季氏數世皆然。而夫子何以又仕桓子乎。定五年。季平子卒。桓子嗣立。家臣陽貨作亂。則定五年以前。夫子不仕者以平子。而定五年以後不仕者。以陽貨也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-035">
+<document>
+<text_unit img="file:D:\jibju\01_189.jpg" id="論語集註大全-爲政-21-02">
+<hanmun_text>
+<canon id="論語-爲政-21-02">子曰。書云孝乎。惟孝。友于兄弟。施於有政。是亦爲政。奚其爲爲政。</canon>
+<commentary commentator="朱熹" id="論語-爲政-21-02-C01">書。周書君陳篇。書云孝乎者。言書之言孝如此也。</commentary>
+<sub_commentary commentator="倪士毅" id="論語-爲政-21-02-C01-S01" name="新安倪氏">新安倪氏曰。書言孝友。而起語獨言孝者。友乃孝之推。孝可包友也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-21-02-C02">善兄弟曰友。書言君陳。能孝於親。友於兄弟。又能推廣此心。以爲一家之政。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-21-02-C02-S01" name="朱子">朱子曰。惟孝友于兄弟。謂孝然後友。友然後政。其序如此。能推廣此心以爲一家之政。便是齊家。緣下面有一箇是亦爲政。故不是國政。又曰。在我者孝。則人皆知孝。在我者弟。則人皆知弟。其政豈不行於一家。又曰。政。一家之事也。故不止是使之孝友耳。然孝友爲之本也。○此全在推字上。今人只是不善推其所爲耳。范氏言明皇友兄弟。而一日殺三子。正以不能推此心也。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-21-02-C02-S02" name="新安陳氏">○新安陳氏曰。孝友兄弟。行於家者。施於有政。行於國者。居家理故治可移於官。書之本意不過如此。朱子特發出推廣以爲家政之意。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-21-02-C03">孔子引之。言如此。則是亦爲政矣。何必居位。乃爲爲政乎。蓋孔子之不仕。有難以語<annotation type="sound">音御</annotation>或人者。故託此以告之。要<annotation type="sound">平聲</annotation>之至理亦不外是。</commentary>
+<sub_commentary commentator="張栻" id="論語-爲政-21-02-C03-S01" name="南軒張氏">南軒張氏曰。孝於親。則必友於兄弟。孝友篤於家。則施於有政。亦是心而已矣。雖不爲政。而家庭間躬行孝友。爲政之道固在是矣。或人勉夫子以爲政之事。失子告以爲政之道也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-036">
+<document>
+<text_unit img="file:D:\jibju\01_190.jpg" id="論語集註大全-爲政-22-01">
+<hanmun_text>
+<canon id="論語-爲政-22-01">○子曰。人而無信。不知其可也。大車無輗。小車無軏。其何以行之哉。<annotation type="sound">輗五兮反。軏音月。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-爲政-22-01-C01">大車。謂平地任載之車。輗。轅端橫木。縛軛<annotation type="sound">音厄</annotation>以駕牛者。小車。謂田車兵車乘<annotation type="sound">去聲</annotation>車。軏。轅端上曲。鉤衡以駕馬者。車無此二者。則不可以行。人而無信。亦猶是也。</commentary>
+<sub_commentary commentator="" id="論語-爲政-22-01-C01-S01">或問人而無信。不知其可也。朱子曰。人而無眞實誠心。則所言皆妄。今日所言要往東。明日走在西去。這便是言不可行。○問先生但謂車無此二者。則不可以行。人而無信。亦猶是也。而不及無信之所以不可行。何也。曰。信是言行相顧之謂。人若無信。語言無實。何處行得。處家則不可行於家。處鄕黨則不可行於鄕黨。曰。此與言不忠信。雖州里行乎哉之意同。曰。然。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-爲政-22-01-C01-S02" name="雙峯饒氏">○雙峯饒氏曰。行之之行指車言。人無信之不可行。亦猶是也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-037">
+<document>
+<text_unit img="file:D:\jibju\01_191.jpg" id="論語集註大全-爲政-23-01">
+<hanmun_text>
+<canon id="論語-爲政-23-01">○子張。問十世。可知也。</canon>
+<commentary commentator="朱熹" id="論語-爲政-23-01-C01">陸氏曰。也。一作乎。<annotation type="biographical">陸氏。名元朗。字德明。唐蘇州人。</annotation>○王者易姓受命。爲一世。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-23-01-C01-S01" name="新安陳氏">新安陳氏曰。此與三十年爲一世之世不同。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-23-01-C02">子張。問自此以後十世之事。可前知乎</commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-038">
+<document>
+<text_unit img="file:D:\jibju\01_191.jpg" id="論語集註大全-爲政-23-02">
+<hanmun_text>
+<canon id="論語-爲政-23-02">子曰。殷因於夏禮。所損益。可知也。周因於殷禮。所損益。可知也。其或繼周者。雖百世。可知也。</canon>
+<commentary commentator="朱熹" id="論語-爲政-23-02-C01">馬氏曰。<annotation type="biographical">馬氏。名融。東漢扶風人。</annotation>所因。謂三綱五常。所損益。謂文質三統。愚按三綱。謂君爲臣綱。父爲子綱。夫爲妻綱。五常。謂仁義禮智信。文質。謂夏尙忠。商尙質。周尙文。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-23-02-C01-S01" name="朱子">朱子曰。質朴則未有文。忠則渾然誠確。無質可言矣。○忠只是朴實頭。白直做將去。質則漸有形質制度。而未有文采。文則就制度上。事事加文采。然亦天下之勢。自有此三者。非聖人欲尙忠尙質尙文也。夏不得不忠。商不得不質。周不得不文。彼時亦無此名字。後人見得如此。故命此名。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-23-02-C02">三統。謂夏正建寅。爲人統。商正建丑。爲地統。周正建子。爲天統。</commentary>
+<sub_commentary commentator="" id="論語-爲政-23-02-C02-S01">前漢律歷志。天統之正。始於子半。日萌色赤。地統受之於丑初。日肇化而黃。至丑半日芽化而白。人統受之於寅初。日孽成而黑。至寅半日生成而靑。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-23-02-C02-S02" name="朱子">○朱子曰。康節分十二會。言天開於子。地闢於丑。人生於寅。蓋天運至子始有天。至丑始有地。至寅始有人。是天地人始於此。故三代卽其始處。建以爲正。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-23-02-C02-S03" name="新安陳氏">○新安陳氏曰。正。謂正月也。不曰一月。而曰正月。取王者居正之義。迭建以爲正月。故曰夏正商正周正。康節分十二會。詳見皇極經世書。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-23-02-C03">三綱五常。禮之大體。三代相繼。皆因之而不能變。其所損益。不過文章制度小過不及之間。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-23-02-C03-S01" name="新安陳氏">新安陳氏曰。損其過而益其不及。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-23-02-C04">而其已然之迹。今皆可見。則自今以往。或有繼周而王<annotation type="sound">去聲</annotation>者。雖百世之遠。所因所革。亦不過此。豈但十世而已乎。聖人所以知來者。蓋如此。非若後世讖<annotation type="sound">楚禁反</annotation>緯術數之學也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-23-02-C04-S01" name="朱子">朱子曰。所因。謂大體。所損益。謂文爲制度。那大體是變不得底。○所因之禮。是天做底。萬世不可易。所損益之文章制度。是人做底。故隨時更變。○問夫子繼周而作。則忠質損益之宜如何。曰。孔子有作。則倂將前代忠質而爲之損益。却不似商只損益得夏。周只損益得二代。又問孔子監前代而損益之。及其終也。能無弊否。曰。惡能無弊。○問其闕者宜益。其所多者宜損。固事勢之必然。但聖人於此。處得恰好。其他人則損益過差了。曰。聖人便措置一一中理。如周末文極盛。故秦興。必降殺了。周恁地柔弱。故秦必變爲强戾。周恁地纖悉周緻。秦興一向簡易無情。直情徑行。皆事勢之必變。但秦變得過了。秦旣恁地暴虐。漢興定是寬大。○繼周者秦。果如夫子之言否。看秦將先王之法。一切掃除。然三綱五常。不曾泯滅得。如尊君卑臣。損周室君弱臣强之弊。這自是有君臣之禮。如立法。父子兄弟。同室內息者有禁。這自是有父子兄弟之禮。天地之常經。自商繼夏。至秦繼周以後。皆變這箇不得。秦之所謂損益。只是損益得太甚耳。○此章因字最重。所謂損益。亦只是要扶持箇三綱五常而已。如秦繼周。雖損益有所未當。然三綱五常。終變不得。古人未嘗不尊君卑臣。秦人因之。但尊者益之而過尊。卑者損之而過卑耳。古人亦未嘗不德刑並用。秦人因之。但德則損之而又損。刑則益之而又益耳。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-23-02-C04-S02" name="新安陳氏">○新安陳氏曰。讖緯。如亡秦者胡之讖。及赤伏符等。及諸經之緯書。術數。如望氣厭勝風角等皆是。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-23-02-C05">○胡氏曰。子張之問。蓋欲知來。而聖人。言其旣往者以明之也。夫<annotation type="sound">音扶</annotation>自脩身。以至於爲天下。不可一日而無禮。天敍天秩。人所共由。禮之本也。</commentary>
+<sub_commentary commentator="倪士毅" id="論語-爲政-23-02-C05-S01" name="新安倪氏">新安倪氏曰。書曰。天敘有典。天秩有禮。三綱五常。卽天敘之典。天秩之禮也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-23-02-C06">商不能改乎夏。周不能改乎商。所謂天地之常經也。若乃制度文爲。或太過則當損。或不足則當益。益之損之。與時宜之。而所因者不壞。是古今之通義也。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-23-02-C06-S01" name="新安陳氏">新安陳氏曰。天地之常經。以所因言。經也。古今之通義。以所損益言。權也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-爲政-23-02-C07">因往推來。雖百世之遠。不過如此而已矣。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-23-02-C07-S01" name="新安陳氏">新安陳氏曰。綱常亘萬世而不易。制度隨世而變易。觀三代之已往者如此。則百世時方來。亦不過如此而已。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-039">
+<document>
+<text_unit img="file:D:\jibju\01_193.jpg" id="論語集註大全-爲政-24-01">
+<hanmun_text>
+<canon id="論語-爲政-24-01">○子曰。非其鬼而祭之。諂也。</canon>
+<commentary commentator="朱熹" id="論語-爲政-24-01-C01">非其鬼。謂非其所當祭之鬼。諂。求媚也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-24-01-C01-S01" name="朱子">朱子曰。如天子祭天地。諸侯祭山川。大夫祭五祀。庶人祭其先。上得以兼乎下。下不得以兼乎上也。庶人而祭五祀。大夫而祭山川。諸侯而祭天地。此所謂非其鬼也。○問非其鬼而祭之。如諸侯僭天子。大夫僭諸侯之類。又如士庶祭其旁親遠族。亦是非其鬼否。曰。是。又如今人祭甚麽廟神。都是非其鬼。問如用僧尼道士之屬。都是非其鬼。曰。亦是。問旁親遠族不當祭。若無後者則如之何。曰這若無人祭。只得爲他祭。自古無後者。祭於宗子之家。○問土地山川之神。人家在所不當祭否。曰山川之神。季氏祭之。尙以爲僭。况士庶乎。如土地之神。人家却可祭之。禮云庶人立一祀。或立戶。或立竈。戶竈亦可祭也。又問中霤之義如何。曰。古人穴居。當土室中。開一竅取明。故謂之中霤。而今人以中堂名曰中霤者。所以存古之義也。又曰中霤亦土地之神之類五。祀皆室神也。</sub_commentary>
+<sub_commentary commentator="馮椅" id="論語-爲政-24-01-C01-S02" name="厚齋馮氏">○厚齋馮氏曰。其。指祭者而言。謂非已所當祭者。蓋精誠神氣之不屬也。但欲諂之以希福耳。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-040">
+<document>
+<text_unit img="file:D:\jibju\01_194.jpg" id="論語集註大全-爲政-24-02">
+<hanmun_text>
+<canon id="論語-爲政-24-02">見義不爲。無勇也。</canon>
+<commentary commentator="朱熹" id="論語-爲政-24-02-C01">知而不爲。是無勇也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-爲政-24-02-C01-S01" name="朱子">朱子曰。此處要兩下並看。就見義不爲上看。固見得知之而不能爲。若從源頭看下來。乃是知之未至。所以爲之不力。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-爲政-24-02-C01-S02" name="勉齋黃氏">○勉齋黃氏曰。非鬼而祭。見義不爲。事非其類而對言之。亦告樊遲問知之意也。一則不當爲而爲。一則當爲而不爲。聖人推原其病之所自來。則曰非鬼而祭。有求媚要福之心也。見義不爲。無勇敢直前之志也。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-爲政-24-02-C01-S03" name="新安陳氏">○新安陳氏曰。知義而不爲。是無浩然之氣。以配道義故也。此章欲人不惑於鬼神之不可知。而惟用力於人道之所宜爲。他日夫子語樊遲曰。務民之義。敬鬼神而遠之。亦以鬼神對義而言。與此章意合。蓋嘗驗之天下之人。其諂瀆鬼神者。必不能專力於民義。其專力於民義者。必不諂瀆於鬼神。二者常相因云。</sub_commentary>
+<sub_commentary commentator="吳澄" id="論語-爲政-24-02-C01-S04" name="臨川吳氏">○臨川吳氏曰。非其鬼。謂所不當祭者也。義者宜也。謂事理當然。所當爲者也。非所當祭而祭之。是祭所不當祭者。見其當爲而不爲。是不爲其所當爲者。不當祭而祭。求媚而已。當爲而不爲。其懦可知。一過一不及也。夫子告樊遲曰。務民之義。敬鬼神而遠之。夫苟於鬼神知所遠。而於義知所務焉。庶乎其不至於祭所不當祭。而不爲所當爲矣。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
