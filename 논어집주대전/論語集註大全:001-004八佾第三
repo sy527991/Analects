@@ -1,0 +1,923 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="논어집주대전_style.xsl"?><dataset id="論語集註大全">
+<record level="1" type="L" id="論語集註大全:001">
+<document>
+<heading>論語集註大全</heading>
+</document>
+</record>
+
+<record level="2" type="L" id="論語集註大全:001-004">
+<document>
+<heading>論語集註大全卷之三/八佾第三</heading>
+</document>
+</record>
+
+<record level="3" type="T" id="論語集註大全:001-003-041">
+<document>
+<text_unit img="file:D:\jibju\02_002.jpg" id="論語集註大全-八佾">
+<hanmun_text>
+<heading>論語集註大全卷之三/八佾第三</heading>
+<commentary commentator="" id="論語-八佾-C01">凡二十六章。通前篇末二章。皆論禮樂之事。</commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+
+<record level="3" type="T" id="論語集註大全:001-003-042">
+<document>
+<text_unit img="file:D:\jibju\02_002.jpg" id="論語集註大全-八佾-01-01">
+<hanmun_text>
+<canon id="論語-八佾-01-01">○孔子謂季氏。八佾。舞於庭。是可忍也。孰不可忍也。<annotation type="sound">佾音逸。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-01-01-C01">季氏。魯大夫季孫氏也。</commentary>
+<sub_commentary commentator="胡氏" id="論語-八佾-01-01-C01-S01" name="胡氏">胡氏曰。古者有姓有氏。三家爲桓公之後。皆姬姓。又自以仲叔季。分爲三氏也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-01-01-C02">佾。舞列也。天子八。諸侯六。大夫四。士二。每佾人數。如其佾數。</commentary>
+<sub_commentary commentator="" id="論語-八佾-01-01-C02-S01">天子八八六十四人。諸侯六六三十六人。餘倣此。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-01-01-C03">或曰每佾八人。</commentary>
+<sub_commentary commentator="" id="論語-八佾-01-01-C03-S01">六佾。六八四十八人。餘倣此。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-01-01-C04">未詳孰是。</commentary>
+<sub_commentary commentator="" id="論語-八佾-01-01-C04-S01">左傳隱公五年九月。考仲子之宮。將萬焉。萬。舞名。公問羽數於衆仲。衆。音終。對曰。天子用八。諸侯用六。大夫用四。士二。夫舞所以節八音。而行八風。故自八以下。公從之。杜預註云。人如佾數。疏引服虔云。每佾八人。○問八佾舊說。有謂上下通以八人爲佾者。何如。朱子曰。是不可考矣。然以理意求之。舞位必方。是豈其佾少而人多如此哉。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-01-01-C05">季氏以大夫而僭用天子之禮樂。</commentary>
+<sub_commentary commentator="邢昺" id="論語-八佾-01-01-C05-S01" name="邢氏">邢氏曰。僭於家廟舞之。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-01-01-C06">孔子言其此事。尙忍爲之。則何事不可忍爲。或曰。忍。容忍也。蓋深疾之之辭。</commentary>
+<sub_commentary commentator="洪興祖" id="論語-八佾-01-01-C06-S01" name="洪氏">洪氏曰。君子居是邦。不非其大夫。而云爾者。正君臣之大義。春秋撥亂之意也。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-八佾-01-01-C06-S02" name="雙峯饒氏">○雙峯饒氏曰。忍字有敢忍容忍二義。而敢忍之義爲長。故集註以容忍居後。</sub_commentary>
+<sub_commentary commentator="趙順孫" id="論語-八佾-01-01-C06-S03" name="趙氏">○趙氏曰。敢忍之忍。春秋傳所謂忍人是也。容忍之忍。春秋傳所謂君其忍之是也。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-八佾-01-01-C06-S04" name="雲峯胡氏">○雲峯胡氏曰。前一忍字。指亂臣賊子之心而言。後一忍字。指春秋誅亂賊之法而言。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-01-01-C06-S05" name="新安陳氏">○新安陳氏曰。自王政不綱。亂臣賊子無所忌憚。故敢於僭竊。殊不知君子畏義安分。自不忍於心。豈問天吏之有無哉。以此言之。前說爲優。然自秉春秋之筆者言之。則後說亦足以寒亂賊之膽也。</sub_commentary>
+<sub_commentary commentator="許謙" id="論語-八佾-01-01-C06-S06" name="東陽許氏">○東陽許氏曰。季氏以大夫而僭用天子之禮樂於廟庭。此事尙可敢忍爲之。何事不可敢忍爲之。此忍字就季氏上說。季氏以大夫而僭用天子之禮樂於廟庭。其罪不可勝誅。此事若可容忍而不誅。則何事不可容忍。此忍字就孔子上說。如此說則說得兩可字意出。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-01-01-C07">○范氏曰。樂舞之數。自上而下。降殺<annotation type="sound">色界反</annotation>以兩而已。故兩之間。不可以毫髮僭差也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-01-01-C07-S01">自八殺其兩而爲六。以下依此。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-01-01-C08">孔子爲政。先正禮樂。則季氏之罪。不容誅矣。謝氏曰。君子於其所不當爲。不敢須臾處<annotation type="sound">上聲</annotation>。不忍故也。而季氏忍此矣。則雖弑父與君。亦何所憚而不爲乎。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-01-01-C08-S01" name="朱子">朱子曰。爲人臣子。只是一箇尊君敬上之心。方能自安其分。不忍少萌一毫僭差之意。今季氏以陪臣而僭天子之佾。尙忍爲之則是已絶天理。雖悖逆作亂之事。亦必忍爲之矣。○問小人之陵上。其初蓋微僭其禮之末節而已。及充其僭禮之心。遂至於弑父弑君。此皆生於忍也。故孔子謂季氏八佾舞於庭。是可忍也。曰。敢僭其禮。便是有無君父之心。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-八佾-01-01-C08-S02" name="南軒張氏">○南軒張氏曰。季氏以陪臣而僭天子之舞。自睹其數而安焉。於此而忍爲。則亦何往而不忍也。亂臣賊子之萌。皆由於忍而已。忍則安之矣。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-01-01-C08-S03" name="慶源輔氏">○慶源輔氏曰。范氏就制度上說。故以容忍爲義。言不可容忍之甚也。謝氏就心上說。故以敢忍爲義。言其心旣敢於此。則雖極天下之大惡。亦敢爲之矣。○謝氏先論人心之本然。以見季氏之忍心僭逆。次又推極其忍心僭逆之害。使讀之者惕然有警於其心。而防微謹獨之意。自有不容已者。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-043">
+<document>
+<text_unit img="file:D:\jibju\02_004.jpg" id="論語集註大全-八佾-02-01">
+<hanmun_text>
+<canon id="論語-八佾-02-01">○三家者以雍徹。子曰。相維辟公。天子穆穆。奚取於三家之堂。<annotation type="sound">徹直列反。相去聲。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-02-01-C01">三家。魯大夫孟孫叔孫季孫之家也。雍。周頌篇名。徹。祭畢而收其俎也。天子宗廟之祭。則歌雍以徹。是時三家僭而用之。相。助也。辟公。諸侯也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-02-01-C01-S01">助祭之諸侯。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-02-01-C02">穆穆。深遠之意。天子之容也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-02-01-C02-S01">主祭者天子。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-02-01-C03">此。雍詩之辭。孔子引之。言三家之堂。非有此事。亦何取於此義而歌之乎。譏其無知妄作。以取僭竊之罪。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-02-01-C03-S01" name="朱子">朱子曰。八佾。只是添人數。未有明文。故只就其事責之。雍徹。則分明歌天子之詩。故引詩以曉之曰。汝之祭亦有辟公之相助乎。亦有天子之穆穆乎。旣無此義。焉取此詩。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-八佾-02-01-C03-S02" name="雙峯饒氏">○雙峯饒氏曰。上章是罪其僭。此章是譏其無知。惟其無知。所以率意妄作。以取僭竊之罪。上章是可忍也。是言其不仁。此章無知妄作。是言其不知。惟其不仁不知。是以無禮無義。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-02-01-C04">○程子曰。周公之功。固大矣。皆臣子之分<annotation type="sound">去聲</annotation>所當爲。</commentary>
+<sub_commentary commentator="眞德秀" id="論語-八佾-02-01-C04-S01" name="西山眞氏">西山眞氏曰。子無父母。則無此身。己因父母而有此身。則事親自合盡孝。臣無君上。則無此爵位。己因君上而有此爵位。則事君自合盡忠。此只是盡其本分當爲之事。非過外也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-02-01-C05">魯安得獨用天子禮樂哉。成王之賜。伯禽之受。皆非也。其因襲之弊。遂使季氏。僭八佾。三家僭雍徹。故仲尼譏之。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-02-01-C05-S01" name="朱子">朱子曰。這箇自是不當用。便是成王賜周公。也是成王不是。若武王賜之。也是武王不是。雍詩自是成王之樂。餘人自是用他不得。武王已自用不得了。何况更用之於他人。又曰。使魯不曾用天子之禮樂。則三家亦無緣見此等禮樂而用之。</sub_commentary>
+<sub_commentary commentator="胡氏" id="論語-八佾-02-01-C05-S02" name="胡氏">○胡氏曰。按禮記明堂位篇云。成王以周公有大勳勞於天下。命魯公世世祀周公以天子之禮樂。祭統云。成王康王追念周公之所以勳勞者。而欲尊魯。故賜之以重祭。外祭則郊社是也。內祭則大嘗禘是也。禮運曰。魯之郊禘非禮也。周公其衰矣。魯僭天子之制。三家僭魯。遂至於僭天子。程子所以追咎賜受。皆非也。周公立爲經制。辨名分於毫釐間。將行之萬世。而身沒犯之。將行之天下。而子孫違之。豈非周公之衰乎。</sub_commentary>
+<sub_commentary commentator="王回" id="論語-八佾-02-01-C05-S03" name="王氏">○王氏曰。未嘗有天子之容。未嘗有辟公之相。魯爲諸侯之國。自不當用。而况於三家之陪臣乎。季氏非懵然不知其不當用。蓋一念之無君。由之而不自覺。則乾侯之避。豈待昭公而後知哉。易曰。臣弑其君。子弑其父。非一朝一夕之故。其所由來者漸矣。爲國者。其可不明禮分於平時。及其權歸而勢得。而後從而禁之。亦已晩矣。</sub_commentary>
+<sub_commentary commentator="馮椅" id="論語-八佾-02-01-C05-S04" name="厚齋馮氏">○厚齋馮氏曰。大夫不得祖諸侯。公廟之設於私家。非禮也。由三桓始也。唯三家皆祖桓公而立廟。故得以習用魯廟之禮樂而僭天子矣。夫天子之禮樂作於前。安然不以動其心。則凡不臣之事皆忍爲之矣。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-044">
+<document>
+<text_unit img="file:D:\jibju\02_006.jpg" id="論語集註大全-八佾-03-01">
+<hanmun_text>
+<canon id="論語-八佾-03-01">○子曰。人而不仁。如禮。何。人而不仁。如樂。何。</canon>
+<commentary commentator="朱熹" id="論語-八佾-03-01-C01">游氏曰。人而不仁。則人心亡矣。其如禮樂何哉。言雖欲用之。而禮樂不爲之用也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-03-01-C01-S01" name="朱子">朱子曰。人旣不仁。自是與那禮樂不相管攝。禮樂亦不爲吾用矣。心旣不仁。便是都不省了。自與禮樂不相干。禮樂須中和溫厚底人便行得。不仁之人。渾是一團私意。便不奈禮樂何。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-八佾-03-01-C01-S02" name="勉齋黃氏">○勉齋黃氏曰。仁者心之德。心之全德卽仁也。游氏云。人心亡矣。於仁之義最親切。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-03-01-C01-S03" name="慶源輔氏">○慶源輔氏曰。不仁則心無其德。雖謂之心亡可也。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-03-01-C01-S04" name="新安陳氏">○新安陳氏曰。孟子云。仁人心也。放其心而不知求。游氏說當本孟子之意觀之。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-03-01-C02">○程子曰。仁者。天下之正理。失正理。則無序而不和。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-03-01-C02-S01" name="朱子">朱子曰。程子說固好。但少疎。不見得仁。仁者。本心之全德。人若本然之良心存而不失。則所作爲自有序而和。若此心一放。只是人欲私心做得出來。安得有序。安得有和。仁只是正當道理。將正理頓在人心裏面。方說得箇仁字全。○問禮者。天理之節文。樂者。天理之和樂。仁者。人心之天理。人心若存得這天理。便與禮樂湊合得著。若無這天理。便與禮樂湊合不著。曰。固是。若人而不仁。空有那周旋百拜。鏗鏘鼓舞。許多勞攘。當不得那禮樂。○問仁者。心之德也。不仁之人。心德旣亡。方寸之中。絶無天理。平日運量酬酢。盡是非僻淫邪之氣。無復本心之正。如此等人。雖周旋於玉帛交錯之間。鍾鼓鏗鏘之際。其於禮樂判爲二物。若天理不亡。則見得禮樂本意。皆是天理中發出來。自然有序而和。曰。是。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-03-01-C02-S02" name="慶源輔氏">○慶源輔氏曰。仁義禮智。皆正理也。此獨以仁言者。蓋謂專言之而包四者之仁也。</sub_commentary>
+<sub_commentary commentator="陳氏" id="論語-八佾-03-01-C02-S03" name="陳氏">○陳氏曰。禮樂無所不在。如兩人同行。纔長先少後。便和順無爭。所以有爭。只緣少長之序亂了。又安得有和順底意。於此見禮先而樂後。無序則必不和。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-03-01-C03">李氏曰。<annotation type="biographical">李氏。名郁。字光祖。昭武人。</annotation>禮樂。待人而後行。苟非其人。則雖玉帛交錯。鐘鼓鏗<annotation type="sound">丘耕反</annotation>鏘<annotation type="sound">千羊反</annotation>。亦將如之何哉。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-03-01-C03-S01" name="朱子">朱子曰。游氏言心。程子言理。李氏言人。此苟非其人。道不虛行之意。蓋心具是理。所以存是心則在人也。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-03-01-C03-S02" name="慶源輔氏">○慶源輔氏曰。此章禮樂。正指玉帛鍾鼓言。故以李說終之。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-八佾-03-01-C03-S03" name="雙峯饒氏">○雙峯饒氏曰。游氏說得仁字親切。而禮樂二字欠分明。程子說得禮樂二字有意義。而仁字不親切。必合二說而一之。然後仁與禮樂之義方備。程子無序不和。是說無禮樂之本。李氏鍾鼓玉帛。是說徒有禮樂之文。亦必合二說而一之。然後如禮樂何之義方盡。集註用意精深。要人仔細看。○程子序字和字。是就理上說。若就心上說。則當言敬與和。不仁之人。其心不敬不和。無以爲行禮作樂之本。雖有禮之儀文。而儀文不足觀。雖有樂之音節。而音節不足聽。</sub_commentary>
+<sub_commentary commentator="熊禾" id="論語-八佾-03-01-C03-S04" name="勿軒熊氏">○勿軒熊氏曰。游氏兼禮樂之體用言。程子專指禮樂之體。李氏專指禮樂之用。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-03-01-C04">然記者。序此於八佾雍徹之後。疑其爲<annotation type="sound">去聲</annotation>僭禮樂者發也。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-03-01-C04-S01" name="新安陳氏">新安陳氏曰。僭禮樂者。卽人之不仁者也。本文無此意。但以次於前二章之後。故云然。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-045">
+<document>
+<text_unit img="file:D:\jibju\02_007.jpg" id="論語集註大全-八佾-04-01">
+<hanmun_text>
+<canon id="論語-八佾-04-01">○林放。問禮之本。</canon>
+<commentary commentator="朱熹" id="論語-八佾-04-01-C01">林放。魯人。見世之爲禮者。專事繁文。而疑其本之不在是也。故以爲問。</commentary>
+<sub_commentary commentator="黃榦" id="論語-八佾-04-01-C01-S01" name="勉齋黃氏">勉齋黃氏曰。本之說有二。其一曰仁義禮智根於心。則性者禮之本也。故曰。中者天下之大本。其一曰禮之本。禮之初也。凡物有本末。初爲本。終爲末。所謂夫禮始諸飮食者是也。二說不同。集註乃取後說曰。儉者物之質。戚者心之誠。則便以儉戚爲本。又取楊氏禮始諸飮食以證之。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-046">
+<document>
+<text_unit img="file:D:\jibju\02_008.jpg" id="論語集註大全-八佾-04-02">
+<hanmun_text>
+<canon id="論語-八佾-04-02">子曰。大哉。問。</canon>
+<commentary commentator="朱熹" id="論語-八佾-04-02-C01">孔子以時方逐末。而放獨有志於本。故大其問。蓋得其本。則禮之全體。無不在其中矣。</commentary>
+<sub_commentary commentator="" id="論語-八佾-04-02-C01-S01">問禮之全體。朱子曰。兼文質本末言之。有質則有文。有本則有末。徒文而無質。如何行得。當時習於繁文。人但指此爲禮。更不知有那實處。故放問而夫子大之。想是此問。大段契夫子之心。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-八佾-04-02-C01-S02" name="勉齋黃氏">○勉齋黃氏曰。得其本。則質文華實。皆在其中。蓋文之與華。亦因質與誠而生也。有本則有末。末固具於本矣。如木有根本。則有枝葉華實。其本立。則此木全體枝葉華實。皆在其中也。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-八佾-04-02-C01-S03" name="雲峯胡氏">○雲峯胡氏曰。須看在其中三字。得禮之本。則雖不便是禮之全體。而全體在其中矣。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-047">
+<document>
+<text_unit img="file:D:\jibju\02_008.jpg" id="論語集註大全-八佾-04-03">
+<hanmun_text>
+<canon id="論語-八佾-04-03">禮與其奢也。寧儉。喪與其易也。寧戚。<annotation type="sound">易去聲。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-04-03-C01">易。治也。孟子曰。易其田疇。在喪禮則節文習熟。而無哀痛慘怛<annotation type="sound">當葛反</annotation>之實者也。戚。則一於哀。而文不足耳。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-04-03-C01-S01" name="朱子">朱子曰。治田須是治得無室礙。方是熟。若居喪而習熟於禮文。行得皆無窒礙。無那惻怛不忍底意。則哀戚必不能盡。○冠昏喪祭皆是禮。故皆可謂與其奢也寧儉。惟喪禮獨不可。故言與其易也寧戚。易者。治也。言治喪禮。至於習熟也。喪者。人情之所不得已。若習治其禮有可觀。則是樂於喪。而非哀戚之情也。故禮云。喪事欲其縱縱爾。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-04-03-C02">禮貴得中。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-04-03-C02-S01" name="新安陳氏">新安陳氏曰。此禮字兼吉凶言。中者無過不及也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-04-03-C03">奢易則過於文。儉戚則不及而質。二者皆未合禮。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-04-03-C03-S01" name="新安陳氏">新安陳氏曰。謂未合禮之中。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-04-03-C04">然凡物之理。必先有質而後有文。則質乃禮之本也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-04-03-C04-S01" name="朱子">朱子曰。禮不過吉凶二者。上句汎以吉禮言。下句專以凶禮言。儉戚只是禮之本而已。及其用也。有當文時不可一向以儉戚爲是。故曰品節斯斯之謂禮。蓋自有箇得中恰好處。○禮初頭只是儉。喪初頭只是戚。然初亦未有儉之名。儉是對後來奢而言。蓋追說耳。東坡說忠質文。謂初亦未有那質。只因後來文。便稱爲質。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-八佾-04-03-C04-S02" name="南軒張氏">○南軒張氏曰。禮者。理也。理必有其實。而後有其文。文者。所以文其實也。若文之過。則反浮其實。而失於理矣。夫禮而失於奢。寧過於儉也。喪而易焉。寧過於戚也。蓋儉與戚。其實則存。奢則遠於實。易則亡其實。其文雖備。無益也。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-八佾-04-03-C04-S03" name="勉齋黃氏">○勉齋黃氏曰。聖人因俗之弊。感放之意而爲是言。本非以儉戚爲可尙。特與其流於文弊。則寧如此耳。其言之抑揚。得其中正如此。</sub_commentary>
+<sub_commentary commentator="葉夢得" id="論語-八佾-04-03-C04-S04" name="葉氏">○葉氏曰。論禮之中。雖以奢爲不遜。儉爲固。與其失之不遜。不若失之固。猶爲近本也。是以用過乎儉。喪過乎哀。易以爲小過。謂過者小。而得者大也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-04-03-C05">○范氏曰。夫<annotation type="sound">音扶</annotation>祭。與其敬不足而禮有餘也。不若禮不足而敬有餘也。喪。與其哀不足而禮有餘也。不若禮不足而哀有餘也。禮失之奢。喪失之易。皆不能反本而隨其末故也。禮奢而備。不若儉而不備之愈也。喪易而文。不若戚而不文之愈也。儉者。物之質。戚者。心之誠。故爲禮之本。楊氏曰。禮始諸飮食。故汙<annotation type="sound">烏爪反</annotation>尊而抔<annotation type="sound">蒲侯反</annotation>飮。爲之簠簋<annotation type="sound">音甫軌</annotation>籩豆罍<annotation type="sound">音雷</annotation>爵之飾。所以文之也。則其本儉而已。</commentary>
+<sub_commentary commentator="" id="論語-八佾-04-03-C05-S01">記禮運篇云。夫禮之初。始諸飮食。其燔黍捭音擘豚。汙尊而抔飮。蕢苦怪反桴而土鼓。猶若可以致敬於鬼神。註云。古未有釜甑。釋米押肉。加於燒石之上而食之耳。汙尊。鑿地爲尊也。抔飮。手掬之也。蕢。讀爲古。謂搏土爲桴也。土鼓。築土爲鼓也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-04-03-C06">喪不可以徑情而直行。爲之衰<annotation type="sound">音催</annotation>麻哭踊<annotation type="sound">音勇</annotation>之數。所以節之也。則其本戚而已。</commentary>
+<sub_commentary commentator="" id="論語-八佾-04-03-C06-S01">記檀弓下。禮有微情者。節哭踊。有以故興物者。衰絰之制。有直情而徑行者。戎狄之道也。哭踊無節。衣服無制。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-04-03-C07">周衰。世方以文滅質。而林放獨能問禮之本。故夫子大之。而告之以此。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-04-03-C07-S01" name="朱子">朱子曰。楊氏謂禮始諸飮食。言禮之初。本在飮食。然其用未具。安有鼎俎籩豆也。方其爲鼎俎之始。亦有文章。雕鏤繁而質滅矣。故云與奢寧儉。又曰。楊說喪不可徑情而直行。此一語稍傷那哀戚之意。其意當如上面始諸飮食之語。謂喪主於哀戚。而爲之哭泣擗踊。所以節之。其本則戚而已。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-04-03-C07-S02" name="慶源輔氏">○慶源輔氏曰。祭與喪皆禮也。范氏與其不若之言。正與夫子所謂寧字義相宜。故引之爲說。禮失之奢。喪失之易。皆不能反本而流於末也。此常情之弊也。物。事也。禮而儉。則是事之未有文飾也。喪而戚。則是心之誠實自然也。故爲禮之本。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-八佾-04-03-C07-S03" name="雙峯饒氏">○雙峯饒氏曰。放問禮之本。而夫子不告之以禮之大本。以其不切放故也。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-八佾-04-03-C07-S04" name="雲峯胡氏">○雲峯胡氏曰。本有二。其末亦不同。本根之本。其末爲枝葉。枝葉出於本根。而亦能芘其本根。可相有而不可相無。本始之本。末流必有失。禮始於儉。末也必奢。故曰與其。曰寧。孔子因末流之失。不得已而爲反本之論也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-048">
+<document>
+<text_unit img="file:D:\jibju\02_010.jpg" id="論語集註大全-八佾-05-01">
+<hanmun_text>
+<canon id="論語-八佾-05-01">○子曰。夷狄之有君。不如諸夏之亡也。</canon>
+<commentary commentator="朱熹" id="論語-八佾-05-01-C01">吳氏曰。亡。古無字通用。程子曰。夷狄。且有君長<annotation type="sound">上聲</annotation>。不如諸夏之僭亂。反無上下之分<annotation type="sound">去聲</annotation>也。</commentary>
+<sub_commentary commentator="馮椅" id="論語-八佾-05-01-C01-S01" name="厚齋馮氏">厚齋馮氏曰。諸夏。諸侯之稱。夏。大也。中國曰夏。大之也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-05-01-C02">○尹氏曰。孔子傷時之亂而歎之也。無非實無也。雖有之。不能盡其道爾。</commentary>
+<sub_commentary commentator="鄭氏" id="論語-八佾-05-01-C02-S01" name="鄭氏">鄭氏曰。八佾一篇。無非傷權臣之僭竊。痛名分之紊亂。其言與春秋相表裏。有疾之之辭。有鄙之之辭。有斥之之辭。有痛之之辭。孰不可忍。疾之也。奚取於三家之堂。斥之也。人而不仁如禮樂何。鄙之也。夷狄之有君不如諸夏之無。痛之也。百世之下。誦其言。遡其心。猶見其凜凜乎不可犯也。○問程氏註似專責在下者陷無君之罪。尹氏註似專責在上者不能盡爲君之道。何如。朱子曰。只是一意。皆是說上下僭亂。不能盡君臣之道。如無君也。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-八佾-05-01-C02-S02" name="南軒張氏">○南軒張氏曰。夷狄雖政敎所不加。然亦必有君長以統涖之。然後可立也。春秋之世。禮樂征伐。自諸侯出。降而自大夫出。又降而陪臣竊國命。是以聖人傷歎以爲夷狄且有君。不如諸夏之無君也。夫諸夏者。禮樂之所由出也。今焉若此。其變亦甚矣。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-05-01-C02-S03" name="新安陳氏">○新安陳氏曰。夏所以異於夷。以有君臣之分耳。今居中國去人倫。反夷狄之不如。春秋所以作也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-049">
+<document>
+<text_unit img="file:D:\jibju\02_011.jpg" id="論語集註大全-八佾-06-01">
+<hanmun_text>
+<canon id="論語-八佾-06-01">○季氏旅於泰山。子謂冉有曰。女弗能救與。對曰。不能。子曰。嗚呼。曾謂泰山。不如林放乎。<annotation type="sound">女音汝。與平聲。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-06-01-C01">旅。祭名。</commentary>
+<sub_commentary commentator="倪士毅" id="論語-八佾-06-01-C01-S01" name="新安倪氏">新安倪氏曰。祭山曰旅。書曰蔡蒙旅平。九山刊旅。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-06-01-C02">泰山。山名。在魯地。禮諸侯祭封內山川。季氏祭之。僭也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-06-01-C02-S01">記王制。天子祭天地。諸侯祭社稷。大夫祭五祀。天子祭天下名山大川。五嶽視三公。四瀆視諸侯。視者。視其牲器之數。諸侯祭名山大川之在其地者。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-06-01-C03">冉有。孔子弟子。名求<annotation type="biographical">魯人</annotation>。時爲季氏宰。救。謂救其陷於僭竊之罪。嗚呼。歎辭。言神不享非禮。欲季氏知其無益而自止。又進林放。以厲冉有也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-06-01-C03-S01">厲。激厲也</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-06-01-C03-S02" name="朱子">○朱子曰。天子祭天地。諸侯祭國內山川。只緣是他屬我。故我祭得他。若不屬我。則氣便不與之相感。如何祭得他。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-八佾-06-01-C03-S03" name="南軒張氏">○南軒張氏曰。林放猶能問禮之本。泰山豈受非禮之祭。鬼神雖幽。不外乎理。人心猶所不安。神其享之乎。意當冉有爲其家臣時。適有旅祭事。故夫子欲其正救之。</sub_commentary>
+<sub_commentary commentator="陳氏" id="論語-八佾-06-01-C03-S04" name="陳氏">○陳氏曰。范氏說有其誠則有其神最好。誠只是眞實無妄。雖以理言。亦以心言。須是有此實理。然後致其誠敬。而副以實心。方有此神。若無此實理。雖有此實心。亦不歆享。如季氏不當祭泰山而冒祭。是無此實理矣。假饒盡其誠敬之心。亦與神不相干涉。神決不吾享矣。古人祭祀。須有此實理相關。然後七日戒三日齋。以聚吾之精神。吾之精神旣聚。則所祭者之精神亦聚。自有來格底道理。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-八佾-06-01-C03-S05" name="雲峯胡氏">○雲峯胡氏曰。林放一魯男子爾。猶知厭其禮之末者。泰山之神。獨不惡禮之僭者乎。夫子爲是言。豈林放請問之時。正季氏旅泰山之時歟。抑林放因季氏之旅而有是問歟。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-06-01-C04">○范氏曰。冉有從季氏。夫子豈不知其不可告也。然而聖人不輕絶人。盡己之心。安知冉有之不能救。季氏之不可諫也。旣不能正。則美林放以明泰山之不可誣。是亦敎誨之道也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-06-01-C04-S01">問自八佾舞至旅泰山五段。皆聖人欲救天理於將滅。故其哀痛一切與春秋同意。朱子曰。是。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-050">
+<document>
+<text_unit img="file:D:\jibju\02_012.jpg" id="論語集註大全-八佾-07-01">
+<hanmun_text>
+<canon id="論語-八佾-07-01">○子曰。君子無所爭。必也射乎。揖讓而升。下而飮。其爭也君子。<annotation type="sound">飮去聲。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-07-01-C01">揖讓而升者。大射之禮。耦進。三揖而後升堂也。</commentary>
+<sub_commentary commentator="胡氏" id="論語-八佾-07-01-C01-S01" name="胡氏">胡氏曰。大射之禮。司射作三耦射。三耦出次西面揖。當階北面揖。及階揖。所謂三揖而後升堂也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-07-01-C02">下而飮。謂射畢揖降。以俟衆耦皆降。勝者乃揖。不勝者升。取觶<annotation type="sound">音置</annotation>立飮也。</commentary>
+<sub_commentary commentator="胡氏" id="論語-八佾-07-01-C02-S01" name="胡氏">胡氏曰。卒射。北面揖。揖如升射。適次。反位。三耦卒射亦如之。所謂射畢。揖降。以俟衆耦皆降也。司射命設豐于西楹西。勝者之弟子。洗觶酌奠于上。勝者袒決。遂執張弓。不勝者襲脫決。拾郤左手。右加弛弓於其上。遂以執弣。揖如始升射。及階。勝者先升堂少右。不勝者。進北面坐。取豐上之觶。興立飮。卒觶。坐奠于豐下。興揖先降。所謂勝者乃揖不勝者升。取觶立飮也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-07-01-C03">言君子恭遜。不與人爭。惟於射而後有爭。然其爭也。雍容揖遜乃如此。則其爭也君子。而非若小人之爭也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-07-01-C03-S01">非若小人尙氣角力之爭也。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-07-01-C03-S02" name="朱子">○朱子曰。射有勝負。是相爭之地。而猶若此。是不爭也。畢竟爲君子之爭。不爲小人之爭。爭得來也君子。語勢當如此。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-07-01-C03-S03" name="慶源輔氏">○慶源輔氏曰。恭與遜。皆禮之發也。恭主容。遜主事。爭則恭遜之反也。君子恭遜。則自無所爭。獨於射。則皆欲中鵠以取勝。故不能無爭。然其爭也。升降揖遜。雍容和緩乃如此。是則所謂禮樂未嘗斯須去身者。其爭也君子。謂其異於小人之爭也。以是觀之。則信乎君子之眞無所爭矣。○或問孔子言射。曰其爭也君子。孟子言射。曰無怨勝己者。反求諸己。此是全無爭。潛室陳氏曰。惟其不怨勝己者。其爭也乃君子之爭。而非小人之爭。旣謂君子之爭。則雖爭猶不爭矣。君子之爭者禮義。小人之爭者血氣。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-八佾-07-01-C03-S04" name="雲峯胡氏">○雲峯胡氏曰。射有似乎君子。此則謂射之爭也君子。蓋君子於射若不能不較勝負。然不勝者未嘗少有怨勝己之心。勝者亦略無一點喜勝之心。但惟見其相與雍容揖讓而已。豈不足以觀君子之氣象乎。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-051">
+<document>
+<text_unit img="file:D:\jibju\02_013.jpg" id="論語集註大全-八佾-08-01">
+<hanmun_text>
+<canon id="論語-八佾-08-01">○子夏問曰。巧笑倩兮。美目盼兮。素以爲絢兮。何謂也。<annotation type="sound">倩七練反。盼普莧反。絢呼縣反。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-08-01-C01">此。逸詩也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-08-01-C01-S01">或謂卽衛風碩人所云。素以爲絢兮一句。夫子所刪也。朱子曰。此句最有意義。夫子方有取焉而反見刪。何哉。且碩人四章章皆七句。不應此章獨多一句而見刪。必別自一詩而今逸矣。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-08-01-C02">倩。好口輔也。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-08-01-C02-S01" name="新安陳氏">新安陳氏曰。口輔。面頰也。易咸其輔。左傳輔車相依。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-08-01-C03">盼。目黑白分也。素。粉地。畫之質也。絢。采色。畫之飾也。言人有此倩盼之美質。而又加以華采之飾。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-08-01-C03-S01" name="新安陳氏">新安陳氏曰。詩無此句意。但下文素以爲絢中涵此意。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-08-01-C04">如有素地而加采色也。</commentary>
+<sub_commentary commentator="饒魯" id="論語-八佾-08-01-C04-S01" name="雙峯饒氏">雙峯饒氏曰。巧笑美目二句。賦也。素以爲絢一句。比也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-08-01-C05">子夏疑其反謂以素爲飾。故問之。</commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-052">
+<document>
+<text_unit img="file:D:\jibju\02_014.jpg" id="論語集註大全-八佾-08-02">
+<hanmun_text>
+<canon id="論語-八佾-08-02">子曰。繪事後素。<annotation type="sound">繪胡對反。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-08-02-C01">繪事。繪畫之事也。後素。後於素也。考工記曰。繪畫之事後素功。</commentary>
+<sub_commentary commentator="" id="論語-八佾-08-02-C01-S01">周禮冬官考工記。畫繢之事。靑與赤謂之文。赤與白謂之章。白與黑謂之黼。黑與靑謂之黻。五采備謂之繡。凡畫繢之事後素功。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-08-02-C02">謂先以粉地爲質。而後施五采。猶人有美質然後。可加文飾。</commentary>
+<sub_commentary commentator="" id="論語-八佾-08-02-C02-S01">申解逸詩意。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-053">
+<document>
+<text_unit img="file:D:\jibju\02_014.jpg" id="論語集註大全-八佾-08-03">
+<hanmun_text>
+<canon id="論語-八佾-08-03">曰。禮後乎。子曰。起予者。商也。始可與言詩已矣。</canon>
+<commentary commentator="朱熹" id="論語-八佾-08-03-C01">禮必以忠信爲質。<annotation type="">此禮字以儀文之禮言。</annotation>猶繪事必以粉素爲先。起。猶發也。起予。言能起發我之志意。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-08-03-C01-S01" name="朱子">朱子曰。起予者。謂孔子言繪事後素之時。未思量到禮後乎處。而子夏首以爲言。正所以起發夫子之意。非謂夫子不能。而子夏能之。以敎夫子也。○聖人豈必待學者之言而後有所起發。蓋聖人胸中包藏許多道理。若無人叩擊。則無由發揮於外。一番說起。則一番精神也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-08-03-C02">謝氏曰。子貢。因論學而知詩。</commentary>
+<sub_commentary commentator="" id="論語-八佾-08-03-C02-S01">見學而篇末章。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-08-03-C03">子夏。因論詩而知學。故皆可與言詩。○楊氏曰。甘受和<annotation type="sound">去聲</annotation>。白受采。忠信之人。可以學禮。苟無其質。禮不虛行。此繪事後素之說也。</commentary>
+<sub_commentary commentator="倪士毅" id="論語-八佾-08-03-C03-S01" name="新安倪氏">新安倪氏曰。記禮器云。甘受和。白受采。忠信之人可以學禮。苟無忠信之人。則禮不虛道。道猶行也。引此以解此章方可通。不然。禮後乎一句。何以知忠信當先。而禮文在後乎。白受采。可證繪事後素。而忠信可學禮。可解禮後乎。集註首云。禮必以忠信爲質。亦本禮器。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-08-03-C04">孔子曰。繪事後素。而子夏曰禮後乎。可謂能繼其志矣。</commentary>
+<sub_commentary commentator="倪士毅" id="論語-八佾-08-03-C04-S01" name="新安倪氏">新安倪氏曰。學記曰。善敎者。使人繼其志。謂師善敎以引其端。使弟子繼師之志而開悟也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-08-03-C05">非得之言意之表者。能之乎。商賜可與言詩者以此。若夫<annotation type="sound">音扶</annotation>玩心於章句之末。則其爲詩也。固而已矣。</commentary>
+<sub_commentary commentator="倪士毅" id="論語-八佾-08-03-C05-S01" name="新安倪氏">新安倪氏曰。孟子云。固哉高叟之爲詩也。爲。猶云講治。固。謂執滯不通。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-08-03-C06">所謂起予。則亦相長<annotation type="sound">上聲</annotation>之義也。</commentary>
+<sub_commentary commentator="倪士毅" id="論語-八佾-08-03-C06-S01" name="新安倪氏">新安倪氏曰。學記云。敎學相長也。謂敎者與學者交相長益。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-八佾-08-03-C06-S02" name="南軒張氏">○南軒張氏曰。繪事後素者。謂質爲之先。而文在後也。子夏於此知禮文之爲後。可謂能黙會之於語言之外矣。故夫子有起予之言。子夏在聖門文學之科。而其所得蓋如此。可謂知本矣。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-054">
+<document>
+<text_unit img="file:D:\jibju\02_015.jpg" id="論語集註大全-八佾-09-01">
+<hanmun_text>
+<canon id="論語-八佾-09-01">○子曰。夏禮吾能言之。杞不足徵也。殷禮吾能言之。宋不足徵也。文獻不足故也。足則吾能徵之矣。</canon>
+<commentary commentator="朱熹" id="論語-八佾-09-01-C01">杞。夏之後。宋。殷之後。</commentary>
+<sub_commentary commentator="" id="論語-八佾-09-01-C01-S01">史記杞世家。東樓公者。夏后禹之苗裔也。杞。國名。東樓公。謚號也。又宋世家。微子開者。殷帝乙之長子。而紂之庶兄也。微子。名啓。今云開者。避漢景帝諱也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-09-01-C02">徵<annotation type="sound">知陵反</annotation>。證也。文。典籍也。獻。賢也。言二代之禮。我能言之。而二國不足取以爲證。以其文獻不足故也。文獻若足。則我能取之。以證吾言矣。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-09-01-C02-S01" name="朱子">朱子曰。孔子言我欲觀夏道。是故之杞而不足證也。吾得夏時焉。我欲觀商道。是故之宋而不足證也。吾得坤乾焉。說者謂夏時爲夏小正。坤乾爲歸藏。聖人讀此二書。必是大有發明處。歸藏之書。今無傳。○問孔子能言夏殷之禮而無其證。是時文獻不足。孔子何從知得。曰。聖人自是生知聰明。無所不通。然亦是當時賢者識其大。不賢者識其小。孔子廣詢博問。所以知得。杞國最小。所以文獻不足。○問夏殷之禮。杞宋固不足徵。然使聖人得時得位。有所制作。雖無所徵而可以義起者。亦必將有以處之。曰。夏殷之禮。夫子固嘗講之。但杞宋衰微。無所考以證吾言矣。若得時有作。當以義起者。固必有以處之。</sub_commentary>
+<sub_commentary commentator="陳埴" id="論語-八佾-09-01-C02-S02" name="潛室陳氏">○潛室陳氏曰。三綱五常。固不待取證。若其制度文爲。隨時損益者何限。旣無文獻可證。雖聖人不能意料臆說也。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-八佾-09-01-C02-S03" name="雙峯饒氏">○雙峯饒氏曰。杞宋二國。文獻雖皆不足。然以杞較宋。宋去殷近。尤有存者。杞去夏遠。且不能自振。想見尤甚。所以孔子又言吾說夏禮。杞不足證。吾學殷禮。有宋存焉。或問夏殷之後。其文獻旣皆不足。不知孔子於何考訂而能言之。曰。殘編斷簡。當時豈無存者。聖人聰明睿知。得其一二。則可觸類以知其餘。况周之禮。實監二代而損益之。則周之文。亦可推之以知夏殷忠質之變。但無徵不信。不信則民不從。故聖人雖能言之。而終不敢筆之於書。以示後世。若當時杞宋可證。得聖人論著二代之禮。與周禮並存。以爲百王損益之大法。豈不甚妙。惜乎杞宋旣不足以證二代之禮。其後周之文獻。亦淪亡於戰國干戈。與暴秦坑焚之餘。三代禮樂之敎。影滅無復遺響於後世。可歎也已。</sub_commentary>
+<sub_commentary commentator="胡氏" id="論語-八佾-09-01-C02-S04" name="胡氏">○胡氏曰。文獻不足。非全不可考。特有闕耳。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-八佾-09-01-C02-S05" name="雲峯胡氏">○雲峯胡氏曰。夫子旣能言之。猶曰無徵不信。其謹重如此。此凡三見。禮運以爲。之杞得夏時。之宋得坤乾。中庸則以爲杞不足證。有宋存焉。合而觀之。蓋雖得夏時坤乾之文。雖於宋略有存焉者。然其爲文獻要皆缺略而不完也。故夫子論之。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-055">
+<document>
+<text_unit img="file:D:\jibju\02_017.jpg" id="論語集註大全-八佾-10-01">
+<hanmun_text>
+<canon id="論語-八佾-10-01">○子曰。禘自旣灌而往者。吾不欲觀之矣。<annotation type="sound">禘大計反。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-10-01-C01">趙伯循曰。<annotation type="biographical">伯循。名匡。唐河東人。</annotation>禘。王者之大祭也。王者旣立始祖之廟。又推始祖所自出之帝。祀之於始祖之廟。而以始祖配之也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-10-01-C01-S01" name="朱子">朱子曰。以始祖配祭。而不及羣廟之主。不敢褻也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-10-01-C02">成王。以周公。有大勳勞。賜魯重祭。</commentary>
+<sub_commentary commentator="" id="論語-八佾-10-01-C02-S01">事見禮記明堂位。及祭統篇。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-10-01-C03">故得禘於周公之廟。以文王爲所出之帝。而周公配之。然非禮矣。</commentary>
+<sub_commentary commentator="" id="論語-八佾-10-01-C03-S01">失之於僭違不王不禘之法矣。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-10-01-C04">灌者。方祭之始。用鬱<annotation type="sound">經勿反</annotation>鬯<annotation type="sound">丑亮反</annotation>之酒。灌地以降神也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-10-01-C04-S01" name="朱子">朱子曰。鬱鬯者。禮家以爲釀秬爲酒。煮鬱金香草和之。其氣芬芳條暢也。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-10-01-C04-S02" name="慶源輔氏">○慶源輔氏曰。周之祭祀。先以鬱鬯灌地。求神於陰。旣奠然後。取血膋實之於蕭以燔之。以求神於陽也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-10-01-C05">魯之君臣。當此之時。誠意未散。猶有可觀。自此以後。則浸以懈<annotation type="sound">居隘反</annotation>怠。而無足觀矣。蓋魯祭非禮。孔子本不欲觀。至此而失禮之中。又失禮焉。</commentary>
+<sub_commentary commentator="" id="論語-八佾-10-01-C05-S01">僭禘。元已失禮。旣灌懈怠。爲又失禮。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-10-01-C06">故發此歎也。</commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-10-01-C06-S01" name="慶源輔氏">慶源輔氏曰。僭祭之罪雖大。而其來已久。且國惡當諱懈。怠之失雖小。然却是當時主祭者。切己之實病。不可不有以箴之。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-10-01-C07">○謝氏曰。夫子嘗曰我欲觀夏道。是故之杞。而不足證也。我欲觀商道。是故之宋。而不足證也。又曰我觀周道。幽厲傷之。<annotation>由二王壞之。</annotation>吾舍<annotation type="sound">上聲</annotation>魯何適矣。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-10-01-C07-S01" name="新安陳氏">新安陳氏曰。魯在春秋時。爲諸侯望國。周之典禮。儒書在焉。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-10-01-C08">魯之郊禘非禮也。周公其衰矣。<annotation>以上並禮運文。</annotation>考之杞宋。已如彼。考之當今<annotation>魯事</annotation>。又如此。孔子所以深歎也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-10-01-C08-S01">問禘之說。諸家多云魯躋僖公。昭穆不順。故聖人不欲觀。如何。朱子曰。禘是於始祖之廟。推所自出之帝設。虛位以祀之。而以始祖配。卽不曾序昭穆。故周禘帝嚳以后稷配之。王者有禘有祫。諸侯有祫而無禘。此魯所以爲失禮也。○或問禮記大傳云。禮不王不禘。王者禘其祖之所自出。以其祖配之。又喪服小記曰。王者禘其祖之所自出。又下云禮不王不禘。正與大傳同。則諸侯不得禘禮明矣。然則春秋書魯之禘。何也。曰。成王追念周公故也。祭統云。成王追念周公。賜之重祭。郊社禘嘗是也。魯之用禘。蓋以周公廟而上及文王。卽周公之所出故也。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-10-01-C08-S02" name="慶源輔氏">○慶源輔氏曰。謝氏蓋倂前章通論之。此三章及下章。或夫子一時之言。或記者以類次之也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-056">
+<document>
+<text_unit img="file:D:\jibju\02_018.jpg" id="論語集註大全-八佾-11-01">
+<hanmun_text>
+<canon id="論語-八佾-11-01">○或問禘之說。子曰。不知也。知其說者之於天下也。其如示諸斯乎。指其掌。</canon>
+<commentary commentator="朱熹" id="論語-八佾-11-01-C01">先王。報本追遠之意。莫深於禘。非仁孝誠敬之至。不足以與<annotation type="sound">去聲</annotation>此。非或人之所及也。而不王不禘之法。又魯之所當諱者。故以不知答之。示。與視同。指其掌。弟子記夫子言此。而自指其掌。言其明且易也。蓋知禘之說。則理無不明。誠無不格。而治天下不難矣。聖人於此。豈眞有所不知也哉。</commentary>
+<sub_commentary commentator="李侗" id="論語-八佾-11-01-C01-S01" name="延平李氏">延平李氏曰。記曰。魯之郊禘非禮也。周公其衰矣。以其難言。故春秋皆因郊禘事中之失而書。譏魯自在其中。今曰禘自旣灌而往者。吾不欲觀之矣。則是顚倒失禮。於灌而求神。以至於終。皆不足觀。蓋歎之也。對或人之問。又曰不知。則夫子之深意可知矣。旣曰不知。又曰知其說者。之於天下也。其如示諸斯乎。指其掌。則非不知也。只是難言爾。原幽明之故。知鬼神之情狀。則燭理深矣。於天下也何有。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-11-01-C01-S02" name="朱子">○朱子曰。禘是祭之甚大甚遠者。若他祭與祫祭。止於太祖。禘又祭祖之所自出。如祭后稷。又推稷上一代祭之。周人禘嚳是也。○禘之意最深長。如祖考與己身未相遼絶。祭禮亦自易理會。至如郊天祀地。猶有天地之顯然者。不敢不盡其心。至祭其始祖。已自大段闊遠。難盡感格之道。今又推始祖所自出而祀之。苟非察理之精微。盡誠之極至。安能與於此。故知此則治天下不難也。此尙明得。何况其他。此尙感得。何况其他。○自祖宗以來。千數百年。只是這一氣相傳。德厚者流光。德薄者流卑。但法有止處。所以天子只是七廟。然聖人心猶不滿。故又推始祖所自出之帝。以始祖配之。然已自無廟。只是附於始祖之廟。然又惟天子得如此。諸侯以下不與焉。故近者易感。遠者難格。若粗淺之人。他誠意如何得到那裏。不是大段見得道理分明。如何推得聖人報本反始之意。如此深遠。非是將這事去推那事。只是知得此說時。則其人見得道理極高。以之處他事。自然沛然也。○天地陰陽生死晝夜鬼神。只是一理。若明祭祀鬼神之理。則治天下之理。不外於此。七日戒三日齋。必見其所祭者。故郊焉則天神格。廟焉則人鬼享。此可謂至微而難通者。若能如此。到得治天下。以上感下。以一人感萬民。亦初無難者。○問魯之郊禘。自成王之賜。伯禽之受。不是了。後世子孫合如何而改。曰。時王之命。如何敢改。曰。恐不可自改。則當請命於天王而改之否。曰。是。</sub_commentary>
+<sub_commentary commentator="黃淵" id="論語-八佾-11-01-C01-S03" name="黃氏">○黃氏曰。根於天理之自然。謂之仁。形於人心之至愛。謂之孝。眞實無妄。謂之誠。主一無適。謂之敬。仁孝誠敬。凡祭皆然。交於神明者愈遠。則其心愈篤。報本追遠之深。則非仁孝誠敬之至。莫能知之行之也。其爲說精微深遠。豈或人所能知。况又魯所當諱乎。以報本追遠之深。而盡仁孝誠敬之至。卽此心而充之。事物之理。何所不明。吾心之誠。何所不格哉。</sub_commentary>
+<sub_commentary commentator="眞德秀" id="論語-八佾-11-01-C01-S04" name="西山眞氏">○西山眞氏曰。萬物本乎天。人本乎祖。我之有此身。出於父母也。父母又出於祖。祖又出於始祖。始祖又出於厥初得姓受氏之祖。雖年代悠遠。如自根而榦。自榦而枝。其本則一而已矣。故必推始祖之所自出而祭之。則報本反始之義。無不盡矣。若非仁孝誠敬之極至。豈能知此禮而行之乎。蓋凡人於世之近者。則意氣精神未散。或嘗逮事而記其聲容。必起哀敬之心而不敢忽。若世之遠者。相去已久。精神之存與否。不可得而知。又素不識其聲容。則有易忽之意。故禘禮非極其仁孝。極其誠敬者。不能知其禮。不能行其事。苟能知此理矣。則其他事物之理。又何難知之有。苟能感格矣。則推而格天地者。此誠而已。推而感之其他。則亦此誠而已。故曰理無不明。誠無不格。於治天下何難哉。</sub_commentary>
+<sub_commentary commentator="馮椅" id="論語-八佾-11-01-C01-S05" name="厚齋馮氏">○厚齋馮氏曰。中庸云。明乎郊社之禮。禘嘗之義。治國其如示諸掌乎。蓋夫子嘗爲郊社禘嘗發此語。至此復指其掌。以示或人也。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-八佾-11-01-C01-S06" name="雲峯胡氏">○雲峯胡氏曰。於禘而洞幽明之理者。理當無所不明矣。於禘而極感格之誠者。誠當無所不格矣。始曰仁孝誠敬之至。末獨曰誠。仁孝敬皆不可不誠。而誠之至者。仁孝敬當無不至也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-057">
+<document>
+<text_unit img="file:D:\jibju\02_020.jpg" id="論語集註大全-八佾-12-01">
+<hanmun_text>
+<canon id="論語-八佾-12-01">○祭如在。祭神如神在。</canon>
+<commentary commentator="朱熹" id="論語-八佾-12-01-C01">程子曰。祭。祭先祖也。祭神。祭外神也。祭先。主於孝。祭神。主於敬。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-12-01-C01-S01" name="新安陳氏">新安陳氏曰。以下句祭神。見上單一祭字。爲祭先祖也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-12-01-C02">愚謂。此門人記孔子祭祀之誠意。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-12-01-C02-S01" name="朱子">朱子曰。孔子祭先祖。孝心純篤。雖死者已遠。因時追思。若聲容可接。得竭盡孝心以祀之。祭外神。如山川社稷五祀之類。與山林溪谷之神。能興雲雨者。此孔子在官時也。盡其誠敬。儼然如神明之來格。得以與之接也。祭先主於孝。祭神主於敬。而如在之誠則一。○問人物在天地間。其生生不窮者理也。其聚而生。散而死者氣也。氣聚在此則理具於此。今氣已散而無矣。則理於何而寓邪。然吾之此身。卽祖考之遺體。祖考之氣。流傳於我。而未嘗亡也。其魂升魄降。雖已化而。無然理之根於彼者。旣無止息。氣之具於我者。復無間斷。吾能盡誠敬以祭之。此氣旣純一而無所雜。則此理自昭晰而不可掩。此其血脉之較然可覩者也。曰。人之氣傳於子孫。如木之氣傳於實。此實之傳不泯。則其生木雖枯毁無餘。而氣之在此者。猶自若也。此等處。從實事上推之。自見意味。○問先生答廖子晦云。氣之已散者。旣化而無有。根於理而日生者。則固浩然而無窮。故上蔡言我之精神。卽祖考之精神。蓋謂此也。此是說天地氣化之氣否。曰。此氣只一般。若說有子孫底引得他氣來。不成。無子孫底便絶無了。如諸侯祭。因國之在其地而無主後者。如太公封於齊。便祭爽鳩氏之屬。蓋他先主此國來。禮合祭他。惟繼其國者。則合祭之。非在其國者。便不當祭。道理合如此。便有此氣。使無子孫。其氣亦未嘗亡也。要之通天地人。只是這一氣。所以說洋洋乎如在其上。如在其左右。虛空逼塞。無非此理。自要人看得活。難以言曉也。○問天地山川之屬。分明是一氣流通。而亦兼以理言之。上古聖賢。則專以理言。曰。有是理。必有是氣。問上古聖賢所謂氣。只是天地間公共之氣。若祖考精神。畢竟是自家精神。曰。祖考亦只是這公共之氣。此身在天地間。便是理與氣凝聚底。天子統攝天地。負荷天地間事。與天地相關。這心便與天地相通。如諸侯不當祭天地。與天地不相關。便不能相通。聖賢道在萬世。功在萬世。今行聖賢之道。傳聖賢之心。便是負荷這物事。這氣便與他相通。如釋奠列許多籩豆禮儀。不成。是無此氣。姑漫爲之。○問虛空中無非氣。死者旣不可得而求矣。子孫盡其誠敬。則祖考卽應其誠。還是虛空之氣。自應吾之誠。還是氣只是吾身之氣。曰。只是自家之氣。蓋祖考之氣。與己連續。○問非所當祭而祭。則爲無是理矣。若有是誠心。還亦有神否。曰。神之有無。也不可必。然此處是以當祭者而言。若非所當祭底。便須有誠意。然這箇都已錯了。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-058">
+<document>
+<text_unit img="file:D:\jibju\02_022.jpg" id="論語集註大全-八佾-12-02">
+<hanmun_text>
+<canon id="論語-八佾-12-02">子曰。吾不與祭。如不祭。<annotation type="sound">與去聲。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-12-02-C01">又記孔子之言。以明之。言己當祭之時。或有故不得與。而使他人攝之。</commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-12-02-C01-S01" name="慶源輔氏">慶源輔氏曰。有故。謂疾病。或不得已之事。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-12-02-C02">則不得致其如在之誠。故雖已祭。而此心缺然。如未嘗祭也。○范氏曰。君子之祭。七日戒。三日齊<annotation type="sound">莊皆反</annotation>。必見所祭者。誠之至也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-12-02-C02-S01">記坊記。七日戒。三日齊。承一人焉以爲尸。註云。承。猶事也。又祭義致齊於內。散齊於外。齊之日。思其居處。思其笑語。思其志意。思其所樂。思其所嗜。齊三日。乃見其所爲齊者。祭之日。入室僾音愛然。必有見乎其位。周還音旋出戶。肅然必有聞乎其容聲。出戶而聽。愾音慨然必有聞乎其歎息之聲。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-12-02-C03">是故郊則天神格。廟則人鬼享。皆由己以致之也。有其誠則有其神。無其誠則無其神。可不謹乎。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-12-02-C03-S01" name="朱子">朱子曰。誠者。實也。有誠則凡事都有。無誠則凡事都無。如祭有誠意。則幽明便交。無誠意。便都不相接。○神明不可見。惟心盡其誠敬。專一在於所祭之神。便見得洋洋如在其上。如在其左右。然則神之有無。在此心之誠不誠。不必求之恍惚之間也。</sub_commentary>
+<sub_commentary commentator="胡氏" id="論語-八佾-12-02-C03-S02" name="胡氏">○胡氏曰。祭先所以感通者。吾身卽所祭先祖之遺也。祭神所以感通者。吾身卽所祭神之主也。因其遺。因其主。而聚其誠意。則自然感格。所謂有其誠。則有其神也。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-八佾-12-02-C03-S03" name="雙峯饒氏">○雙峯饒氏曰。范氏意。是說有此誠時。方有此神。若無此誠。則倂此神無了。不特說神來格不來格也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-12-02-C04">吾不與祭如不祭。誠爲實。禮爲虛也。</commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-12-02-C04-S01" name="慶源輔氏">慶源輔氏曰。禮爲虛。非言凡禮皆虛。特指攝祭之禮而言耳。誠爲實。則指如在之誠意言也。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-12-02-C04-S02" name="新安陳氏">○新安陳氏曰。范氏有其誠之誠。專指誠敬之實心言。非但指誠實之實理言。蓋古禮所祭。未有不合實理之神。此章本旨。主於如在之誠。必盡如在之實心。斯見所祭之爲實有矣。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-059">
+<document>
+<text_unit img="file:D:\jibju\02_023.jpg" id="論語集註大全-八佾-13-01">
+<hanmun_text>
+<canon id="論語-八佾-13-01">○王孫賈問曰。與其媚於奧。寧媚於竈。何謂也。</canon>
+<commentary commentator="朱熹" id="論語-八佾-13-01-C01">王孫賈。衛大夫。媚。親順也。室西南隅爲奧。竈者。五祀之一。夏所祭也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-13-01-C01-S01">禮記月令。孟春之月其祀戶。孟夏祀竈。中央祀中霤。孟秋祀門。孟冬祀行。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-13-01-C02">凡祭五祀。皆先設主。而祭於其所。然後迎尸而祭於奧。略如祭宗廟之儀。如祀竈。則設主於竈陘<annotation type="sound">音刑</annotation>。祭畢而更設饌於奧。以迎尸也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-13-01-C02-S01" name="朱子">朱子曰。陘。是竈門外平正可頓柴處。陘非可做好安排。故又祭於奧以成禮。五祀皆然。問五祀皆有尸。以誰爲之。曰。今無可考。但墓祭以家人爲尸。以此推之。祀竈之尸。恐膳夫之類。祀門之尸。恐閽人之類。祀山川。則虞衡之類。儀禮。周公祭泰山。召公爲尸。○問主與尸。其別如何。旣設主祭於其所。又迎尸祭於其奧。本是一神。以奧爲尊。以主爲卑。何也。曰。不是尊奧而卑主。但祭五祀。皆設主於其處。則隨四時更易。皆迎尸於奧。則四時皆然。而其尊有常處耳。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-八佾-13-01-C02-S02" name="雙峯饒氏">○雙峯饒氏曰。五祀先設主席而祭於其所。親之也。後迎尸而祭於奧。尊之也。祭於其所。近於褻。止祭於奧。又非神所栖。故兩祭之。以盡求神之道也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-13-01-C03">故時俗之語。因以奧有常尊。而非祭之主。竈雖卑賤。而當時用事。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-13-01-C03-S01" name="新安陳氏">新安陳氏曰。奧乃一室中最尊處。五祀皆迎尸於奧。雖有常尊。然戶竈之類。乃祭之主。而奧非祭之主也。以奧之尊。見竈爲卑賤。夏屬火。竈以火爨。夏祭主之。當夏之時。用夏之事。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-13-01-C04">喩自結於君。不如阿附權臣也。賈。衛之權臣。故以此諷孔子。</commentary>
+<sub_commentary commentator="" id="論語-八佾-13-01-C04-S01">以奧比君。以竈比權臣。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-060">
+<document>
+<text_unit img="file:D:\jibju\02_024.jpg" id="論語集註大全-八佾-13-02">
+<hanmun_text>
+<canon id="論語-八佾-13-02">子曰。不然。獲罪於天。無所禱也。</canon>
+<commentary commentator="朱熹" id="論語-八佾-13-02-C01">天。卽理也。其尊無對。非奧竈之可比也。逆理則獲罪於天矣。豈媚於奧竈。所能禱而免乎。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-13-02-C01-S01" name="朱子">朱子曰。獲罪於天。只是論理之當否。不是論禍福。問獲罪於蒼蒼之天。抑獲罪於此理。曰。天之所以爲天者。理而已。天非有此道理。不能爲天。故蒼蒼者。卽此道理之天。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-13-02-C01-S02" name="慶源輔氏">○慶源輔氏曰。凡物必有對。惟天則無所不包。惟理則無所不在。故尊而無對。</sub_commentary>
+<sub_commentary commentator="吳迂" id="論語-八佾-13-02-C01-S03" name="吳氏">○吳氏曰。天雖積氣。理寓氣中。逆理則得罪於天而禍及之矣。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-13-02-C01-S04" name="新安陳氏">○新安陳氏曰。天卽理也一句。是昭昭之天。合人心之天言之。理原於天。而具於人心。逆理則自欺此心之天。是卽欺在天之天。而獲罪非自外至矣。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-13-02-C02">言但當順理。非特不當媚竈。亦不可媚於奧也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-13-02-C02-S01" name="朱子">朱子曰。緊要是媚字不好。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-八佾-13-02-C02-S02" name="雲峯胡氏">○雲峯胡氏曰。纔說媚字。便已非理。非理則獲罪於天矣。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-13-02-C03">○謝氏曰。聖人之言。遜而不迫。使王孫賈而知此意。不爲無益。使其不知。亦非所以取禍。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-13-02-C03-S01" name="朱子">朱子曰。王孫賈庸俗之人。見孔子在衛。將謂有求仕之意。欲孔子附己。故有媚奧與媚竈之言。彼亦雖聞有孔子之聖。但其氣習卑陋。自謂有權。可以引援得孔子也。子曰不然者。謂媚奧與媚竈皆非也。天下只有一箇正當道理。循理而行便是天。若稍違戾於理。便是得罪於天。更無所禱告而得免其罪也。猶言違道以干進。乃是得罪於至尊至大者。可畏之甚。豈媚時君與媚權臣所得而免乎。此是遜辭以拒王孫賈。亦使之得聞天下有正理也。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-八佾-13-02-C03-S02" name="南軒張氏">○南軒張氏曰。夫子謂苟獲罪於天。則媚奧媚竈皆何所益。蓋胸中所存一有不直。則爲獲罪於天矣。夫欲求媚。是不直之甚者也。斯言卽禱祠而論之。而所以答其意者。亦無不盡矣。</sub_commentary>
+<sub_commentary commentator="眞德秀" id="論語-八佾-13-02-C03-S03" name="西山眞氏">○西山眞氏曰。聖人道大德宏如天地。故其發言渾渾乎如元氣之運。不曰媚奧竈之非。但言獲罪於天無所禱也。亦如對陽貨。但言吾將仕矣。其言渾然。圭角不露。旣非阿徇。又不違忤。此所以爲聖人之言也。常人之於權貴。非迎逄苟悅。則必激觸使怒。雖直言激觸者。不失其正。然比之聖人氣象。猶未免陷於一偏。然此非勉强可及。苟欲師慕其萬一。惟敬以存養。使心平氣和。則庶乎其可近爾。程子謂讀論語者。要識聖賢氣象。如此章之類。優游玩味。則其氣象可見矣。又曰。使王孫賈知此意。則必惕然自省。平日所爲咈理。得罪於天者已多。是乃開其悔悟之機也。如不知此意。亦不至觸之以招禍。○王孫賈衛之權臣。觀聖人獲罪於天之語。則其儆之深矣。然他日稱衛靈公之不亡。則以其國有人之故。而王孫賈治軍旅亦與焉。蓋其人雖不善。至於治兵則其所長。此又憎而知其善之意。聖人之心。至公如天地。此其一事也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-061">
+<document>
+<text_unit img="file:D:\jibju\02_025.jpg" id="論語集註大全-八佾-14-01">
+<hanmun_text>
+<canon id="論語-八佾-14-01">○子曰。周監於二代。郁郁乎文哉。吾從周。<annotation type="sound">郁於六反。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-14-01-C01">監。視也。二代。夏商也。言其視二代之禮。而損益之。郁郁。文盛貌。○尹氏曰。三代之禮。至周大備。夫子美其文而從之。</commentary>
+<sub_commentary commentator="" id="論語-八佾-14-01-C01-S01">問周監二代之制而損益之。其文大備。亦時使然也。聖人不能違時。烏得不從周之文乎。然亦少有不從處。如行夏之時。乘商之輅是也。朱子曰。周之文固可從。而聖人不得其位。無制作之時。亦不得不從也。使夫子而得邦。家則將損益四代。以爲百王不易之法。不專於從周矣。○聖人固當從時王之禮。周禮之盛。又非有不可從。設使夫子得位有作。意其從二代者。不能多於從周也。蓋法令旣詳。豈可更略。略則姦宄愈滋矣。○問前輩多以夫子損益四代之制。以告顔子。而又曰吾從周。其說似相牴牾。然中庸吾學周禮。今用之。吾從周。若答爲邦之問。乃其素志耳。曰。得之。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-八佾-14-01-C01-S02" name="南軒張氏">○南軒張氏曰。禮至周。盛且備。不可有加。故夫子欲從周。使居制作之位。大體則從周。其間損益之宜。如夏時殷輅韶舞則有之矣。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-14-01-C01-S03" name="慶源輔氏">○慶源輔氏曰。先王之制。與氣數相爲始終。而前後相爲損益。固非一人一日之所能致也。三代之禮。至周大備。則以氣數至此極盛。而前後相承。互爲損益。至此始集其大成也。夫子美其文而從之。豈苟云乎哉。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-14-01-C01-S04" name="新安陳氏">○新安陳氏曰。周之文。亦承夏忠商質之後。風氣漸開。人文漸著。不得不然者。况武王周公制作之初。參酌損益。良不苟矣。夫子得不從之。蓋從周盛時文質得宜之文。非從周末文勝質之文也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-062">
+<document>
+<text_unit img="file:D:\jibju\02_026.jpg" id="論語集註大全-八佾-15-01">
+<hanmun_text>
+<canon id="論語-八佾-15-01">○子入大廟。每事問。或曰。孰謂鄹人之子。知禮乎。入大廟。每事問。子聞之。曰。是禮也。<annotation type="sound">大音泰。鄹側留反。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-15-01-C01">大廟。魯周公廟。</commentary>
+<sub_commentary commentator="" id="論語-八佾-15-01-C01-S01">公羊傳。文公十三年。周公稱大廟。魯公稱世室。羣公稱宮。周公何以稱大廟于魯。封魯以爲周公也。周公拜乎前。魯公拜乎後。曰。生以養周公。死以爲周公主。拜。謂周公及其子伯禽始受封時。拜於文王廟也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-15-01-C02">此蓋孔子始仕之時。入而助祭也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-15-01-C02-S01" name="朱子">朱子曰。觀或稱鄹人之子。知其爲少賤之時。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-15-01-C03">鄹。魯邑名。孔子父叔梁紇<annotation type="sound">下沒反</annotation>。嘗爲其邑大夫。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-15-01-C03-S01" name="朱子">朱子曰。呼鄹人之子。是與孔子之父相識也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-15-01-C04">孔子自少以知禮聞。故或人因此而譏之。孔子言是禮者。敬謹之至。乃所以爲禮也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-15-01-C04-S01" name="朱子">朱子曰。是禮也。謂卽此便是禮也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-15-01-C05">○尹氏曰。禮者。敬而已矣。雖知亦問。謹之至也。其爲敬。莫大於此。謂之不知禮者。豈足以知孔子哉。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-15-01-C05-S01" name="朱子">朱子曰。入太廟每事問。知底更審問。方見聖人不自爲是。執事不可不問固然。然亦須知聖人平日於禮固無有不知。而臨事敬愼又如此也。又曰。平日講學。但聞其名。而未識其器物。未見其事實。故臨事不得不問耳。○問每事問。尹氏謂雖知亦問。敬愼之至。問者所未知也。問所知焉。似於未誠。尹氏之說。聖人之心恐不如是。曰。以石慶數馬。與張湯陽驚事相對觀之可見。雖知亦問。自有誠偽之別。兼或人謂夫子爲鄹人之子。則亦夫子始仕初入太廟時事。雖平日知其說。然未必身親行之而識其物也。故問以審之。理當如此。必不每入而每問也。然大綱節目。與其變異處。亦須問也。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-八佾-15-01-C05-S02" name="南軒張氏">○南軒張氏曰。禮以敬爲主。宗廟之事嚴矣。其大體聖人固無不知也。至於有司之事。則容亦有所不知者焉。知與不知。皆從而問。敬其事也。或以爲不知禮。聖人告之以是禮也。所以明禮意之所存也。</sub_commentary>
+<sub_commentary commentator="蔡模" id="論語-八佾-15-01-C05-S03" name="覺軒蔡氏">○覺軒蔡氏曰。聖人聰明睿知。固無不知。然亦但知其理而已。若夫制度器數之末。掌之有司。容亦有所不知者。至若器物節文。已經講論。及今方見之。亦須問然後審也。</sub_commentary>
+<sub_commentary commentator="吳迂" id="論語-八佾-15-01-C05-S04" name="吳氏">○吳氏曰。邑大夫稱人。春秋書人者。左傳多云大夫。如文九年許人是也。傳稱新築人仲叔于奚亦此例。之子。少賤稱。春秋仍叔之子。左傳曰弱。他章賊夫人之子。皆謂父之子也。孟僖子病。不能相禮。使二子學禮於夫子。齊黎彌曰。孔某知禮而無勇。則夫子以知禮聞可知矣。</sub_commentary>
+<sub_commentary commentator="陳氏" id="論語-八佾-15-01-C05-S05" name="陳氏">○陳氏曰。此章須於敬謹之至處。玩聖人氣象。</sub_commentary>
+<sub_commentary commentator="馮椅" id="論語-八佾-15-01-C05-S06" name="厚齋馮氏">○厚齋馮氏曰。或者輒稱聖人以鄹人之子。而且以不知禮爲譏。自常人處之。其辭必厲。否則置之不足以辨。今語定氣和。如酬答之常。初不較其言之遜傲也。夫子之德量宏哉。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-15-01-C05-S07" name="新安陳氏">○新安陳氏曰。於此略無不平之詞。尤可以觀聖人氣象。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-063">
+<document>
+<text_unit img="file:D:\jibju\02_028.jpg" id="論語集註大全-八佾-16-01">
+<hanmun_text>
+<canon id="論語-八佾-16-01">○子曰。射不主皮。爲力不同科。古之道也。<annotation type="sound">爲去聲。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-16-01-C01">射不主皮。鄕射禮文。爲力不同科。孔子解禮之意如此也。皮。革也。布侯而棲革於其中以爲的。所謂鵠也。</commentary>
+<sub_commentary commentator="倪士毅" id="論語-八佾-16-01-C01-S01" name="新安倪氏">新安倪氏曰。侯以布。鵠以革。考工記曰。梓人爲侯。廣與崇方。參分其廣。而鵠居一焉。蓋方制其皮以爲鵠。鵠。小鳥而難中。以中之爲儁。故謂的爲鵠。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-16-01-C02">科。等也。古者。射以觀德。</commentary>
+<sub_commentary commentator="" id="論語-八佾-16-01-C02-S01">禮記射義云。射者。所以觀盛德也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-16-01-C03">但主於中<annotation type="sound">去聲下同</annotation>。而不主於貫革。蓋以人之力。有强弱不同等也。記曰<annotation>樂記篇</annotation>。武王克商。散軍郊射。而貫革之射息。正謂此也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-16-01-C03-S01">樂記註。散軍則不廢農事。郊射則不忘武備。射宮在郊。故曰郊射。貫革者。射穿甲革。所以主皮也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-16-01-C04">周衰禮廢。列國兵爭。復<annotation type="sound">扶又反</annotation>尙貫革。故孔子歎之。○楊氏曰。中可以學而能。力不可以强而至。聖人言古之道。所以正今之失。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-16-01-C04-S01" name="朱子">朱子曰。夫子亦非是惡貫革之射。但是當時皆習於此。故言古人之道耳。如古人亦只是禮射不主皮。若武射依舊要貫革。若不貫革何益。○先王設射。謂弧矢之利以威天下。豈不願射得深中。如不失其馳。舍矢如破。發彼小豝。殪此大兕之類。皆是要得透。豈固以不主皮爲貴。而但欲略中而已。蓋鄕射之時。是習禮容。若以貫革爲貴。則失所以習禮之意。故謂若有人體直心正。持弓矢又審固。若射不貫革。其禮容自可取。豈可必責其貫革哉。此所以謂爲力不同科也。射之本意。也是要得貫革。只是大射之禮。本於觀德。不全是祼股肱決射御底人。只要內志正。外體直。取其中。不專取其力耳。○問古人射要如何用。曰。其初也只是脩武備。聖人文之以禮樂。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-八佾-16-01-C04-S02" name="勉齋黃氏">○勉齋黃氏曰。不主皮。未嘗以貫革爲非也。但取其中。而貫與不貫不論耳。雖矢不沒而墜地。不害其爲中也。若主貫革。則唯有力者得射。世之能射者寡矣。不主貫革。則人皆可射也。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-16-01-C04-S03" name="慶源輔氏">○慶源輔氏曰。時平則射以觀德。世亂則射主貫革。二者固各有所宜。然貫革之射。可暫而不可常。武王之事是也。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-16-01-C04-S04" name="新安陳氏">○新安陳氏曰。儀禮鄕射禮曰。禮射不主皮。鄭氏註。禮射謂以禮樂射。大射賓射燕射是也。夫子引儀禮之文。去上一禮字。若讀全句而味之。意自明白。蓋有禮射。有武射。治世行禮射。兵爭則尙武射。此言古之道也。與古者言之不出。皆是言古者。以見今之不古也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-064">
+<document>
+<text_unit img="file:D:\jibju\02_029.jpg" id="論語集註大全-八佾-17-01">
+<hanmun_text>
+<canon id="論語-八佾-17-01">○子貢。欲去告朔之餼羊。<annotation type="sound">去起呂反。告古篤反。餼許氣反。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-17-01-C01">告朔之禮。古者天子常以季冬。頒來歲十二月之朔于諸侯。諸侯受而藏之祖廟。月朔則以特羊告廟。請而行之。餼。生牲也。魯自文公始不視朔。而有司猶供此羊。故子貢欲去之。</commentary>
+<sub_commentary commentator="胡氏" id="論語-八佾-17-01-C01-S01" name="胡氏">胡氏曰。周禮大史頒告朔于邦國。左氏傳文公十六年。疏云。天子頒朔于諸侯。諸侯受之。藏于祖廟。每月之朔。以特牲告廟。受而施行之。遂聽治此月之政。竊意此周家所以一侯國。而侯國所以奉王命之常禮也。餼。卽特牲也。必於祖廟者。示不敢專。且重其事也。魯自文公六年閏月不告朔。至十六年四不視朔。左氏傳疏云。此後有不告朔者。亦不復書其譏已明。以後不復譏也。然則定哀之時。遂以不告朔爲常。故子貢以有司所供之羊爲徒費而欲去之。夫子遂責之也。大抵處事之際。有利害。有是非主於利害。則見物而不見理。主於是非。則見理而不見物。子貢之說。豈初年貨殖之心。猶未脫去歟。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-065">
+<document>
+<text_unit img="file:D:\jibju\02_030.jpg" id="論語集註大全-八佾-17-02">
+<hanmun_text>
+<canon id="論語-八佾-17-02">子曰。賜也。爾愛其羊。我愛其禮。</canon>
+<commentary commentator="朱熹" id="論語-八佾-17-02-C01">愛。猶惜也。子貢蓋惜其無實而妄費。然禮雖廢。羊存。猶得以識之。<annotation type="sound">識。音志。</annotation><annotation type="gloss">記也。記其爲告朔羊也。</annotation>而可復焉。若倂去其羊。則此禮遂亡矣。孔子所以惜之。○楊氏曰。告朔。諸侯所以禀命於君親。禮之大者。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-17-02-C01-S01" name="新安陳氏">新安陳氏曰。朔。受之天子。藏之祖廟。一禮行而尊君尊祖之大節得焉。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-17-02-C02">魯不視朔矣。然羊存則告朔之名。未泯。而其實因可擧。此夫子所以惜之也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-17-02-C02-S01" name="朱子">朱子曰。愛禮存羊。須見得聖人意思大。常人只屑屑惜小費。聖人之心。所惜者禮。所存者大也。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-八佾-17-02-C02-S02" name="南軒張氏">○南軒張氏曰。夫子之意。以爲禮雖廢而羊存。庶幾後之人。猶有能因羊以求禮者。是則羊雖虛器。固禮之所寓也。玩夫子之辭意。則子貢之欲去羊。其亦隘狹而少味矣。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-八佾-17-02-C02-S03" name="勉齋黃氏">○勉齋黃氏曰。當時諸侯雖不告朔。而羊尙在。是禮之大體雖亡。而猶有一節存也。有一節。則因此一節以復其大體。若去羊。則是倂此一節之禮去之矣。</sub_commentary>
+<sub_commentary commentator="馮椅" id="論語-八佾-17-02-C02-S04" name="厚齋馮氏">○厚齋馮氏曰。是時諸侯固自紀元。而天子所存者僅正朔。此禮蓋甚重也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-066">
+<document>
+<text_unit img="file:D:\jibju\02_030.jpg" id="論語集註大全-八佾-18-01">
+<hanmun_text>
+<canon id="論語-八佾-18-01">○子曰。事君盡禮。人以爲諂也。</canon>
+<commentary commentator="朱熹" id="論語-八佾-18-01-C01">黃氏曰。<annotation type="biographical">黃氏。名祖舜。字繼道。二山人。</annotation>孔子於事君之禮。非有所加也。如是而後盡爾。時人不能。反以爲諂。故孔子言之。以明禮之當然也。</commentary>
+<sub_commentary commentator="葉夢得" id="論語-八佾-18-01-C01-S01" name="葉氏少蘊">葉氏少蘊曰。如拜下之類。違衆而從禮。宜時人以爲諂也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-18-01-C02">○程子曰。聖人事君盡禮。當時以爲諂。若他人言之。必曰我事君盡禮。小人以爲諂。而孔子之言。止於如此。聖人道大德宏。此亦可見。</commentary>
+<sub_commentary commentator="胡氏" id="論語-八佾-18-01-C02-S01" name="胡氏">胡氏曰。聖人事君盡禮。非自賢以駭俗。內交以媚君也。亦曰畏天命。畏大人而已矣。</sub_commentary>
+<sub_commentary commentator="趙順孫" id="論語-八佾-18-01-C02-S02" name="趙氏">○趙氏曰。聖人必至禮而止。故曰盡。豈於禮之外又有加益哉。當時君弱臣强。事上簡慢。反以爲諂。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-18-01-C02-S03" name="新安陳氏">○新安陳氏曰。按黃氏就盡字上深味之。程子就人字上深味之。於此見得聖人意思氣象。可謂味聖言之法。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-067">
+<document>
+<text_unit img="file:D:\jibju\02_031.jpg" id="論語集註大全-八佾-19-01">
+<hanmun_text>
+<canon id="論語-八佾-19-01">○定公。問君使臣。臣事君。如之何。孔子對曰。君使臣以禮。臣事君以忠。</canon>
+<commentary commentator="朱熹" id="論語-八佾-19-01-C01">定公。魯君。名宋。二者。皆理之當然。各欲自盡而已。</commentary>
+<sub_commentary commentator="" id="論語-八佾-19-01-C01-S01">此兩平言之。正意也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-19-01-C02">○呂氏曰。使臣不患其不忠。患禮之不至。事君不患其無禮。患忠之不足。</commentary>
+<sub_commentary commentator="" id="論語-八佾-19-01-C02-S01">此交互言之。不責人而責己。各盡所當然。所以足上正意也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-19-01-C03">尹氏曰。君臣以義合者也。故君使臣以禮。則臣事君以忠。</commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-19-01-C03-S01" name="新安陳氏">新安陳氏曰。尹氏加一則字。以此章爲定公言。警君之意也。若爲臣言。則君雖不以禮。臣豈可以不忠。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-19-01-C03-S02" name="朱子">○朱子曰。爲君當知爲君之道。不可不使臣以禮。爲臣當盡爲臣之道。不可不事君以忠。君臣上下。兩盡其道。天下其有不治者哉。乃知聖人之言。本末兩盡。○問忠只是實心。人倫皆當用之。何獨於事君上說忠。曰。父子兄弟夫婦。人皆自知愛敬。君臣以義合。人易得苟且。於此說忠。是就不足處說。</sub_commentary>
+<sub_commentary commentator="馮椅" id="論語-八佾-19-01-C03-S03" name="厚齋馮氏">○厚齋馮氏曰。以尊臨卑者。易以簡。當有節文。以下事上者。易以欺。當盡其心。君臣以義合。名分雖嚴。必各盡其道。三家之强。惟有禮可以使之。定哀以吳越謀伐。則非禮矣。徒激其變。無益也。大抵聖人之言。中立不倚。異時答齊景公之問。亦曰君君臣臣父父子子。景公曰善哉。必有以黙動者矣。本末兩盡。含蓄不露。此聖人之言也。若乃孟子國人寇讎之喩。可以警其君。而不可以諭其臣。責善則離之說。可以告其父。而不可以訓其子。此聖賢之言。所以有辨也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-068">
+<document>
+<text_unit img="file:D:\jibju\02_032.jpg" id="論語集註大全-八佾-20-01">
+<hanmun_text>
+<canon id="論語-八佾-20-01">○子曰。關雎。樂而不淫。哀而不傷。<annotation type="sound">樂音洛。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-20-01-C01">關雎。周南國風。詩之首篇也。淫者。樂之過而失其正者也。傷者。哀之過而害於和者也。關雎之詩。言后妃之德。宜配君子。求之未得。則不能無寤寐反側之憂。求而得之。則宜其有琴瑟鍾鼓之樂。蓋其憂雖深。而不害於和。其樂雖盛。而不失其正。故夫子稱之如此。欲學者玩其辭。審其音。而有以識其性情之正也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-20-01-C01-S01" name="朱子">朱子曰。此詩看來是宮中人作。所以形容到寤寐反側。外人做不到此。樂止於琴瑟鍾鼓。是不淫也。若沈湎淫泆則淫矣。憂止於展轉反側。是不傷也。若憂愁哭泣則傷矣。此是得性情之正。○問關雎樂而不淫。哀而不傷。是詩人性情如此。抑詩之詞意如此。曰。是有那情性。方有那詞氣聲音。○關雎。是樂之卒章。故曰。關雎之亂。亂者。樂之卒章也。故楚辭有亂。曰是也。前面須更有。但今不可考耳。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-八佾-20-01-C01-S02" name="南軒張氏">○南軒張氏曰。哀樂。情之爲也。而其理具於性。哀而至於傷。樂而至於淫。是則情之流而性之汨矣。樂而不淫。哀而不傷。發不踰則。性情之正也。非養之有素者。其能然乎。</sub_commentary>
+<sub_commentary commentator="胡氏" id="論語-八佾-20-01-C01-S03" name="胡氏">○胡氏曰。觀詩之法。原其性情。玩其辭語。審其聲音而已。今性情難知。聲音不傳。惟辭語可玩味爾。然因其辭語。可以知其性情。至於播之長言。被之管絃。則聲音亦略可見矣。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-20-01-C01-S04" name="慶源輔氏">○慶源輔氏曰。哀樂。情也。未發則性也。由性之正。故發乎情亦正。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-八佾-20-01-C01-S05" name="雙峯饒氏">○雙峯饒氏曰。自他詩觀之。言憂者。常易至於悲傷。如澤陂之詩曰。有美一人。傷如之何。寤寐無爲。涕泗滂沱是也。言樂者。常易至於淫泆。如溱洧之詩曰。洧之外。詢訏且樂。惟士與女。伊其相謔。贈之以芍藥。是也。惟關雎之詩。最得性情之正。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-八佾-20-01-C01-S06" name="雲峯胡氏">○雲峯胡氏曰。集註於詩無邪曰。使人得其性情之正。指凡詩之用而言。此則曰。有以識性情之正。獨指關雎之詩而言。蓋樂不淫哀不傷。是詩人性情之正也。如鄭衛之詩。樂過而淫。哀過而傷。則亦有非性情之正者矣。然讀者於此有所懲創。則亦可以得其性情之正。集註前後可以參看。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-八佾-20-01-C01-S07" name="勉齋黃氏">○勉齋黃氏曰。先生晩年再改削集註。止於此章。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-069">
+<document>
+<text_unit img="file:D:\jibju\02_033.jpg" id="論語集註大全-八佾-21-01">
+<hanmun_text>
+<canon id="論語-八佾-21-01">○哀公。問社於宰我。宰我對曰。夏后氏以松。殷人以柏。周人以栗。曰使民戰栗。</canon>
+<commentary commentator="朱熹" id="論語-八佾-21-01-C01">宰我。孔子弟子。名予<annotation type="biographical">魯人</annotation>。三代之社不同者。古者立社。各樹其土之所宜木。以爲主也。</commentary>
+<sub_commentary commentator="孔穎達" id="論語-八佾-21-01-C01-S01" name="唐孔氏">唐孔氏曰。夏都安邑。宜松。商都亳。宜栢。周都豐鎬。宜栗。○問以木造主。還是以樹爲主。朱子曰。只以樹爲社主。使神依焉。如今人說神樹之類。以木名社。如櫟社。枌楡社之類。</sub_commentary>
+<sub_commentary commentator="程迥" id="論語-八佾-21-01-C01-S02" name="沙隨程氏">○沙隨程氏曰。古者以木爲主。今也以石爲主。非古也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-21-01-C02">戰栗。恐懼貌。宰我又言周所以用栗之意如此。豈以古者戮人於社。故附會其說與<annotation type="sound">音余</annotation>。</commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-21-01-C02-S01" name="慶源輔氏">○慶源輔氏曰。按甘誓曰。用命賞於祖。弗用命戮于社。蓋古者建國。左祖右社。左陽右陰。陰主殺。軍行載社主以行。弗用命。則戮之於社也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-070">
+<document>
+<text_unit img="file:D:\jibju\02_033.jpg" id="論語集註大全-八佾-21-02">
+<hanmun_text>
+<canon id="論語-八佾-21-02">子聞之曰。成事。不說。遂事。不諫。旣往。不咎。</canon>
+<commentary commentator="朱熹" id="論語-八佾-21-02-C01">遂事。謂事雖未成。而勢不能已者。孔子以宰我所對。非立社之本意。又啓時君殺伐之心。而其言已出。不可復<annotation type="sound">扶又反</annotation>救。故歷言此。以深責之。欲使謹其後也。○尹氏曰。古者各以所宜木。名其社。非取義於木也。宰我不知而妄對。故夫子責之。</commentary>
+<sub_commentary commentator="" id="論語-八佾-21-02-C01-S01">問宰我所言。尙未見於事。如何不可救。朱子曰。此只責他易其言。未問其見於事。與未見於事。所謂斯言之玷。不可爲也。蓋欲使謹於言耳。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-21-02-C01-S02" name="慶源輔氏">○慶源輔氏曰。宰我在言語之科。然觀此戰栗之對。則失於鑿。流於妄者。或不能免。大凡己所未曉之事。而妄言以語人。不惟無益。而失己欺人之弊。有不可勝言者。又况導人以殺戮之事哉。此夫子所以深責之也。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-071">
+<document>
+<text_unit img="file:D:\jibju\02_034.jpg" id="論語集註大全-八佾-22-01">
+<hanmun_text>
+<canon id="論語-八佾-22-01">○子曰。管仲之器。小哉。</canon>
+<commentary commentator="朱熹" id="論語-八佾-22-01-C01">管仲。齊大夫。名夷吾。相<annotation type="sound">去聲</annotation>桓公。霸諸侯。器小。言其不知聖賢大學之道。故局量<annotation type="sound">去聲</annotation>褊淺。規模卑狹。不能正身脩德。以致主於王道。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-22-01-C01-S01" name="朱子">朱子曰。局量褊淺。是他容受不去了。容受不去。則富貴能淫之。貧賤能移之。威武能屈之矣。規模。是就他設施處說。○器小。是以分量言。若以學問充之。小須可大。○問孔子見他一生全無本領。只用私意小智。僅能以功利自彊其國。若是王佐之才。必不如此。故謂之器小。曰。是。○問須是如孟子言。居天下之廣居。立天下之正位。行天下之大道。方是大器。曰。是。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-八佾-22-01-C01-S02" name="勉齋黃氏">○勉齋黃氏曰。局量。指心之蘊蓄。規模。指事之發見心者。器之體。事者。器之用。不能正身脩德。則心之所向可知。不能致主於王者。則事之所就可知。局量褊淺。則規模必卑狹。未有不能正身脩德。而能致主於王道者。</sub_commentary>
+<sub_commentary commentator="胡氏" id="論語-八佾-22-01-C01-S03" name="胡氏">○胡氏曰。局量規模。以器言。褊淺卑狹。以小言。不知聖賢大學之道。所以器小也。本之不立也。不能正身脩德。以致主於王道。器小之驗也。效之不至也。無是本則無是效也。</sub_commentary>
+<sub_commentary commentator="許謙" id="論語-八佾-22-01-C01-S04" name="東陽許氏">○東陽許氏曰。大學之道八事。先以脩身爲本而後。及家國天下。蓋見理旣明。行事自然件件中節。不敢踰禮犯分。今管仲如此。只是格物致知工夫未到。見理不明。故爲所不當爲。踰禮犯分。凡事都要向上。不知反成小器。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-072">
+<document>
+<text_unit img="file:D:\jibju\02_035.jpg" id="論語集註大全-八佾-22-02">
+<hanmun_text>
+<canon id="論語-八佾-22-02">或曰。管仲。儉乎。曰。管氏。有三歸。官事不攝。焉得儉。<annotation type="sound">焉於虔反。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-22-02-C01">或人蓋疑器小之爲儉。三歸。臺名。事見<annotation type="sound">形甸反</annotation>說苑。</commentary>
+<sub_commentary commentator="" id="論語-八佾-22-02-C01-S01">劉向說苑善說篇。齊桓公立仲父。致大夫曰。善吾者。入門而右。不善吾者。入門而左。有中門而立者。桓公問焉。對曰。管子之知可與謀天下。其彊可與取天下。君恃其信乎。內政委焉。外事斷焉。民而歸之。是亦可奪也。桓公曰。善。乃謂管仲。政則卒歸於子矣。政之所不及。惟子是匡。管仲故築三歸之臺。以自傷於民。</sub_commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-22-02-C01-S02" name="朱子">○朱子曰。管氏有三歸。不是一娶三姓女。若此却是僭。此一段意。只擧管仲奢處。以形容他不儉。下段所說。乃形容他不知禮處。便是僭竊。恐不可做三娶說。</sub_commentary>
+<sub_commentary commentator="馮椅" id="論語-八佾-22-02-C01-S03" name="厚齋馮氏">○厚齋馮氏曰。以歸民之左右與中。故臺謂之三歸。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-22-02-C02">攝。兼也。家臣不能具官。一人常兼數事。管仲不然。皆言其侈。</commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-073">
+<document>
+<text_unit img="file:D:\jibju\02_035.jpg" id="論語集註大全-八佾-22-03">
+<hanmun_text>
+<canon id="論語-八佾-22-03">然則管仲知禮乎。曰。邦君。樹塞門。管氏亦樹塞門。邦君。爲兩君之好。有反坫。管氏亦有反坫。管氏而知禮。孰不知禮。<annotation type="sound">好去聲。坫丁念反。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-22-03-C01">或人又疑不儉爲知禮。屛<annotation type="sound">音丙</annotation>謂之樹。塞。猶蔽也。設屛於門。以蔽內外也。</commentary>
+<sub_commentary commentator="趙順孫" id="論語-八佾-22-03-C01-S01" name="趙氏">趙氏曰。古者人君別內外。於門樹屛以蔽塞之。蓋小墻當門中也。禮。天子外屛。諸侯內屛。大夫以簾。士以帷。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-22-03-C02">好。謂好會。坫。在兩楹之間。獻酬飮畢。則反爵於其上。此皆諸侯之禮。而管仲僭之。不知禮也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-22-03-C02-S01">古註圖說。坫以木爲之。高八寸。足高二寸。漆赤中。</sub_commentary>
+<sub_commentary commentator="趙順孫" id="論語-八佾-22-03-C02-S02" name="趙氏">○趙氏曰。古者諸侯與鄰國爲好會。主君獻賓。賓筵前受爵飮畢。反此虛爵於坫上。於西階上拜。主人於阼階上答拜。賓於坫取爵。洗爵以酢主人。主人受爵飮畢。反此虛爵於坫上。主人阼階上拜。賓答拜。是賓主飮畢。反爵於坫也。大夫則無之。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-22-03-C03">○愚謂孔子譏管仲之器小。其旨深矣。或人不知而疑其儉。故斥其奢。以明其非儉。或又疑其知禮。故又斥其僭。以明其不知禮。蓋雖不復<annotation type="sound">扶又反下同</annotation>明言小器之所以然。而其所以小者。於此亦可見矣。故程子曰。奢而犯禮。其器之小可知。蓋器大則自知禮。而無此失矣。此言當深味也。</commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-22-03-C03-S01" name="慶源輔氏">慶源輔氏曰。器大則天下之物。不足以動其心。而惟義理之是行。○胡氏曰。奢者。器之小而盈也。犯禮者。器之盈而溢也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-22-03-C04">蘇氏曰。<annotation type="biographical">蘇氏。名軾。字子瞻。號東坡。眉山人。</annotation>自脩身正家。以及於國。則其本深。其及者遠。是謂大器。揚雄所謂大器猶規矩準繩。先自治而後治人者是也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-22-03-C04-S01">揚子先知篇。或曰。齊得夷吾而霸。仲尼曰。小器。請問大器。曰。大器其猶規矩準繩乎。先自治而後治人之謂大器。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-22-03-C05">管仲三歸反坫。桓公內嬖六人而霸天下。其本固已淺矣。管仲死。桓公薨。天下不復宗齊。</commentary>
+<sub_commentary commentator="" id="論語-八佾-22-03-C05-S01">左傳僖公十七年。齊侯之夫人三。王姬徐嬴蔡姬。皆無子。齊侯好內。多內寵。內嬖如夫人者六人。長衛姬生武孟。少衛姬生惠公。鄭姬生孝公。葛嬴生昭公。密姬生懿公。宋華子生公子雍。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-22-03-C05-S02" name="新安陳氏">○新安陳氏曰。功業無本。宜仲僅可沒身。公且薨於亂也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-22-03-C06">楊氏曰。夫子大管仲之功。而小其器。蓋非王佐之才。雖能合諸侯。正天下。其器不足稱也。道學不明。而王霸之略。混爲一途。故聞管仲之器小。則疑其爲儉。以不儉告之。則又疑其知禮。蓋世方以詭遇爲功。而不知爲<annotation type="sound">去聲</annotation>之範。則不悟其小宜矣。</commentary>
+<sub_commentary commentator="" id="論語-八佾-22-03-C06-S01">孟子滕文公下篇。王良曰。吾爲之範我馳驅。終日不獲一。爲之詭遇。一朝而獲十。○問使仲器局宏闊。須知我所爲功烈如彼其卑。豈肯侈然自肆。至於奢僭如此。朱子曰。也不說道功烈卑時不當如此。便是功大。亦不可如此。○奢而犯禮。是他裏面著不得。見此些小功業。便以爲驚天動地。所以肆然犯禮無所忌也。亦緣他只在功利上走。所以施設不過如此。才做到此。便不覺自足矣。古人論王霸。以爲王者兼有天下。伯者能率諸侯。此以位論。固是如此。然使其正天下。正諸侯。皆出於至公而無一毫之私心。則雖在下位。何害其爲王道。惟其摟諸侯以伐諸侯。假仁義以爲之。欲其功盡歸於己。故四方貢賦。皆歸於其國。天下但知有伯。而不復知有天子。此其所以爲功利之心。而非出於至公也。在學者身上論之。凡日用常行。應事接物之際。纔有一毫利心。便非王道。便是伯者之習。此不可不省察也。○桓公伐楚。只去問他包茅與昭王不返二事。便見他只得如此休。據當時憑陵中夏。暫僭稱王。其罪大矣。如何不理會。蓋纔說著此事。楚決然不服。便是勢住不得。故只尋此年代久遠已冷底罪。過及些小不供貢事去問。想他見無大利害。決不深較。只要他稍退聽便收殺了。此亦是器小之故。纔是器小。自然無大功業。○如蘇氏說。見得不知大學本領。所以局量褊淺處。如楊氏說。見得不能致主王道。所以卑狹處。兼二說看。其義方備。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-22-03-C06-S02" name="慶源輔氏">○慶源輔氏曰。大其功。所以從衆而揚其善也。小其器。所以卽事而名其實也。○才與器。皆生於氣質。其所能爲者。謂之才。其所能受者。謂之器。仲之才。雖足以合諸侯。正天下。而其器之小。不能大其受。局於氣。奪於私。是以奢而犯禮。苟免幸濟。而其所成就者。亦如此之卑也。使仲而嘗學於聖人之門。知大學之道而從事焉。則其器之小者。可以大。而其才之能爲者。亦將光明盛大矣。</sub_commentary>
+<sub_commentary commentator="齊氏" id="論語-八佾-22-03-C06-S03" name="齊氏">○齊氏曰。器小。惜其度量不可以大受。雖勳勞如周公。猶且赤舃几几。自視欿然。况僅以其君伯乎。然則孔子何爲大其功。曰。功較之召忽則有餘。量較之周公則不足。大其功。爲天下幸。小其器。爲仲惜爾。</sub_commentary>
+<sub_commentary commentator="劉彭壽" id="論語-八佾-22-03-C06-S04" name="劉氏彭壽">○劉氏彭壽曰。以霸者之功效計之。則仲亦得爲春秋之仁人。以王道之軌轍範之。則仲不免爲三王之罪人。此所以大其功而小其器。</sub_commentary>
+<sub_commentary commentator="" id="論語-八佾-22-03-C06-S05">○歐陽氏玄曰。器如物之所受淺深限量。自有不可誣者。仲惟器小易盈。不能使己無三歸之奢。君無多嬖之溺。齊政不旋踵而衰。器之所受不過如是而止。使能擴而充之。則可以拓聖賢之業。載宇宙之量矣。</sub_commentary>
+<sub_commentary commentator="馮椅" id="論語-八佾-22-03-C06-S06" name="厚齋馮氏">○厚齋馮氏曰。齊桓入國。在魯莊九年。仲始獲用。三桓之僭魯。乃在昭襄之世。距仲且百餘年。仲之僭奢。蓋先諸國之大夫也。夫子此章不與仲深矣。後百年。而孟氏又斥之以曾西之所不爲。天下後世。始知有王佐事業。而仲始卑。霸圖始陋。向微孔孟之論。天地之正誼。或幾乎熄矣。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-八佾-22-03-C06-S07" name="雲峯胡氏">○雲峯胡氏曰。三代而後。中國未有霸。而仲輔其君先之。未有以大夫僭諸侯者。而仲塞門反坫先之。春秋正其綱。故責齊桓而不責管仲。論語紀其實。故責管仲而不責齊桓。蓋皆不知有大學之道者也。嗚呼。是時大學之書未出也。夫子而後。亦旣有大學之書矣。然未聞有行大學之道者。何哉。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-074">
+<document>
+<text_unit img="file:D:\jibju\02_039.jpg" id="論語集註大全-八佾-23-01">
+<hanmun_text>
+<canon id="論語-八佾-23-01">○子語魯大師樂曰。樂其可知也。始作。翕如也。從之。純如也。皦如也。繹如也。以成。<annotation type="sound">語去聲。大音泰。從音縱。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-23-01-C01">語。告也。大師。樂官名。時音樂廢缺。故孔子敎之。翕。合也。從。放也。純。和也。皦。明也。繹。相續不絶也。成。樂之一終也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-23-01-C01-S01">成。如書所謂韶之九成。記所謂武之六成是也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-23-01-C02">○謝氏曰。五音六律不具。不足以言樂。翕如。言其合也。五音合矣。淸濁高下。如五味之相濟而後和。故曰純如。合而和矣。欲其無相奪倫。故曰皦如。然豈宮自宮。而商自商乎。不相反而相連。如貫珠可也。故曰繹如也。以成。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-23-01-C02-S01" name="朱子">朱子曰。味其語勢。蓋將正樂而語之之辭。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-八佾-23-01-C02-S02" name="南軒張氏">○南軒張氏曰。周衰樂廢。蓋雖其聲音亦失之矣。聖人因其義而得其所以爲聲音者。而樂可正也。</sub_commentary>
+<sub_commentary commentator="蔡模" id="論語-八佾-23-01-C02-S03" name="覺軒蔡氏">○覺軒蔡氏曰。始作。樂之始也。成。樂之終也。始作翕如。則八音合矣。從之純如。則合而和也。皦如。則和而又有別也。繹如也以成。則別而又不失於和也。數言之間。曲盡作樂始終節奏之妙。大師而可與語此。其亦非常人也歟。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-八佾-23-01-C02-S04" name="雙峯饒氏">○雙峯饒氏曰。此章有三節。始作。是其初。從之以後。是其中。以成。是其終。翕合之餘。有純和。純和之中。有明白。明白之中。無間斷。方是作樂之妙。</sub_commentary>
+<sub_commentary commentator="馮椅" id="論語-八佾-23-01-C02-S05" name="厚齋馮氏">○厚齋馮氏曰。純。所謂八音克諧是已。皦。所謂無相奪倫是已。繹。所爲始終相生是已。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-23-01-C02-S06" name="新安陳氏">○新安陳氏曰。八音不合則不備。故始必翕合。然不可拘迫生澁。故從之欲其和。然和易以混而無別。故和中欲其皦然分明。然分明中。又不可斷續。故又貴繹如。而樂於是終焉。自始至終。合而和。和而明。明而續。必兼此四節不可缺一。則樂之始終條理盡矣。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-075">
+<document>
+<text_unit img="file:D:\jibju\02_040.jpg" id="論語集註大全-八佾-24-01">
+<hanmun_text>
+<canon id="論語-八佾-24-01">○儀封人。請見曰。君子之至於斯也。吾未嘗不得見也。從者見之。出曰。二三子何患於喪乎。天下之無道也久矣。天將以夫子。爲木鐸。<annotation type="sound">請見見之之見賢遍反。從喪皆去聲。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-八佾-24-01-C01">儀。衛邑。封人。掌封疆之官。</commentary>
+<sub_commentary commentator="胡氏" id="論語-八佾-24-01-C01-S01" name="胡氏">胡氏曰。封人。周官名。掌爲畿封而植之。左氏傳。所謂穎谷封人。祭封人。蕭封人。皆此類。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-24-01-C02">蓋賢而隱於下位者也。</commentary>
+<sub_commentary commentator="胡氏" id="論語-八佾-24-01-C02-S01" name="胡氏">胡氏曰。封人有請見之心。則非若沮溺之狷介自高矣。自言其得見君子之多。則見其好賢有素。而所聞不淺狹矣。雖其見聖人。而請問之辭不傳。然意象和平。進退從容。出語門人。又深得其大致。則賢而隱於下位者也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-24-01-C03">君子。謂當時賢者。至此皆得見之。自言其平日不見絶於賢者。而求以自通也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-24-01-C03-S01">夫子行經衛邑。而封人因請見。故云然。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-24-01-C04">見之。謂通使得見。喪。謂失位去國。禮曰。喪欲速貧是也。</commentary>
+<sub_commentary commentator="" id="論語-八佾-24-01-C04-S01">意夫子失魯司寇。去魯歷聘時。</sub_commentary>
+<sub_commentary commentator="張庸" id="論語-八佾-24-01-C04-S02" name="張氏存中">○張氏存中曰。喪欲速貧。出禮記檀弓。詳見孟子滕文公上篇。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-24-01-C05">木鐸。金口木舌。施政敎時。所振以警衆者也。</commentary>
+<sub_commentary commentator="胡氏" id="論語-八佾-24-01-C05-S01" name="胡氏">胡氏曰。明堂位。言振木鐸於朝。</sub_commentary>
+<sub_commentary commentator="齊氏" id="論語-八佾-24-01-C05-S02" name="齊氏">○齊氏曰。木鐸。金口木舌。若金鐸。則金口金舌。春用木。秋用金。文用木。武用金。時與事之不同也。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-24-01-C06">言亂極當治<annotation type="sound">去聲</annotation>。天必將使夫子得位設敎。不久失位也。封人一見夫子。而遽以是稱之。其得於觀感之間者深矣。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-24-01-C06-S01" name="朱子">朱子曰。這裏儘好看。如何從者見之後。便見得夫子恁地。這裏也見得儀封人高處。○問儀封人亦是據理而言。若其得位失位。則非所及知也。曰。儀封人與夫子說話。皆不可考。得此人辭氣最好。必是箇賢有德之人。一見夫子。其觀感之間。必有所見。故爲此言。前輩謂作者七人。以儀封人處其一以此。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-24-01-C06-S02" name="慶源輔氏">○慶源輔氏曰。聖人德容之盛。觀之者固當知所敬愛矣。然封人之贊夫子。則因所見而驗所聞。卽其已然而得其將然。不惟有以見聖人之當乎天。而又有以知天之不能違乎聖人也。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-24-01-C06-S03" name="新安陳氏">○新安陳氏曰。封人一見夫子。能知聖道之不終廢。世道之不終亂。天意之不終忘斯世。可謂知足以知聖人。且知天矣。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-24-01-C07">或曰。木鐸。所以徇于道路。</commentary>
+<sub_commentary commentator="" id="論語-八佾-24-01-C07-S01">書曰。每歲孟春。道人以木鐸徇于路。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-24-01-C08">言天使夫子失位。周流四方。以行其敎。如木鐸之徇于道路也。</commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-24-01-C08-S01" name="慶源輔氏">慶源輔氏曰。前說意實而味長。後說意巧而味短。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-八佾-24-01-C08-S02" name="雙峯饒氏">○雙峯饒氏曰。夫子得位與不得位。封人所不能知。其所可知者。夫子道德如是。天將使振揚文敎。以開天下後世也必矣。或得位。或周流四方。皆在其中。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-八佾-24-01-C08-S03" name="新安陳氏">○新安陳氏曰。後說與喪字。及天下之無道久。皆不甚相應。朱子姑存之耳。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-076">
+<document>
+<text_unit img="file:D:\jibju\02_041.jpg" id="論語集註大全-八佾-25-01">
+<hanmun_text>
+<canon id="論語-八佾-25-01">○子謂韶。盡美矣。又盡善也。謂武。盡美矣。未盡善也。</canon>
+<commentary commentator="朱熹" id="論語-八佾-25-01-C01">韶。舜樂。武。武王樂。美者。聲容之盛。善者。美之實也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-25-01-C01-S01" name="朱子">朱子曰。美。如人生得好。善。則其中有德行也。實是美之所以然處。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-八佾-25-01-C01-S02" name="慶源輔氏">○慶源輔氏曰。聲容。樂之聲。舞之容也。美之實。謂其聲容之所以美。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-25-01-C02">舜。紹堯致治<annotation type="sound">去聲</annotation>。武王。伐紂救民。其功一也。故其樂皆盡美。</commentary>
+<sub_commentary commentator="胡氏" id="論語-八佾-25-01-C02-S01" name="胡氏">胡氏曰。韶盡揖讓繼紹之美。武盡發揚蹈厲之美。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-25-01-C03">然舜之德。性之也。又以揖遜而有天下。武王之德。反之也。又以征誅而得天下。故其實有不同者。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-25-01-C03-S01" name="朱子">朱子曰。美是言功。善是言德。問說揖遜征誅足矣。何必說性之反之。曰。也要就他本身處說。使舜當武王時。畢竟更彊似大武。使武王當舜時。必不及韶。○德有淺深。時又有幸不幸。舜之德旣如此。又遇著好時節。武王德不及舜。又遇著不好時節。故盡美而未盡善。○樂觀其深矣。若不見得性之反之不同處。豈所謂聞其樂而知其德乎。○樂便是德之影子。韶武之樂。正是聖人一箇影子。要得因此以觀其心。○韶武今皆不可考。但書稱德惟善政。至勸之以九歌。此便是作韶樂之本。所謂九德之歌。九韶之舞是也。武王之武。看樂記便見。蓋是象伐紂之事。所謂南者。自南而北伐紂也。氣象便不恁地和。韶樂只是和而已。</sub_commentary>
+<commentary commentator="朱熹" id="論語-八佾-25-01-C04">○程子曰。成湯放桀。惟有慙德。武王亦然。故未盡善。堯舜湯武。其揆一也。征伐非其所欲。所遇之時然爾。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-25-01-C04-S01" name="朱子">朱子曰。舜性之。武王反之。自是有淺深。又舜以揖遜。武以征伐。征伐雖是順天應人。自是有不盡善處。今若要彊說舜武同道也不得。必欲美舜而貶武王也不得。又曰。舜武不同。正如孟子言伯夷伊尹之於孔子不同。至謂得百里之地而君之。皆能以朝諸侯有天下。行一不義。殺一不辜。而得天下不爲。是則同也。舜武同異正如此。故武之德。雖比舜自有淺深。而治功亦不多爭。○問征伐固武王之不幸。使舜當之。不知如何。曰。只恐舜是生知之聖。其德盛人自歸之。不必征伐耳。不然。事到頭也住不得。如文王亦然。且如殷始咎周。周人戡黎。祖伊恐。奔告于受。這事勢便自是住不得。若曰奔告于受。則商之忠臣義士。何嘗一日忘周。自是紂昏迷爾。</sub_commentary>
+<sub_commentary commentator="眞德秀" id="論語-八佾-25-01-C04-S02" name="西山眞氏">○西山眞氏曰。聖人於湯武之事。每微有不足之意。如論樂則以武爲未盡善。論泰伯文王。皆稱其爲至德。此非貶湯武也。惜其不幸而爲此不獲已之擧也。然恐後世遂以湯武爲非。故曰湯武革命。順乎天而應乎人。論語微有不滿之意者。恐後世亂臣賊子。借湯武之名以窺伺神器也。易發革命之義者。恐後世亂君肆行於上。無所憚也。聖人立言。爲後世慮。至深遠矣。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-003-077">
+<document>
+<text_unit img="file:D:\jibju\02_043.jpg" id="論語集註大全-八佾-26-01">
+<hanmun_text>
+<canon id="論語-八佾-26-01">○子曰。居上不寬。爲禮不敬。臨喪不哀。吾何以觀之哉。</canon>
+<commentary commentator="朱熹" id="論語-八佾-26-01-C01">居上。主於愛人。故以寬爲本。爲禮以敬爲本。臨喪以哀爲本。旣無其本。則以何者而觀其所行之得失哉。</commentary>
+<sub_commentary commentator="朱熹" id="論語-八佾-26-01-C01-S01" name="朱子">朱子曰。居上而不寬。爲禮而不敬。臨喪而不哀。更無可據依以爲觀矣。寬敬哀。本也。其本旣亡。雖有條敎法令之施。威儀進退之節。哭泣擗踊之數。皆無足觀者。若能寬敬哀了。却就寬敬哀中考量他所行之是否。若不寬不敬不哀。則雖有其他是處。皆在不論量之限矣。○如寬便有過不及。哀便有淺深。敬便有至不至。須是有其本。方可就本上看他得失厚薄。○寬。有政敎法度而行之以寬耳。非廢弛之謂也。如敬敷五敎在寬。蓋寬行於五敎之中也。○吾何以觀之。不是不去觀他。又不是不足觀。只爲他根源都不是了。更把甚麽去觀他。重在以字上。</sub_commentary>
+<sub_commentary commentator="張栻" id="論語-八佾-26-01-C01-S02" name="南軒張氏">○南軒張氏曰。居上不寬。則失所以爲長人之本。其他雖有所爲。尙可觀乎。爲禮而不敬。臨喪而不哀。則繁文末節雖多。亦何以觀也。然寬非縱弛之謂。總其大綱。使人得以自效也。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-八佾-26-01-C01-S03" name="雙峯饒氏">○雙峯饒氏曰。以字訓用。謂用寬敬哀三者觀之也。蓋有此三者。則其大體已得。方可就此觀其小節。若無此三者。則全體都不是。更把甚底去看他。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
+
+
+<record level="2" type="L" id="論語集註大全:001-004">
+<document>
+<heading>論語集註大全卷之四/里仁第四</heading>
+</document>
+</record>
+
+<record level="3" type="T" id="論語集註大全:001-004-001">
+<document>
+<text_unit img="file:D:\jibju\02_044.jpg" id="論語集註大全-里仁">
+<hanmun_text>
+<heading>論語集註大全卷之四/里仁第四</heading>
+<commentary commentator="朱熹" id="論語-里仁-C01">凡二十六章</commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+
+<record level="3" type="T" id="論語集註大全:001-004-002">
+<document>
+<text_unit img="file:D:\jibju\02_044.jpg" id="論語集註大全-里仁-01-01">
+<hanmun_text>
+<canon id="論語-里仁-01-01">○子曰。里仁。爲美。擇不處仁。焉得知。<annotation type="sound">處上聲。焉於虔反。知去聲。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-里仁-01-01-C01">里有仁厚之俗爲美。擇里而不居於是焉。則失其是非之本心。而不得爲知矣。</commentary>
+<sub_commentary commentator="朱熹" id="論語-里仁-01-01-C01-S01" name="朱子">朱子曰。擇字因上句爲文。問此章謝氏引孟子擇術爲證。如何。曰。聖人本語。只是擇居。不是說擇術。古人居必擇鄕。遊必擇士。又問今人數世居此土。豈宜以他鄕俗美而遽遷邪。曰。古人危邦不入。亂邦不居。近而言之。若一鄕之人。皆爲盜賊。吾豈可不知所避。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-里仁-01-01-C01-S02" name="勉齋黃氏">○勉齋黃氏曰。居必擇鄕。居之道也。薰陶染習以成其德。賙恤保愛以全其生。豈細故哉。夫子稱子賤。而歎魯多君子以此也。</sub_commentary>
+<sub_commentary commentator="熊禾" id="論語-里仁-01-01-C01-S03" name="勿軒熊氏">○勿軒熊氏曰。學而篇言親仁。此言處仁。後篇言以友輔仁。又言居是邦。友其士之仁者。居養見聞之助。薰陶漸染之益。皆資於人者也。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-里仁-01-01-C01-S04" name="雲峯胡氏">○雲峯胡氏曰。集註仁厚之俗四字。有斟酌。一里之中。安得人皆仁者。但有仁厚之俗則美矣。</sub_commentary>
+<sub_commentary commentator="陳櫟" id="論語-里仁-01-01-C01-S05" name="新安陳氏">○新安陳氏曰。惻隱羞惡辭讓是非。皆人之本心。是非之心。知之端也。不知則失其是非之本心矣。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+
+<chapter chapterid="">
+<record level="3" type="T" id="論語集註大全:001-004-003">
+<document>
+<text_unit img="file:D:\jibju\02_045.jpg" id="論語集註大全-里仁-02-01">
+<hanmun_text>
+<canon id="論語-里仁-02-01">○子曰。不仁者。不可以久處約。不可以長處樂。仁者。安仁。知者。利仁。<annotation type="sound">樂音洛。知去聲。</annotation>
+</canon>
+<commentary commentator="朱熹" id="論語-里仁-02-01-C01">約。窮困也。利。猶貪也。蓋深知篤好<annotation type="sound">去聲</annotation>。而必欲得之也。</commentary>
+<sub_commentary commentator="饒魯" id="論語-里仁-02-01-C01-S01" name="雙峯饒氏">雙峯饒氏曰。知者之於仁。如小人之貪利。皆深知篤好。必欲得之。</sub_commentary>
+<commentary commentator="朱熹" id="論語-里仁-02-01-C02">不仁之人。失其本心。久約必濫。久樂必淫。</commentary>
+<sub_commentary commentator="張栻" id="論語-里仁-02-01-C02-S01" name="南軒張氏">南軒張氏曰。不仁者。勉强而暫處則有之。差久則移於約樂。無所不至矣。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-里仁-02-01-C02-S02" name="雙峯饒氏">○雙峯饒氏曰。濫。如水之泛濫。淫。如水之浸淫。久約者。爲饑寒所逼而不能自守。以致放蕩於禮法之外。如水之溢出外去。故曰濫。久樂者。爲富貴所溺。而不能自守。不知不覺。至於驕奢。如水之浸入裏來。故曰淫。濫字。是窮斯濫矣之濫。淫字。是富貴不能淫之淫。</sub_commentary>
+<sub_commentary commentator="吳迂" id="論語-里仁-02-01-C02-S03" name="吳氏">○吳氏曰。約與豐對。樂與憂對。對擧之互文也。不仁者不可一日處。聖人之言。待人以厚。故以久長言之爾。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-里仁-02-01-C02-S04" name="雲峯胡氏">○雲峯胡氏曰。仁義禮知。皆吾本心。而仁統三者。仁一失。則三者俱失矣。所以於上章焉得知。則曰失其是非之本心。此於不仁。則直曰失其本心。集註之精密如此。</sub_commentary>
+<sub_commentary commentator="許謙" id="論語-里仁-02-01-C02-S05" name="東陽許氏">○東陽許氏曰。不仁者。久約則憂患。而諂諛卑屈之態生。苟且邪僻之行作。久富貴則佚樂。而驕矜縱誕之氣長。踰節陵分之事興。約者日流於卑下。樂者日過於僭躐。是濫與淫意象。</sub_commentary>
+<commentary commentator="朱熹" id="論語-里仁-02-01-C03">惟仁者則安其仁。而無適不然。知者則利於仁。而不易所守。蓋雖深淺之不同。然皆非外物所能奪矣。</commentary>
+<sub_commentary commentator="朱熹" id="論語-里仁-02-01-C03-S01" name="朱子">朱子曰。仁者溫淳篤厚。義理自然具足。不待思而爲之。而所爲皆是義理。所謂仁也。知者知有是非。而取於義理。以求其是而去其非。所謂知也。○仁者安仁。如孟子說動容周旋中禮者。盛德之至也。哭死而哀。非爲生者也。經德不回。非以干祿也。言語必信。非以正行也。這只順道理合做處便做。更不待安排布置。○深謂仁者。淺謂知者。仁者之心便是仁。知者未能無私意。只是知得私意。不是著脚所在。又知得無私意是好。所以千方百計。亦要克去私意。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-里仁-02-01-C03-S02" name="慶源輔氏">○慶源輔氏曰。無適不然。無所往而不安也。不易所守。知而勿去是也。</sub_commentary>
+<sub_commentary commentator="胡氏" id="論語-里仁-02-01-C03-S03" name="胡氏">○胡氏曰。舜之飯糗茹草。若將終身。被袗衣鼓琴。若固有之。此安仁者之久處約。長處樂也。原憲環堵。閔損汶上。魯之季文子。齊之晏平仲。此利仁者之久處約。長處樂也。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-里仁-02-01-C03-S04" name="雙峯饒氏">○雙峯饒氏曰。安仁者。心與仁一。仁卽我。我卽仁。故曰其仁。卽仁者之仁也。利仁者。心與仁猶二。於仁猶有間。故曰於仁。猶未是仁。不過利於仁耳。</sub_commentary>
+<commentary commentator="朱熹" id="論語-里仁-02-01-C04">○謝氏曰。仁者。心無內外遠近精粗之間<annotation type="sound">去聲</annotation>。非有所存而自不亡。非有所理而自不亂。如目視而耳聽。手持而足行也。知者。謂之有所見則可。謂之有所得則未可。有所存斯不亡。有所理。斯不亂。未能無意也。安仁則一。利仁則二。</commentary>
+<sub_commentary commentator="朱熹" id="論語-里仁-02-01-C04-S01" name="朱子">朱子曰。上蔡見識直是高。諸解中未有及此者。</sub_commentary>
+<sub_commentary commentator="輔廣" id="論語-里仁-02-01-C04-S02" name="慶源輔氏">○慶源輔氏曰。存言其體。理言其用。知者有所操存。其體斯不亡。有所經理。其用斯不亂。仁者則不待如此。一體一用。皆自然而然。</sub_commentary>
+<sub_commentary commentator="饒魯" id="論語-里仁-02-01-C04-S03" name="雙峯饒氏">○雙峯饒氏曰。心無內外遠近精粗之間。是說他仁熟處。他人於此處能存。於彼處或不能存。於此處能理。於他處或不能理。唯仁者內面如此。外面亦如此。遠近精粗。無適不然。內謂存處時。外謂應事接物時。近謂日用常行處。遠謂非日用常行處。精如治詩書禮樂等事。粗如治錢穀甲兵等事。存是心存。理是事理。</sub_commentary>
+<commentary commentator="朱熹" id="論語-里仁-02-01-C05">安仁者。非顔閔以上<annotation type="sound">上聲</annotation>去聖人爲不遠。不知此味也。諸子雖有卓越之才。謂之見道不惑則可。然未免於利之也。</commentary>
+<sub_commentary commentator="朱熹" id="論語-里仁-02-01-C05-S01" name="朱子">朱子曰。吾心渾然一理。無內外遠近精粗。須知非顔閔以上。不知此味。及到顔閔地位。知得此味。猶未到安處。○仁知雖一。然世間人品所得。自有不同。顔子曾子。得仁之深者也。子夏子貢。得知之深者也。○或問而今做工夫。且須利仁。曰惟聖人自誠而明。合下便自安仁。若自明而誠。須是利仁。</sub_commentary>
+<sub_commentary commentator="黃榦" id="論語-里仁-02-01-C05-S02" name="勉齋黃氏">○勉齋黃氏曰。安仁利仁。則所存者天理。故安於義命所當然。而物欲不能以累其心。所以處約樂之久。而不爲之動也。</sub_commentary>
+<sub_commentary commentator="吳迂" id="論語-里仁-02-01-C05-S03" name="吳氏">○吳氏曰。易繫論語。多以仁知並言。樊遲亦再問仁知。大抵學問不出知行。知主知。而仁主行也。</sub_commentary>
+<sub_commentary commentator="胡炳文" id="論語-里仁-02-01-C05-S04" name="雲峯胡氏">○雲峯胡氏曰。不仁者。失其本心者也。安仁者。本心非有所存。而自不失。利仁者。能存其本心。而惟恐失之。嗚呼。安之者不可遽及。失之者可爲戒。而守之者可爲法矣。</sub_commentary>
+</hanmun_text>
+</text_unit>
+</document>
+</record>
+</chapter>
