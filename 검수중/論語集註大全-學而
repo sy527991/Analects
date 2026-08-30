@@ -8,7 +8,7 @@
 
 <record level="2" type="L" id="論語集註大全:001-002">
 <document>
-<heading>論語集註大全 / 學而</heading>
+<heading>論語集註大全卷之一/學而第一</heading>
 </document>
 </record>
 
@@ -16,7 +16,7 @@
 <document>
 <text_unit img="file:D:\jibju\01_111.jpg" id="論語集註大全-學而">
 <hanmun_text>
-<heading id="論語-學而">論語集註大全 / 學而 </heading>
+<heading id="論語-學而">論語集註大全 / 學而</heading>
 <commentary commentator="朱熹" id="論語-學而-C01">此。爲書之首篇。故所記多務本之意。</commentary>
 <sub_commentary commentator="朱熹" id="論語-學而-C01-S01" name="朱子">朱子曰。此一篇。都是先說一箇根本。</sub_commentary>
 <sub_commentary commentator="胡氏" id="論語-學而-C01-S02" name="胡氏">○胡氏曰。此篇首取其切於學者記之。故以爲多務本之意。</sub_commentary>
