@@ -8,7 +8,7 @@
 
 <record level="2" type="L" id="論語集註大全:001-002">
 <document>
-<heading id="論語-學而">論語集註大全 / 學而</heading>
+<heading>論語集註大全 / 學而</heading>
 </document>
 </record>
 
@@ -16,7 +16,7 @@
 <document>
 <text_unit img="file:D:\jibju\01_111.jpg" id="論語集註大全-學而">
 <hanmun_text>
-<heading>論語集註大全卷之一/學而第一</heading>
+<heading id="論語-學而">論語集註大全 / 學而 </heading>
 <commentary commentator="朱熹" id="論語-學而-C01">此。爲書之首篇。故所記多務本之意。</commentary>
 <sub_commentary commentator="朱熹" id="論語-學而-C01-S01" name="朱子">朱子曰。此一篇。都是先說一箇根本。</sub_commentary>
 <sub_commentary commentator="胡氏" id="論語-學而-C01-S02" name="胡氏">○胡氏曰。此篇首取其切於學者記之。故以爲多務本之意。</sub_commentary>
@@ -34,7 +34,7 @@
 <document>
 <text_unit img="file:D:\jibju\01_112.jpg" id="論語集註大全-學而-01-01">
 <hanmun_text>
-<canon id="論語-學而-01-01">○子曰：「學而時習之，不亦說<annotation type="gloss">說悅同。</annotation> 乎？ </canon>
+<canon id="論語-學而-01-01">○子曰：「學而時習之，不亦說乎？<annotation type="gloss">說悅同。</annotation>  </canon>
 <commentary commentator="朱熹" id="論語-學而-01-01-C01">學之爲言。效也。人性皆善。而覺有先後。後覺者。必效先覺之所爲。乃可以明善而復其初也。</commentary>
 <sub_commentary commentator="朱熹" id="論語-學而-01-01-C01-S01" name="朱子">朱子曰。學之一字。實兼致知力行而言。問學之爲言效也。效字所包甚廣。曰。正是如此。博學審問謹思明辨篤行。皆學之事。</sub_commentary>
 <sub_commentary commentator="黃榦" id="論語-學而-01-01-C01-S02" name="勉齋黃氏">○勉齋黃氏曰。集註言學。而或問以知與能並言。何也。曰。言人之效學於人。有此二者。先覺之人。於天下之理。該洽貫通。而吾懵然未有所知也。於是日聽其議論。而向之未知者。始有所知矣。先覺之人。於天下之事。躬行實踐。而吾悵然未有所能也。於是日觀其作爲。而向之未能者始能矣。大抵讀書窮理。要當盡聖賢之意。備事物之情。非吾好爲是詳複也。理當然也。世之學者。意念苟且。思慮輕淺。得其一隅。便以爲足。則其爲疎率也。亦甚矣。學者觀於此。亦足以得養心窮理之要矣。曰。若是則學之爲言。固無所不學也。今集註於此。乃以爲人性皆善。必學而後能明善而復其初。何也。曰。學問之道。固多端矣。然其歸在於全其本性之善而已。明善。謂明天下之理。復其初。則復其本然之善也。於論語之首章。首擧是以爲言。其提綱挈領。而示人之意深矣。</sub_commentary>
@@ -68,7 +68,7 @@
 <document>
 <text_unit img="file:D:\jibju\01_115.jpg" id="論語集註大全-學而-01-02">
 <hanmun_text>
-<canon id="論語-學而-01-02">有朋自遠方來，不亦樂<annotation type="sound">樂音洛。</annotation> 乎？ </canon>
+<canon id="論語-學而-01-02">有朋自遠方來，不亦樂乎？<annotation type="sound">樂音洛。</annotation> </canon>
 <commentary commentator="朱熹" id="論語-學而-01-02-C01">朋。同類也。自遠方來。則近者可知。程子曰。以善及人。而信從者衆。故可樂。</commentary>
 <sub_commentary commentator="朱熹" id="論語-學而-01-02-C01-S01" name="朱子">朱子曰。理義人心所同然。非有我之得私也。吾獨得之。雖足以說矣。然告人而莫信。率人而莫從。是獨擅此理。而人不得與於吾心之所同也。如十人同食。一人獨飽。而九人不下咽。吾之所說雖深。亦曷能達於外邪。今吾之學。足以及人。而信從者又衆。則將皆有以得其心之所同然者。而吾之所得。不獨爲一己之私矣。吾之所知。彼亦知之。吾之所能。彼亦能之。則其懽欣宣暢。雖宮商相宣。律呂諧和。何足以方其樂哉。此學之中也。又曰。近者旣至。遠者畢來。以學於吾之所學。而求以復其初。凡吾之所得而悅於心者。彼亦將有以得而悅之。則可以見夫性者萬物之一原。信乎其立必俱立。成不獨成矣。○善不是自家獨有。人皆有之。我習而自得。未能及人。雖悅未樂。○問以善及人。而信從者衆。是樂其善之可以及人乎。是樂其信從者衆乎。曰。樂其信從者衆也。大抵私小底人。或有所見。則不肯告人。持以自多。君子存心廣大。己有所得。足以及人。若己能之。以敎諸人。而人不能。是多少可悶。今旣信從者。自遠而至。其衆如是。安得不樂。○信從者衆。足以驗己之有得。然己旣有得。何待人之信從。始爲可樂。須知己之有得。亦欲他人之皆得。然信從者但一二。亦未能愜吾之意。至於信從者衆。則豈不可樂。○問朋來之樂奈何。曰。惟以程子之言求之。然後見夫可樂之實耳。且其以善及人。而信從者衆之云。纔九字爾。而無一字之虛設也。非見之明而驗之實。其孰能與於此。</sub_commentary>
 <sub_commentary commentator="張栻" id="論語-學而-01-02-C01-S02" name="南軒張氏">○南軒張氏曰。有朋自遠方來。則己之善得以及人。而人之善有以資己。講習相資。其樂孰尙焉。樂比於說爲發舒也。</sub_commentary>
@@ -89,7 +89,7 @@
 <document>
 <text_unit img="file:D:\jibju\01_116.jpg" id="論語集註大全-學而-01-03">
 <hanmun_text>
-<canon id="論語-學而-01-03">人不知而不慍<annotation type="sound">慍紆問反。</annotation> ，不亦君子乎？」</canon>
+<canon id="論語-學而-01-03">人不知而不慍，不亦君子乎？」<annotation type="sound">慍紆問反。</annotation> </canon>
 <commentary commentator="朱熹" id="論語-學而-01-03-C01">慍。含怒意。君子。成德之名。尹氏<annotation type="biographical">名焞。字彦明。河南人</annotation>曰。學在己。知不知在人。何慍之有。</commentary>
 <sub_commentary commentator="朱熹" id="論語-學而-01-03-C01-S01" name="朱子">朱子曰。有朋自遠方來而樂者。天下之公也。人不知而慍者。一己之私也。以善及人。而信從者衆則樂。不己知則不慍。樂慍在物不在己。至公而不私也。</sub_commentary>
 <sub_commentary commentator="陳櫟" id="論語-學而-01-03-C01-S02" name="新安陳氏">○新安陳氏曰。己誠有所學。人之知不知。何加損於己。朱子云。爲學。是爲己當然之事。譬如喫飯。乃是要自家飽。旣飽。何必問外人知不知。蓋與人初不相關也。尹氏解此一節正意。故居先。</sub_commentary>
@@ -142,7 +142,7 @@
 <document>
 <text_unit img="file:D:\jibju\01_119.jpg" id="論語集註大全-學而-02-02">
 <hanmun_text>
-<canon id="論語-學而-02-02">君子務本，本立而道生。孝弟也者，其爲仁之本與 <annotation type="sound">平聲</annotation>！」</canon>
+<canon id="論語-學而-02-02">君子務本，本立而道生。孝弟也者，其爲仁之本與 ！」<annotation type="sound">平聲</annotation> </canon>
 <commentary commentator="朱熹" id="論語-學而-02-02-C01">務。專力也。</commentary>
 <sub_commentary commentator="輔廣" id="論語-學而-02-02-C01-S01" name="慶源輔氏">慶源輔氏曰。專用其力而爲之也。</sub_commentary>
 <commentary commentator="朱熹" id="論語-學而-02-02-C02">本。猶根也。仁者。愛之理。心之德也。爲仁。猶曰行仁。與者。疑辭。謙退不敢質言也。</commentary>
@@ -231,7 +231,7 @@
 <document>
 <text_unit img="file:D:\jibju\01_128.jpg" id="論語集註大全-學而-05-01">
 <hanmun_text>
-<canon id="論語-學而-05-01">○子曰：「道千乘之國，<annotation type="sound">道乘並去聲。</annotation> 敬事而信，節用而愛人，使民以時。」 </canon>
+<canon id="論語-學而-05-01">○子曰：「道千乘之國， 敬事而信，節用而愛人，使民以時。」 <annotation type="sound">道乘並去聲。</annotation> </canon>
 <commentary commentator="朱熹" id="論語-學而-05-01-C01">道。治也。</commentary>
 <sub_commentary commentator="" id="論語-學而-05-01-C01-S01">或問道之爲治。何也。朱子曰。道者。治之理也。以爲政之心言也。曷爲不言治。曰。治者。政敎法令之爲治之事也。夫子此言者心也。非事也。</sub_commentary>
 <commentary commentator="朱熹" id="論語-學而-05-01-C02">千乘。諸侯之國。其地可出兵車千乘者也。</commentary>
@@ -271,7 +271,7 @@
 <document>
 <text_unit img="file:D:\jibju\01_131.jpg" id="論語集註大全-學而-06-01">
 <hanmun_text>
-<canon id="論語-學而-06-01">○子曰：「弟子入則孝，出則弟，<annotation type="sound">弟子之弟上聲。則弟之弟去聲。</annotation> 謹而信，汎愛衆，而親仁。行有餘力，則以學文。」</canon>
+<canon id="論語-學而-06-01">○子曰：「弟子入則孝，出則弟， 謹而信，汎愛衆，而親仁。行有餘力，則以學文。」<annotation type="sound">弟子之弟上聲。則弟之弟去聲。</annotation> </canon>
 <commentary commentator="朱熹" id="論語-學而-06-01-C01">謹者。行<annotation type="sound">去聲下德行同</annotation>之有常也。信者。言之有實也。</commentary>
 <sub_commentary commentator="朱熹" id="論語-學而-06-01-C01-S01" name="朱子">朱子曰。謹信。言行相顧之謂。</sub_commentary>
 <commentary commentator="朱熹" id="論語-學而-06-01-C02">汎。廣也。衆。謂衆人。</commentary>
@@ -475,7 +475,7 @@
 <document>
 <text_unit img="file:D:\jibju\01_141.jpg" id="論語集註大全-學而-11-01">
 <hanmun_text>
-<canon id="論語-學而-11-01">○子曰：「父在，觀其志；父沒，觀其行<annotation type="sound">行去聲。</annotation>；三年無改於父之道，可謂孝矣。」</canon>
+<canon id="論語-學而-11-01">○子曰：「父在，觀其志；父沒，觀其行；三年無改於父之道，可謂孝矣。」<annotation type="sound">行去聲。</annotation> </canon>
 <commentary commentator="朱熹" id="論語-學而-11-01-C01">父在。子不得自專。而志則可知。父沒然後。其行可見。故觀此。足以知其人之善惡。</commentary>
 <sub_commentary commentator="陳櫟" id="論語-學而-11-01-C01-S01" name="新安陳氏">新安陳氏曰。此爲父子志趣事爲之不同者言之。志者行之未形者。行者志之已形者也。</sub_commentary>
 <commentary commentator="朱熹" id="論語-學而-11-01-C02">然又必能三年。無改於父之道。乃見其孝。不然則所行雖善。亦不得爲孝矣。</commentary>
@@ -582,7 +582,7 @@
 <document>
 <text_unit img="file:D:\jibju\01_149.jpg" id="論語集註大全-學而-14-01">
 <hanmun_text>
-<canon id="論語-學而-14-01">○子曰：「君子食無求飽，居無求安，敏於事而愼於言，就有道而正焉，可謂好<annotation type="sound">好去聲。</annotation>學也已。」</canon>
+<canon id="論語-學而-14-01">○子曰：「君子食無求飽，居無求安，敏於事而愼於言，就有道而正焉，可謂好學也已。」<annotation type="sound">好去聲。</annotation> </canon>
 <commentary commentator="朱熹" id="論語-學而-14-01-C01">不求安飽者。志有在而不暇及也。</commentary>
 <sub_commentary commentator="朱熹" id="論語-學而-14-01-C01-S01" name="朱子">朱子曰。食無求飽。居無求安。須是見得自家心裏。常有一箇合當緊底道理。此類自不暇及。</sub_commentary>
 <sub_commentary commentator="陳櫟" id="論語-學而-14-01-C01-S02" name="新安陳氏">○新安陳氏曰。志在學。自不暇及於求安飽。</sub_commentary>
