@@ -7,3 +7,4 @@ Semantic Database Design for East Asian Analects Commentaries<br/>
 [개념어보기](https://dh.aks.ac.kr/~kimseoyun/101/viewer.html)
 
 
+https://kyudb.snu.ac.kr/pf01/rendererImg.do?view_layout=&totalSearchString=&item_cd=GDS&book_cd=GC00613_00&vol_no=0001&page_no=0019&page_no2=&pageStat=s&mokNm=&add_page_no=&imgFileNm=&mokIdx=&docChangePage=&tbl_conts_seq=&do_idx=&text_mode=&tool=&ocr=&side=
